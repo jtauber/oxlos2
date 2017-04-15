@@ -49,7 +49,7 @@ def task(request, pk):
     leaders = [
         {"user": User.objects.get(pk=i["user"]), "count": i["total"]}
         for i in
-        ItemResponse.objects.all().values("user").annotate(total=Count("user")).order_by("-total")
+        ItemResponse.objects.filter(item__task=task).values("user").annotate(total=Count("user")).order_by("-total")
     ]
     return render(request, "task.html", {
         "task": task,
