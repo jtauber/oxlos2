@@ -201,3 +201,4 @@ AUTHENTICATION_BACKENDS = [
 ]
 
 THEME_CONTACT_EMAIL = "jtauber@jtauber.com"
+DEFAULT_FROM_EMAIL = "jtauber@jtauber.com"
