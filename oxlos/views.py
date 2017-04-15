@@ -6,7 +6,7 @@ from .models import Project, Task, Item
 
 
 def home(request):
-    if request.is_authenticated:
+    if request.user.is_authenticated:
         return redirect("dashboard")
     return render("homepage.html")
 
