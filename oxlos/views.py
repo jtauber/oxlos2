@@ -40,7 +40,7 @@ def item(request, pk):
     is_member = item.task.project.team.is_member(request.user)
     if request.method == "POST" and is_member:
         item.add_answer(by=request.user, data=request.POST.getlist("answers"))
-        return redirect("item", kwargs={"pk": task.item_set.order_by("?").first().pk})
+        return redirect("item", pk=task.item_set.order_by("?").first().pk)
     return render(request, "item.html", {
         "item": item,
         "is_member": is_member
@@ -50,4 +50,4 @@ def item(request, pk):
 @login_required
 def item_random(request, pk):
     task = get_object_or_404(Task, pk=pk)
-    return redirect("item", kwargs={"pk": task.item_set.order_by("?").first().pk})
+    return redirect("item", pk=task.item_set.order_by("?").first().pk)
