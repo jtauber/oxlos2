@@ -12,11 +12,14 @@ from pinax.teams.models import SimpleTeam
 class Project(models.Model):
     name = models.CharField(max_length=250)
     team = models.ForeignKey(SimpleTeam)
+    description = models.TextField()
+    description_html = models.TextField(blank=True, editable=False)
 
     def __str__(self):
         return self.name
 
     def save(self, *args, **kwargs):
+        self.description_html = markdown.markdown(self.description)
         if self.pk is None:
             self.team = SimpleTeam.objects.create(
                 member_access=SimpleTeam.MEMBER_ACCESS_OPEN,
