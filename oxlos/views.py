@@ -32,7 +32,8 @@ def task(request, pk):
 def item(request, pk):
     item = get_object_or_404(Item, pk=pk)
     if request.method == "POST":
-        pass  # @@@ handle creating answer and redirecting to next item
+        item.add_answer(by=request.user, data=request.POST.getlist("answers"))
+        return redirect("item", kwargs={"pk": task.item_set.order_by("?").first().pk})
     return render(request, "item.html", {"item": item})
 
 

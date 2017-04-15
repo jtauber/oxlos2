@@ -55,6 +55,12 @@ class Item(models.Model):
     def choices(self):
         return self.data["choices"]
 
+    def add_answer(self, by, answers):
+        return self.itemresponse_set.create(
+            user=by,
+            answer="|".join(answers)
+        )
+
 
 class ItemResponse(models.Model):
     item = models.ForeignKey(Item)
