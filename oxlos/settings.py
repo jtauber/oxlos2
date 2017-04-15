@@ -136,7 +136,10 @@ INSTALLED_APPS = [
     # external
     "account",
     "pinax.eventlog",
+    "pinax.invitations",
+    "pinax.teams",
     "pinax.webanalytics",
+    "reversion",
 
     # project
     "oxlos",

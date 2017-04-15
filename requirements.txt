@@ -4,3 +4,6 @@ pinax-eventlog==1.1.2
 
 Django==1.11
 pinax-theme-bootstrap==8.0.1
+
+pinax-teams==0.12.2
+reversion==0.2
