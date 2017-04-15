@@ -5,15 +5,15 @@
 {% block body_class %}item{% endblock %}
 
 {% block body %}
-    {% if item %}
     <div class="row">
         <ul class="breadcrumb">
-            <li><a href="{% url 'project' item.task.project.pk %}">{{ item.task.project.name }}</a></li>
-            <li><a href="{% url 'task' item.task.pk %}">{{ item.task.name }}</a></li>
+            <li><a href="{% url 'project' project.pk %}">{{ project.name }}</a></li>
+            <li><a href="{% url 'task' task.pk %}">{{ task.name }}</a></li>
         </ul>
         <h3>{{ item.question|safe }}</h3>
     </div>
 
+    {% if item %}
     <div class="row">
         <div class="col-md-8">
             <form method="post" action=".">

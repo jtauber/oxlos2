@@ -53,10 +53,14 @@ def item(request, pk):
             return redirect("item", pk=next_item.pk)
         else:
             return render(request, "item.html", {
+                "project": item.task.project,
+                "task": item.task,
                 "item": next_item,
                 "is_member": is_member
             })
     return render(request, "item.html", {
+        "project": item.task.project,
+        "task": item.task,
         "item": item,
         "is_member": is_member
     })
@@ -69,6 +73,8 @@ def item_random(request, pk):
     if next_item:
         return redirect("item", pk=next_item.pk)
     return render(request, "item.html", {
+        "project": task.project,
+        "task": task,
         "item": next_item,
         "is_member": task.project.team.is_member(request.user)
     })
