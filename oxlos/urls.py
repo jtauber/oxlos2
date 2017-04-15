@@ -10,7 +10,8 @@ from .views import (
     item,
     item_random,
     project,
-    task
+    task,
+    join_project
 )
 
 urlpatterns = [
@@ -20,6 +21,7 @@ urlpatterns = [
     url(r"^account/", include("account.urls")),
     url(r"^teams/", include("pinax.teams.urls")),
     url(r"^projects/(?P<pk>\d+)/$", project, name="project"),
+    url(r"^projects/(?P<pk>\d+)/join/$", join_project, name="join_project"),
     url(r"^tasks/(?P<pk>\d+)/$", task, name="task"),
     url(r"^tasks/(?P<pk>\d+)/random-item/$", item_random, name="item_random"),
     url(r"^items/(?P<pk>\d+)/$", item, name="item"),

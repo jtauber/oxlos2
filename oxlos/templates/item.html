@@ -5,5 +5,30 @@
 {% block body_class %}item{% endblock %}
 
 {% block body %}
-    {{ item }}
+    <h1>{{ item.task.project }}</h1>
+    <h2>{{ item.task }}</h2>
+
+    <h3>{{ item.question|safe }}</h3>
+    <form method="post" action=".">
+        {% csrf_token %}
+        <div class="choices">
+            {% for choice in item.choices %}
+                <div class="checkbox">
+                    <label>
+                        <input type="checkbox" name="answers" value="{{ choice }}" />
+                        {{ choice }}
+                    </label>
+                </div>
+            {% endfor %}
+        </div>
+        {% if is_member %}<button class="btn btn-primary">Submit</button>{% endif %}
+    </form>
+
+    {% if not is_member %}
+        Join the <strong>{{ item.task.project }}</strong> project if you'd like to answer.
+        <form method="post" action="{% url "join_project" item.task.project.pk %}?next={{ request.path }}">
+            {% csrf_token %}
+            <button class="btn btn-primary">Join {{ item.task.project }}</button>
+        </form>
+    {% endif %}
 {% endblock %}

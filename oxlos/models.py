@@ -52,7 +52,9 @@ class Item(models.Model):
 
     @property
     def question(self):
-        return self.task.question_template.format(**self.data["question"])
+        return markdown.markdown(
+            self.task.question_template.format(**self.data["question"])
+        )
 
     @property
     def choices(self):

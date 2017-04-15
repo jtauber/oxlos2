@@ -1,3 +1,4 @@
+from django.core.urlresolvers import reverse
 from django.shortcuts import redirect, render, get_object_or_404
 
 from account.decorators import login_required
@@ -26,6 +27,13 @@ def project(request, pk):
 
 
 @login_required
+def join_project(request, pk):
+    project = get_object_or_404(Project, pk=pk)
+    project.team.add_member(request.user, by=request.user)
+    return redirect(request.GET.get("next", reverse("project", args=[pk])))
+
+
+@login_required
 def task(request, pk):
     task = get_object_or_404(Task, pk=pk)
     return render(request, "task.html", {
@@ -39,8 +47,8 @@ def item(request, pk):
     item = get_object_or_404(Item, pk=pk)
     is_member = item.task.project.team.is_member(request.user)
     if request.method == "POST" and is_member:
-        item.add_answer(by=request.user, data=request.POST.getlist("answers"))
-        return redirect("item", pk=task.item_set.order_by("?").first().pk)
+        item.add_answer(by=request.user, answers=request.POST.getlist("answers"))
+        return redirect("item", pk=item.task.item_set.order_by("?").first().pk)
     return render(request, "item.html", {
         "item": item,
         "is_member": is_member
