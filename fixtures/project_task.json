@@ -19,7 +19,7 @@
         "description_html": "<p>As part of the project to develop a morphological tagging of the Swete LXX and to improve his database of verb stems, James Tauber is comparing the output of his morphological analysis software to what CATSS project did. He has identified numerous places where the CATSS data and his automated analysis differ and we need help identifying what the correct analysis in each case.</p>\n<p>You will get credit as a contributor to the morphological tagged LXX and morphological lexicon and, as this site evolves, earn <strong>Morphologist</strong> and <strong>Septuagint</strong> points.</p>",
         "instructions": "Select zero or more parse codes appropriate for the form given. If you are unsure or don't think any of the choices are valid, don't select anything. You can select as many of the choices as you like, however, if you think they are valid analyses of the form.\r\n\r\nFor tense/aspect, X = perfect, Y = pluperfect. For mood/type, I = indicative, D = imperative, N = infinitive. Other codes are as you would expect.",
         "instructions_html": "<p>Select zero or more parse codes appropriate for the form given. If you are unsure or don't think any of the choices are valid, don't select anything. You can select as many of the choices as you like, however, if you think they are valid analyses of the form.</p>\n<p>For tense/aspect, X = perfect, Y = pluperfect. For mood/type, I = indicative, D = imperative, N = infinitive. Other codes are as you would expect.</p>",
-        "question_template": "What are the valid analyses of the {lemma} form **{form}}**?"
+        "question_template": "What are the valid analyses of the {lemma} form **{form}**?"
     }
 }
 ]
