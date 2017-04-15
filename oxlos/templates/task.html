@@ -18,7 +18,7 @@
     </div>
     <div class="col-md-4">
       {% if is_member %}
-        <a class="btn btn-primary" href="{% url 'item_random' task.pk %}">Work on Task</a>
+        <a class="btn btn-primary btn-lg" href="{% url 'item_random' task.pk %}">Work on this task</a>
       {% else %}
         <p>Join the <strong>{{ task.project }}</strong> project if you'd like to participate in this task.</p>
         <form method="post" action="{% url 'join_project' task.project.pk %}?next={{ request.path }}">
@@ -27,10 +27,12 @@
         </form>
       {% endif %}
       <div class="stats">
-          There are {{ items_count }} items in this task. You have answered
-          {{ your_answers_count }}. In total, {{ participant_count }} people
-          have participated in this task so far, answering {{ total_questions_answered }}
-          questions covering a total of {{ distinct_items_answers }} items.
+          <p>There are <strong>{{ items_count }}</strong> items in this task and
+          you have answered <strong>{{ your_answers_count }}</strong> of them.
+
+          <p>In total, <strong>{{ participant_count }}</strong> people have participated in this task so far,
+          answering <strong>{{ total_questions_answered }}</strong> questions
+          covering a total of <strong>{{ distinct_items_answers }}</strong> items.
       </div>
     </div>
   </div>
