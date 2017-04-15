@@ -191,3 +191,5 @@ ACCOUNT_USE_AUTH_AUTHENTICATE = True
 AUTHENTICATION_BACKENDS = [
     "account.auth_backends.UsernameAuthenticationBackend",
 ]
+
+THEME_CONTACT_EMAIL = "jtauber@jtauber.com"
