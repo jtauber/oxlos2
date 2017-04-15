@@ -29,7 +29,7 @@ class Project(models.Model):
 
 
 class Task(models.Model):
-    project = models.ForeignKey(Project)
+    project = models.ForeignKey(Project, related_name="tasks")
     name = models.CharField(max_length=250)
     description = models.TextField()
     description_html = models.TextField(blank=True, editable=False)

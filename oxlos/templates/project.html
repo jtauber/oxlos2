@@ -5,5 +5,11 @@
 {% block body_class %}project{% endblock %}
 
 {% block body %}
-    {{ project }}
+  <h1>{{ project.name }}</h1>
+  <p class="lead">{{ project.description_html|safe }}</p>
+
+  {% for task in project.tasks.all %}
+    <h3><a href="{% url 'task' task.pk %}">{{ task.name }}</a></h3>
+    <p>{{ task.description_html|safe }}</p>
+  {% endfor %}
 {% endblock %}

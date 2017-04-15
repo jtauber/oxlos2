@@ -5,5 +5,12 @@
 {% block body_class %}task{% endblock %}
 
 {% block body %}
-    {{ task }}
+  <ul class="breadcrumb">
+    <li><a href="{% url 'project' task.project.pk %}">{{ task.project.name }}</a></li>
+  </ul>
+  <h1>{{ task.name }}</h1>
+  <p>{{ task.description_html|safe }}</p>
+
+  <h3>Instructions</h3>
+  <p>{{ task.instructions_html|safe }}</p>
 {% endblock %}

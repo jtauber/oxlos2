@@ -7,7 +7,9 @@
 {% block body_class %}dashboard{% endblock %}
 
 {% block body %}
-    {% for project in projects %}
-        {{ project }} {% if project|is_member:request.user %}<i class="fa fa-check"></i>{% endif %}
-    {% endfor %}
+  <h1>Projects</h1>
+  {% for project in projects %}
+    <h2><a href="{% url 'project' project.pk %}">{{ project.name }}</a> {% if project|is_member:request.user %}<i class="fa fa-check"></i>{% endif %}</h2>
+    <p>{{ project.description_html|safe }}</p>
+  {% endfor %}
 {% endblock %}
