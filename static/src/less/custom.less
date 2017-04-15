@@ -1,6 +1,17 @@
 body {
   padding-top: 50px;
   position: relative;
+  &.home {
+    padding-top: 0;
+    .jumbotron {
+      background: @brand-primary;
+      color: white;
+      margin: 0;
+    }
+    hr {
+      border: none;
+    }
+  }
 }
 section {
   padding: 20px 0px;
@@ -14,16 +25,7 @@ footer {
 p.login-signup {
     margin-top: 20px;
 }
-
-.feature-columns {
-    .make-row();
-
-    > div {
-        i.fa {
-            margin-bottom: 0.2em;
-        }
-        .make-sm-column(4);
-        .text-center;
-        margin: 2em 0;
-    }
+.navbar-default .navbar-brand {
+  color: @brand-primary;
+  font-weight: bold;
 }
