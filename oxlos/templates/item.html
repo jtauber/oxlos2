@@ -5,6 +5,7 @@
 {% block body_class %}item{% endblock %}
 
 {% block body %}
+    {% if item %}
     <div class="row">
         <ul class="breadcrumb">
             <li><a href="{% url 'project' item.task.project.pk %}">{{ item.task.project.name }}</a></li>
@@ -42,4 +43,7 @@
             {{ item.task.instructions_html|safe }}
         </div>
     </div>
+    {% else %}
+        No more items
+    {% endif %}
 {% endblock %}

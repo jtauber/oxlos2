@@ -40,6 +40,9 @@ class Task(models.Model):
     def __str__(self):
         return self.name
 
+    def next_item(self, user):
+        return self.item_set.exclude(itemresponse__user=user).order_by("?").first()
+
     def save(self, *args, **kwargs):
         self.description_html = markdown.markdown(self.description)
         self.instructions_html = markdown.markdown(self.instructions)
