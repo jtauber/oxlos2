@@ -5,30 +5,41 @@
 {% block body_class %}item{% endblock %}
 
 {% block body %}
-    <h1>{{ item.task.project }}</h1>
-    <h2>{{ item.task }}</h2>
+    <div class="row">
+        <ul class="breadcrumb">
+            <li><a href="{% url 'project' item.task.project.pk %}">{{ item.task.project.name }}</a></li>
+            <li><a href="{% url 'task' item.task.pk %}">{{ item.task.name }}</a></li>
+        </ul>
+        <h3>{{ item.question|safe }}</h3>
+    </div>
 
-    <h3>{{ item.question|safe }}</h3>
-    <form method="post" action=".">
-        {% csrf_token %}
-        <div class="choices">
-            {% for choice in item.choices %}
-                <div class="checkbox">
-                    <label>
-                        <input type="checkbox" name="answers" value="{{ choice }}" />
-                        {{ choice }}
-                    </label>
+    <div class="row">
+        <div class="col-md-8">
+            <form method="post" action=".">
+                {% csrf_token %}
+                <div class="choices">
+                    {% for choice in item.choices %}
+                        <div class="checkbox">
+                            <label>
+                                <input type="checkbox" name="answers" value="{{ choice }}" />
+                                {{ choice }}
+                            </label>
+                        </div>
+                    {% endfor %}
                 </div>
-            {% endfor %}
-        </div>
-        {% if is_member %}<button class="btn btn-primary">Submit</button>{% endif %}
-    </form>
+                {% if is_member %}<button class="btn btn-primary">Submit</button>{% endif %}
+            </form>
 
-    {% if not is_member %}
-        Join the <strong>{{ item.task.project }}</strong> project if you'd like to answer.
-        <form method="post" action="{% url "join_project" item.task.project.pk %}?next={{ request.path }}">
-            {% csrf_token %}
-            <button class="btn btn-primary">Join {{ item.task.project }}</button>
-        </form>
-    {% endif %}
+            {% if not is_member %}
+                <p>Join the <strong>{{ item.task.project }}</strong> project if you'd like to answer.</p>
+                <form method="post" action="{% url "join_project" item.task.project.pk %}?next={{ request.path }}">
+                    {% csrf_token %}
+                    <button class="btn btn-primary">Join {{ item.task.project }}</button>
+                </form>
+            {% endif %}
+        </div>
+        <div class="col-md-4">
+            {{ item.task.instructions_html|safe }}
+        </div>
+    </div>
 {% endblock %}
