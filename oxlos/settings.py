@@ -149,7 +149,7 @@ INSTALLED_APPS = [
 
 PINAX_WEBANALYTICS_SETTINGS = {
     "google": {
-        2: "",
+        2: "UA-175899-12",
     },
     "gauges": {
         2: "58f1c20dc88d9009ac0271e1",
