@@ -15,6 +15,7 @@ DATABASES = {
 
 ALLOWED_HOSTS = [
     "localhost",
+    "oxlos.org",
     os.environ.get("GONDOR_INSTANCE_DOMAIN")
 ]
 
@@ -145,6 +146,15 @@ INSTALLED_APPS = [
     # project
     "oxlos",
 ]
+
+PINAX_WEBANALYTICS_SETTINGS = {
+    "google": {
+        2: "",
+    },
+    "gauges": {
+        2: "58f1c20dc88d9009ac0271e1",
+    }
+}
 
 # A sample logging configuration. The only tangible logging
 # performed by this configuration is to send an email to
