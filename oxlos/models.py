@@ -51,6 +51,10 @@ class Item(models.Model):
     def question(self):
         return self.task.question_template.format(**self.data["question"])
 
+    @property
+    def choices(self):
+        return self.data["choices"]
+
 
 class ItemResponse(models.Model):
     item = models.ForeignKey(Item)
