@@ -34,6 +34,17 @@
           answering <strong>{{ total_questions_answered }}</strong> question{{ total_questions_answered|pluralize }}
           covering a total of <strong>{{ distinct_items_answers }}</strong> item{{ distinct_items_answers|pluralize }}.
       </div>
+      <div class="leaderboard panel panel-default">
+          <div class="panel-heading"><h3 class="panel-title">Leaderboard</h3></div>
+          <div class="list-group">
+              {% for leader in leaders %}
+                <div class="list-group-item">
+                    <span class="badge">{{ leader.count }}</span>
+                    {{ leader.user }}
+                </div>
+              {% endfor %}
+          </div>
+      </div>
     </div>
   </div>
 {% endblock %}

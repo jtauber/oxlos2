@@ -1,9 +1,12 @@
+from django.db.models import Count
 from django.core.urlresolvers import reverse
 from django.shortcuts import redirect, render, get_object_or_404
 
+from django.contrib.auth.models import User
+
 from account.decorators import login_required
 
-from .models import Project, Task, Item
+from .models import Project, Task, Item, ItemResponse
 
 
 def home(request):
@@ -36,6 +39,11 @@ def join_project(request, pk):
 @login_required
 def task(request, pk):
     task = get_object_or_404(Task, pk=pk)
+    leaders = [
+        {"user": User.objects.get(pk=i["user"]), "count": i["total"]}
+        for i in
+        ItemResponse.objects.all().values("user").annotate(total=Count("user")).order_by("-total")
+    ]
     return render(request, "task.html", {
         "task": task,
         "items_count": task.items_count(),
@@ -43,6 +51,7 @@ def task(request, pk):
         "participant_count": task.participant_count(),
         "total_questions_answered": task.total_questions_answered(),
         "distinct_items_answers": task.distinct_items_answers(),
+        "leaders": leaders,
         "is_member": task.project.team.is_member(request.user)
     })
 
