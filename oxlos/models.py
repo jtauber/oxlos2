@@ -30,12 +30,15 @@ class Task(models.Model):
     name = models.CharField(max_length=250)
     description = models.TextField()
     description_html = models.TextField(blank=True, editable=False)
+    instructions = models.TextField()
+    instructions_html = models.TextField(blank=True, editable=False)
 
     def __str__(self):
         return self.name
 
     def save(self, *args, **kwargs):
         self.description_html = markdown.markdown(self.description)
+        self.instructions_html = markdown.markdown(self.instructions)
         return super(Task, self).save(*args, **kwargs)
 
 
