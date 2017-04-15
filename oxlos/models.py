@@ -42,4 +42,4 @@ class ItemResponse(models.Model):
     item = models.ForeignKey(Item)
     user = models.ForeignKey(User)
     created_at = models.DateTimeField(default=timezone.now)
-    answer = models.CharField(max_length=1, choices=[("A", "A"), ("B", "B")])
+    answer = models.TextField()
