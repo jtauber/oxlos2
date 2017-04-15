@@ -32,6 +32,7 @@ class Task(models.Model):
     description_html = models.TextField(blank=True, editable=False)
     instructions = models.TextField()
     instructions_html = models.TextField(blank=True, editable=False)
+    question_template = models.TextField()
 
     def __str__(self):
         return self.name
@@ -45,6 +46,10 @@ class Task(models.Model):
 class Item(models.Model):
     task = models.ForeignKey(Task)
     data = JSONField()
+
+    @property
+    def question(self):
+        return self.task.question_template.format(self.data["question"])
 
 
 class ItemResponse(models.Model):
