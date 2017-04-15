@@ -185,6 +185,15 @@ LOGGING = {
     }
 }
 
+if "SENTRY_DSN" in os.environ:
+    LOGGING["handlers"]["sentry"] = {
+        "level": "ERROR",
+        "class": "raven.handlers.logging.SentryHandler",
+        "dsn": os.environ["SENTRY_DSN"]
+    }
+    LOGGING["loggers"][""].setdefault("handlers", []).append("sentry")
+
+
 FIXTURE_DIRS = [
     os.path.join(PROJECT_ROOT, "fixtures"),
 ]
