@@ -1,0 +1,82 @@
+[
+{
+    "model": "oxlos.item",
+    "pk": 1,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f30\\u03c0\\u03ac\\u03c4\\u03c9\",\"form\":\"\\u03b5\\u1f30\\u03c0\\u03ac\\u03c4\\u03c9\"},\"choices\":[\"AAD.2P\",\"AAD.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 2,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u03bb\\u03ad\\u03b3\\u03c9\",\"form\":\"\\u1f10\\u03ba\\u03bb\\u03ad\\u03be\\u03b1\\u03c3\\u03b8\\u03b5\"},\"choices\":[\"AAD.2P\",\"AMD.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 3,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03bf\\u03c1\\u03b5\\u03cd\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03c0\\u03bf\\u03c1\\u03b5\\u03cd\\u03b8\\u03b7\\u03c4\\u03b5\"},\"choices\":[\"AAD.2P\",\"APD.2P\",\"APS.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 4,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u03c3\\u03c4\\u03c1\\u03ad\\u03c6\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03bf\\u03c3\\u03c4\\u03c1\\u03ac\\u03c6\\u03b7\\u03c4\\u03b5\"},\"choices\":[\"AAD.2P\",\"APD.2P\",\"APS.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 5,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03bd\\u03b1++\\u1f35\\u03c3\\u03c4\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u1f00\\u03bd\\u03b1\\u03c3\\u03c4\\u1fc6\\u03c4\\u03b5\"},\"choices\":[\"AAD.2P\",\"APS.2P\",\"AAS.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 6,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bb\\u03b1\\u03bb\\u03ad\\u03c9\",\"form\":\"\\u03bb\\u03ac\\u03bb\\u03b7\\u03c3\\u03bf\\u03bd\"},\"choices\":[\"AAD.2P\",\"FAP.NSN\",\"FAP.ASN\",\"AAD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 7,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u1f04\\u03b3\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03ac\\u03b3\\u03b5\\u03c4\\u03b5\"},\"choices\":[\"AAD.2P\",\"PAI.2P\",\"PAD.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 8,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03b9++\\u1f41\\u03c1\\u03ac\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03af\\u03b4\\u03b5\\u03c4\\u03b5\"},\"choices\":[\"AAD.2S\",\"AAD.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 9,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u03b2\\u03ac\\u03bb\\u03bb\\u03c9\",\"form\":\"\\u1f10\\u03ba\\u03b2\\u03ac\\u03bb\\u03b5\\u03c4\\u03b5\"},\"choices\":[\"AAD.2S\",\"AAD.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 10,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u03ba\\u03b1\\u03af\\u03c9\",\"form\":\"\\u03ba\\u03b1\\u03c4\\u03b1\\u03ba\\u03b1\\u1fe6\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAD.2S\",\"AAN\"]}"
+    }
+}
+]
