@@ -2,9 +2,11 @@ from django.contrib import admin
 
 from .models import Project, Task, Item, ItemResponse
 
+
 @admin.register(Project)
 class ProjectAdmin(admin.ModelAdmin):
     list_display = ["name"]
+    exclude = ["team"]
 
 
 @admin.register(Task)
