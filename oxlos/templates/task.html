@@ -27,12 +27,12 @@
         </form>
       {% endif %}
       <div class="stats">
-          <p>There are <strong>{{ items_count }}</strong> items in this task and
+          <p>There are <strong>{{ items_count }}</strong> item{{ items_count|pluralize }} in this task and
           you have answered <strong>{{ your_answers_count }}</strong> of them.
 
-          <p>In total, <strong>{{ participant_count }}</strong> people have participated in this task so far,
-          answering <strong>{{ total_questions_answered }}</strong> questions
-          covering a total of <strong>{{ distinct_items_answers }}</strong> items.
+          <p>In total, <strong>{{ participant_count }}</strong> {{ participant_count|pluralize:"person,people" }} {{ participant_count|pluralize:"has,have" }} participated in this task so far,
+          answering <strong>{{ total_questions_answered }}</strong> question{{ total_questions_answered|pluralize }}
+          covering a total of <strong>{{ distinct_items_answers }}</strong> item{{ distinct_items_answers|pluralize }}.
       </div>
     </div>
   </div>
