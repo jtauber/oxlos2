@@ -26,7 +26,10 @@
                         </div>
                     {% endfor %}
                 </div>
-                {% if is_member %}<button class="btn btn-primary">Submit</button>{% endif %}
+                {% if is_member %}
+                    <button class="btn btn-primary">Submit</button>
+                    <a class="btn btn-default" href="{% url 'item_random' item.task.pk }">Skip</a>
+                {% endif %}
             </form>
 
             {% if not is_member %}
