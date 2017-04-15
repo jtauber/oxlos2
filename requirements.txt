@@ -8,3 +8,8 @@ pinax-theme-bootstrap==8.0.1
 pinax-teams==0.12.2
 reversion==0.2
 Markdown==2.6.8
+
+dj-database-url==0.4.2
+gunicorn==19.7.1
+psycopg2==2.7.1
+whitenoise==3.3.0
