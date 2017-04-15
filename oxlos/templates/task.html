@@ -26,6 +26,12 @@
           <button class="btn btn-primary">Join {{ task.project.name }}</button>
         </form>
       {% endif %}
+      <div class="stats">
+          There are {{ items_count }} items in this task. You have answered
+          {{ your_answers_count }}. In total, {{ participant_count }} people
+          have participated in this task so far, answering {{ total_questions_answered }}
+          questions covering a total of {{ distinct_items_answers }} items.
+      </div>
     </div>
   </div>
 {% endblock %}

@@ -38,6 +38,11 @@ def task(request, pk):
     task = get_object_or_404(Task, pk=pk)
     return render(request, "task.html", {
         "task": task,
+        "items_count": task.items_count(),
+        "your_answers_count": task.user_answers_count(request.user),
+        "participant_count": task.participant_count(),
+        "total_questions_answered": task.total_questions_answered(),
+        "distinct_items_answers": task.distinct_items_answers(),
         "is_member": task.project.team.is_member(request.user)
     })
 

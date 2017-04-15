@@ -43,6 +43,29 @@ class Task(models.Model):
     def next_item(self, user):
         return self.item_set.exclude(itemresponse__user=user).order_by("?").first()
 
+    """
+    <div class="stats">
+        There are {{ items_count }} items in this task. You have answered
+        {{ you_answer_count }}. In total, {{ participant_count }} people
+        have participated in this task so far, answering {{ total_questions_answered }}
+        questions covering a total of {{ distinct_items_answers }} items.
+    </div>
+    """
+    def items_count(self):
+        return self.item_set.count()
+
+    def user_answers_count(self, user):
+        return user.itemresponse_set.filter(item__task=self).count()
+
+    def participant_count(self):
+        return self.item_set.exclude(itemresponse__isnull=True).values("itemresponse__user").distinct().count()
+
+    def total_questions_answered(self):
+        return self.item_set.filter(itemresponse__isnull=False).count()
+
+    def distinct_items_answers(self):
+        return self.item_set.filter(itemresponse__isnull=False).distinct().count()
+
     def save(self, *args, **kwargs):
         self.description_html = markdown.markdown(self.description)
         self.instructions_html = markdown.markdown(self.instructions)
