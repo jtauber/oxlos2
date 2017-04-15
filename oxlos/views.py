@@ -24,9 +24,15 @@ def dashboard(request):
 @login_required
 def project(request, pk):
     project = get_object_or_404(Project, pk=pk)
+    leaders = [
+        {"user": User.objects.get(pk=i["user"]), "count": i["total"]}
+        for i in
+        ItemResponse.objects.filter(item__task__project=project).values("user").annotate(total=Count("user")).order_by("-total")
+    ]
     return render(request, "project.html", {
         "project": project,
-        "is_member": project.team.is_member(request.user)
+        "is_member": project.team.is_member(request.user),
+        "leaders": leaders,
     })
 
 

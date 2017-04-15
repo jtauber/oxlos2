@@ -11,17 +11,39 @@
     {{ project.name }}
     {% if project|is_member:request.user %}<i class="fa fa-check"></i>{% endif %}
   </h1>
-  <p class="lead">{{ project.description_html|safe }}</p>
+  <div class="row">
+    <div class="col-md-8">
+      <p class="lead">{{ project.description_html|safe }}</p>
 
-  {% if not is_member %}
-    <form method="post" action="{% url 'join_project' project.pk %}?next={{ request.path }}">
-      {% csrf_token %}
-      <button class="btn btn-primary">Join {{ project.name }}</button>
-    </form>
-  {% endif %}
-
-  {% for task in project.tasks.all %}
-    <h3><a href="{% url 'task' task.pk %}">{{ task.name }}</a></h3>
-    <p>{{ task.description_html|safe }}</p>
-  {% endfor %}
+      {% for task in project.tasks.all %}
+        <h3><a href="{% url 'task' task.pk %}">{{ task.name }}</a></h3>
+        <p>{{ task.description_html|safe }}</p>
+      {% endfor %}
+    </div>
+    <div class="col-md-4">
+      {% if not is_member %}
+        <p>Join the <strong>{{ project }}</strong> project if you'd like to participate in any of these tasks.</p>
+        <form method="post" action="{% url 'join_project' project.pk %}?next={{ request.path }}">
+          {% csrf_token %}
+          <button class="btn btn-primary">Join {{ project.name }}</button>
+        </form>
+      {% endif %}
+      <h3>Members</h3>
+      {% for membership in  project.team.members %}
+        {% if not forloop.first %}&bull;{% endif %}
+        {{ membership.user }}
+      {% endfor %}
+      <div class="leaderboard panel panel-default">
+        <div class="panel-heading"><h3 class="panel-title">Leaderboard</h3></div>
+        <div class="list-group">
+          {% for leader in leaders %}
+            <div class="list-group-item">
+              <span class="badge">{{ leader.count }}</span>
+              {{ leader.user }}
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
 {% endblock %}
