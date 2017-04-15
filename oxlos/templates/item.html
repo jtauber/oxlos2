@@ -42,6 +42,9 @@
         </div>
         <div class="col-md-4">
             {{ item.task.instructions_html|safe }}
+            <div class="stats">
+                You have answered <strong>{{ answer_count }}</strong> question{{ answer_count|pluralize:"s" }}.
+            </div>
         </div>
     </div>
     {% else %}

@@ -61,13 +61,15 @@ def item(request, pk):
                 "project": item.task.project,
                 "task": item.task,
                 "item": next_item,
-                "is_member": is_member
+                "is_member": is_member,
+                "answer_count": item.task.user_answers_count(request.user)
             })
     return render(request, "item.html", {
         "project": item.task.project,
         "task": item.task,
         "item": item,
-        "is_member": is_member
+        "is_member": is_member,
+        "answer_count": item.task.user_answers_count(request.user)
     })
 
 
