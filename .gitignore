@@ -1,0 +1,4 @@
+*.pyc
+node_modules/
+dev.db
+site_media/
