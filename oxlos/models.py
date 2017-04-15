@@ -3,6 +3,8 @@ from django.utils import timezone
 
 from django.contrib.auth.models import User
 
+import markdown
+
 from jsonfield import JSONField
 from pinax.teams.models import SimpleTeam
 
@@ -31,6 +33,10 @@ class Task(models.Model):
 
     def __str__(self):
         return self.name
+
+    def save(self, *args, **kwargs):
+        self.description_html = markdown.markdown(self.description)
+        return super(Task, self).save(*args, **kwargs)
 
 
 class Item(models.Model):
