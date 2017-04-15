@@ -8,7 +8,7 @@ from .models import Project, Task, Item
 def home(request):
     if request.user.is_authenticated:
         return redirect("dashboard")
-    return render("homepage.html")
+    return render(request, "homepage.html")
 
 
 @login_required
