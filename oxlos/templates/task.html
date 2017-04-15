@@ -1,16 +1,33 @@
 {% extends "site_base.html" %}
 
-{% block head_title %}οχλος{% endblock %}
+{% block head_title_base %}οχλος: {{ task.name }}{% endblock %}
 
 {% block body_class %}task{% endblock %}
 
 {% block body %}
-  <ul class="breadcrumb">
-    <li><a href="{% url 'project' task.project.pk %}">{{ task.project.name }}</a></li>
-  </ul>
-  <h1>{{ task.name }}</h1>
-  <p>{{ task.description_html|safe }}</p>
+  <div class="row">
+    <ul class="breadcrumb">
+      <li><a href="{% url 'project' task.project.pk %}">{{ task.project.name }}</a></li>
+    </ul>
+    <h1>{{ task.name }}</h1>
+  </div>
+  <div class="row">
+    <div class="col-md-8">
+      <p>{{ task.description_html|safe }}</p>
 
-  <h3>Instructions</h3>
-  <p>{{ task.instructions_html|safe }}</p>
+      <h3>Instructions</h3>
+      <p>{{ task.instructions_html|safe }}</p>
+    </div>
+    <div class="col-md-4">
+      {% if is_member %}
+        <a class="btn btn-primary" href="{% url 'item_random' task.pk %}">Work on Task</a>
+      {% else %}
+        <p>Join the <strong>{{ task.project }}</strong> project if you'd like to participate in this task.</p>
+        <form method="post" action="{% url 'join_project' task.project.pk %}?next={{ request.path }}">
+          {% csrf_token %}
+          <button class="btn btn-primary">Join {{ task.project.name }}</button>
+        </form>
+      {% endif %}
+    </div>
+  </div>
 {% endblock %}

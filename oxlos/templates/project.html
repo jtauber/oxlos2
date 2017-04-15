@@ -1,12 +1,24 @@
 {% extends "site_base.html" %}
 
-{% block head_title %}οχλος{% endblock %}
+{% load oxlos_tags %}
+
+{% block head_title_base %}οχλος: {{ project.name }}{% endblock %}
 
 {% block body_class %}project{% endblock %}
 
 {% block body %}
-  <h1>{{ project.name }}</h1>
+  <h1>
+    {{ project.name }}
+    {% if project|is_member:request.user %}<i class="fa fa-check"></i>{% endif %}
+  </h1>
   <p class="lead">{{ project.description_html|safe }}</p>
+
+  {% if not is_member %}
+    <form method="post" action="{% url 'join_project' project.pk %}?next={{ request.path }}">
+      {% csrf_token %}
+      <button class="btn btn-primary">Join {{ project.name }}</button>
+    </form>
+  {% endif %}
 
   {% for task in project.tasks.all %}
     <h3><a href="{% url 'task' task.pk %}">{{ task.name }}</a></h3>
