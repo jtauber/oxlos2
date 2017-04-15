@@ -5,13 +5,11 @@
 {% block body_class %}item{% endblock %}
 
 {% block body %}
-    <div class="row">
-        <ul class="breadcrumb">
-            <li><a href="{% url 'project' project.pk %}">{{ project.name }}</a></li>
-            <li><a href="{% url 'task' task.pk %}">{{ task.name }}</a></li>
-        </ul>
-        <h3>{{ item.question|safe }}</h3>
-    </div>
+    <ul class="breadcrumb">
+        <li><a href="{% url 'project' project.pk %}">{{ project.name }}</a></li>
+        <li><a href="{% url 'task' task.pk %}">{{ task.name }}</a></li>
+    </ul>
+    <h3>{{ item.question|safe }}</h3>
 
     {% if item %}
     <div class="row">
