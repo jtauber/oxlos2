@@ -1,0 +1,4690 @@
+[
+{
+    "model": "oxlos.item",
+    "pk": 1,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f30\\u03c0\\u03ac\\u03c4\\u03c9\",\"form\":\"\\u03b5\\u1f30\\u03c0\\u03ac\\u03c4\\u03c9\"},\"choices\":[\"AAD.2P\",\"AAD.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 2,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u03bb\\u03ad\\u03b3\\u03c9\",\"form\":\"\\u1f10\\u03ba\\u03bb\\u03ad\\u03be\\u03b1\\u03c3\\u03b8\\u03b5\"},\"choices\":[\"AAD.2P\",\"AMD.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 3,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03bf\\u03c1\\u03b5\\u03cd\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03c0\\u03bf\\u03c1\\u03b5\\u03cd\\u03b8\\u03b7\\u03c4\\u03b5\"},\"choices\":[\"AAD.2P\",\"APD.2P\",\"APS.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 4,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u03c3\\u03c4\\u03c1\\u03ad\\u03c6\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03bf\\u03c3\\u03c4\\u03c1\\u03ac\\u03c6\\u03b7\\u03c4\\u03b5\"},\"choices\":[\"AAD.2P\",\"APD.2P\",\"APS.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 5,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03bd\\u03b1++\\u1f35\\u03c3\\u03c4\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u1f00\\u03bd\\u03b1\\u03c3\\u03c4\\u1fc6\\u03c4\\u03b5\"},\"choices\":[\"AAD.2P\",\"APS.2P\",\"AAS.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 6,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bb\\u03b1\\u03bb\\u03ad\\u03c9\",\"form\":\"\\u03bb\\u03ac\\u03bb\\u03b7\\u03c3\\u03bf\\u03bd\"},\"choices\":[\"AAD.2P\",\"FAP.NSN\",\"FAP.ASN\",\"AAD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 7,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u1f04\\u03b3\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03ac\\u03b3\\u03b5\\u03c4\\u03b5\"},\"choices\":[\"AAD.2P\",\"PAI.2P\",\"PAD.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 8,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03b9++\\u1f41\\u03c1\\u03ac\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03af\\u03b4\\u03b5\\u03c4\\u03b5\"},\"choices\":[\"AAD.2S\",\"AAD.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 9,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u03b2\\u03ac\\u03bb\\u03bb\\u03c9\",\"form\":\"\\u1f10\\u03ba\\u03b2\\u03ac\\u03bb\\u03b5\\u03c4\\u03b5\"},\"choices\":[\"AAD.2S\",\"AAD.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 10,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u03ba\\u03b1\\u03af\\u03c9\",\"form\":\"\\u03ba\\u03b1\\u03c4\\u03b1\\u03ba\\u03b1\\u1fe6\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAD.2S\",\"AAN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 11,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03c0\\u03ac\\u03c9\",\"form\":\"\\u03c3\\u03c0\\u03ac\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAD.2S\",\"AAO.3S\",\"AAN\",\"AMD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 12,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b3\\u03b9\\u03b3\\u03bd\\u03ce\\u03c3\\u03ba\\u03c9\",\"form\":\"\\u03b3\\u03bd\\u1ff6\\u03c4\\u03b5\"},\"choices\":[\"AAD.2S\",\"AAS.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 13,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03c1\\u03bf\\u03c2++\\u1f14\\u03c1\\u03c7\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03c0\\u03c1\\u03bf\\u03c3\\u03ad\\u03bb\\u03b8\\u1fc3\\u03c2\"},\"choices\":[\"AAD.2S\",\"AAS.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 14,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03b9++\\u03b3\\u03b9\\u03b3\\u03bd\\u03ce\\u03c3\\u03ba\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03b9\\u03b3\\u03bd\\u1ff7\\u03c2\"},\"choices\":[\"AAD.2S\",\"AAS.2S\",\"PAO.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 15,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u03b1\\u1f31\\u03c1\\u03ad\\u03c9\",\"form\":\"\\u1f10\\u03be\\u03b5\\u03bb\\u03bf\\u1fe6\"},\"choices\":[\"AAD.2S\",\"AMD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 16,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03bd++\\u1f60\\u03c4\\u03af\\u03b6\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f10\\u03bd\\u03ce\\u03c4\\u03b9\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAD.2S\",\"AMD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 17,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03bd++\\u03c4\\u03ad\\u03bb\\u03bb\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f14\\u03bd\\u03c4\\u03b5\\u03b9\\u03bb\\u03b1\\u03b9\"},\"choices\":[\"AAD.2S\",\"AMD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 18,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03b9++\\u03bb\\u03b1\\u03bc\\u03b2\\u03ac\\u03bd\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03b9\\u03bb\\u03b1\\u03b2\\u03bf\\u1fe6\"},\"choices\":[\"AAD.2S\",\"AMD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 19,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03c1\\u03bf\\u03c2++\\u03b4\\u03ad\\u03c7\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03c0\\u03c1\\u03cc\\u03c3\\u03b4\\u03b5\\u03be\\u03b1\\u03b9\"},\"choices\":[\"AAD.2S\",\"AMD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 20,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03bd\\u03b1++\\u03ba\\u03b1\\u03bb\\u03cd\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u1f00\\u03bd\\u03b1\\u03ba\\u03ac\\u03bb\\u03c5\\u03c8\\u03b1\\u03b9\"},\"choices\":[\"AAD.2S\",\"AMD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 21,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03b3\\u03b1\\u03bb\\u03bb\\u03b9\\u03ac\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f00\\u03b3\\u03b1\\u03bb\\u03bb\\u03af\\u03b1\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAD.2S\",\"AMD.2S\",\"PMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 22,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bc\\u03b9\\u03bc\\u03bd\\u03ae\\u03c3\\u03ba\\u03c9\",\"form\":\"\\u03bc\\u03bd\\u03ae\\u03c3\\u03b8\\u03b7\\u03c4\\u03b9\"},\"choices\":[\"AAD.2S\",\"APD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 23,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f51\\u03c0\\u03bf++\\u03c4\\u03ac\\u03c3\\u03c3\\u03c9\",\"form\":\"\\u1f51\\u03c0\\u03bf\\u03c4\\u03ac\\u03b3\\u03b7\\u03b8\\u03b9\"},\"choices\":[\"AAD.2S\",\"APD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 24,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03bb\\u03b1\\u03bd\\u03ac\\u03c9\",\"form\":\"\\u03c0\\u03bb\\u03b1\\u03bd\\u1ff6\"},\"choices\":[\"AAD.2S\",\"FAI.1S\",\"PAI.1S\",\"PMD.2S\",\"PAS.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 25,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u1f35\\u03c3\\u03c4\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u1f00\\u03c0\\u03cc\\u03c3\\u03c4\\u03b7\\u03c3\\u03bf\\u03bd\"},\"choices\":[\"AAD.2S\",\"FAP.NSN\",\"FAP.ASN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 26,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03af\\u03bd\\u03c9\",\"form\":\"\\u03c0\\u03af\\u03b5\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAD.2S\",\"FMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 27,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f30\\u03ac\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f34\\u03b1\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAD.2S\",\"XMI.2S\",\"AMD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 28,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u03b2\\u03b1\\u03af\\u03bd\\u03c9\",\"form\":\"\\u03ba\\u03b1\\u03c4\\u03b1\\u03b2\\u03ae\\u03c4\\u03c9\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"AAD.3P\",\"APD.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 29,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03bb\\u03b5\\u03ad\\u03c9\",\"form\":\"\\u1f10\\u03bb\\u03b5\\u03ae\\u03c3\\u1fc3\"},\"choices\":[\"AAD.3S\",\"AMS.2S\",\"AAS.3S\",\"FMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 30,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03cc\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u03ba\\u03bf\\u03c0\\u03ae\\u03c4\\u03c9\"},\"choices\":[\"AAD.3S\",\"APD.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 31,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u03c3\\u03c4\\u03c1\\u03ad\\u03c6\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03bf\\u03c3\\u03c4\\u03c1\\u03b1\\u03c6\\u03ae\\u03c4\\u03c9\"},\"choices\":[\"AAD.3S\",\"APD.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 32,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03ba\\u03bf\\u03c1\\u03c0\\u03af\\u03b6\\u03c9\",\"form\":\"\\u1f10\\u03c3\\u03ba\\u03bf\\u03c1\\u03c0\\u03af\\u03c3\\u03bc\\u03b5\\u03b8\\u03b1\"},\"choices\":[\"AAI.1P\",\"XMI.1P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 33,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b4\\u03b9\\u03ba\\u03b1\\u03b9\\u03cc\\u03c9\",\"form\":\"\\u1f10\\u03b4\\u03b9\\u03ba\\u03b1\\u03b9\\u03ce\\u03c3\\u03b1\\u03bc\\u03b5\\u03bd\"},\"choices\":[\"AAI.1S\",\"AAI.1P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 34,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u03bf\\u03c5\\u03b4\\u03b5\\u03bd\\u03cc\\u03c9\",\"form\":\"\\u1f10\\u03be\\u03bf\\u03c5\\u03b4\\u03ad\\u03bd\\u03c9\\u03c3\\u03b1\\u03c2\"},\"choices\":[\"AAI.1S\",\"AAI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 35,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f36\\u03c0\\u03bf\\u03bd\",\"form\":\"\\u03b5\\u1f30\\u03c0\\u03cc\\u03bd\"},\"choices\":[\"AAI.1S\",\"AAP.NSN\",\"AAD.2S\",\"AAP.ASN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 36,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03bc\\u03cd\\u03bd\\u03c9\",\"form\":\"\\u1f20\\u03bc\\u03c5\\u03bd\\u03ac\\u03bc\\u03b7\\u03bd\"},\"choices\":[\"AAI.1S\",\"AMI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 37,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b1\\u1f31\\u03c1\\u03b5\\u03c4\\u03af\\u03b6\\u03c9\",\"form\":\"\\u1f91\\u03c1\\u03b5\\u03c4\\u03af\\u03c3\\u03c9\"},\"choices\":[\"AAI.1S\",\"AMI.2S\",\"AAS.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 38,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u03ba\\u03c4\\u03b5\\u03af\\u03bd\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03ad\\u03ba\\u03c4\\u03b5\\u03bd\\u03bd\\u03bf\\u03bd\"},\"choices\":[\"AAI.1S\",\"IAI.3P\",\"IAI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 39,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f30\\u03c2++\\u1f14\\u03c1\\u03c7\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03b5\\u1f30\\u03c3\\u03ad\\u03bb\\u03b8\\u03b1\\u03c4\\u03b5\"},\"choices\":[\"AAI.2P\",\"AAD.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 40,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u1fe5\\u03af\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03bf\\u03c1\\u03c1\\u03af\\u03c8\\u03b1\\u03c4\\u03b5\"},\"choices\":[\"AAI.2P\",\"AAD.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 41,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f36\\u03c0\\u03bf\\u03bd\",\"form\":\"\\u03b5\\u1f30\\u03c0\\u03cc\\u03bd\"},\"choices\":[\"AAI.3P\",\"AAP.NSN\",\"AAD.2S\",\"AAP.ASN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 42,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c4\\u03af\\u03b8\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u1f14\\u03b8\\u03b5\\u03bd\\u03c4\\u03bf\"},\"choices\":[\"AAI.3P\",\"AMI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 43,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b4\\u03b9\\u03b1++\\u03c4\\u03af\\u03b8\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u03b4\\u03b9\\u03ad\\u03b8\\u03b5\\u03bd\\u03c4\\u03bf\"},\"choices\":[\"AAI.3P\",\"AMI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 44,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u03c3\\u03ba\\u03ac\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u03ba\\u03b1\\u03c4\\u03b5\\u03c3\\u03ba\\u03ac\\u03c6\\u03b7\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"AAI.3P\",\"API.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 45,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c6\\u03ad\\u03c1\\u03c9\",\"form\":\"\\u1f10\\u03c6\\u03ad\\u03c1\\u03bf\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"AAI.3P\",\"IAI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 46,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03bf\\u03b9\\u03ad\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03bf\\u03b9\\u03bf\\u1fe6\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"AAI.3P\",\"IAI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 47,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b8\\u03c1\\u03b7\\u03bd\\u03ad\\u03c9\",\"form\":\"\\u1f10\\u03b8\\u03c1\\u03b7\\u03bd\\u03bf\\u1fe6\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"AAI.3P\",\"IAI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 48,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b4\\u03b9\\u03b1++\\u1f01\\u03c1\\u03c0\\u03ac\\u03b6\\u03c9\",\"form\":\"\\u03b4\\u03b9\\u03b7\\u03c1\\u03c0\\u03ac\\u03b6\\u03bf\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"AAI.3P\",\"IAI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 49,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bb\\u03b1\\u03bc\\u03b2\\u03ac\\u03bd\\u03c9\",\"form\":\"\\u1f10\\u03bb\\u03b1\\u03bc\\u03b2\\u03ac\\u03bd\\u03bf\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"AAI.3P\",\"IAI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 50,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03b9++\\u03ba\\u03c1\\u03b1\\u03c4\\u03ad\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03b5\\u03ba\\u03c1\\u03b1\\u03c4\\u03bf\\u1fe6\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"AAI.3P\",\"IAI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 51,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u1f00\\u03c0\\u03b1\\u03c4\\u03ad\\u03c9\",\"form\":\"\\u03ba\\u03b1\\u03c4\\u03b5\\u03c0\\u03b1\\u03c4\\u03bf\\u1fe6\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"AAI.3P\",\"IAI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 52,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba+\\u1f00\\u03c0\\u03bf++\\u03c3\\u03c4\\u03ad\\u03bb\\u03bb\\u03c9\",\"form\":\"\\u1f10\\u03be\\u03b1\\u03c0\\u03b5\\u03c3\\u03c4\\u03ad\\u03bb\\u03bb\\u03bf\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"AAI.3P\",\"IAI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 53,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03c1\\u03af\\u03bd\\u03c9\",\"form\":\"\\u1f14\\u03ba\\u03c1\\u03b9\\u03bd\\u03b1\"},\"choices\":[\"AAI.3S\",\"AAI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 54,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f15\\u03bb\\u03ba\\u03c9\",\"form\":\"\\u03b5\\u1f35\\u03bb\\u03ba\\u03c5\\u03c3\\u03b1\"},\"choices\":[\"AAI.3S\",\"AAI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 55,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f50\\u03c6\\u03c1\\u03b1\\u03af\\u03bd\\u03c9\",\"form\":\"\\u03b7\\u1f54\\u03c6\\u03c1\\u03b1\\u03bd\\u03b1\\u03c2\"},\"choices\":[\"AAI.3S\",\"AAI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 56,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c6\\u03b9\\u03bb\\u03b9\\u03ac\\u03b6\\u03c9\",\"form\":\"\\u1f10\\u03c6\\u03b9\\u03bb\\u03af\\u03b1\\u03c3\\u03b1\\u03c2\"},\"choices\":[\"AAI.3S\",\"AAI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 57,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b4\\u03bf\\u03ba\\u03ad\\u03c9\",\"form\":\"\\u1f14\\u03b4\\u03bf\\u03be\\u03b1\\u03bd\"},\"choices\":[\"AAI.3S\",\"AAI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 58,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03ba\\u03bf\\u03cd\\u03c9\",\"form\":\"\\u1f24\\u03ba\\u03bf\\u03c5\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"AAI.3S\",\"AAI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 59,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03bf\\u03bd\\u03ad\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03cc\\u03bd\\u03b5\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"AAI.3S\",\"AAI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 60,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b5\\u03c1\\u03b9++\\u03c4\\u03af\\u03b8\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u03c0\\u03b5\\u03c1\\u03b9\\u03ad\\u03b8\\u03b5\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"AAI.3S\",\"AAI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 61,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b4\\u03b9\\u03ba\\u03b1\\u03b9\\u03cc\\u03c9\",\"form\":\"\\u1f10\\u03b4\\u03b9\\u03ba\\u03b1\\u03af\\u03c9\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"AAI.3S\",\"AAI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 62,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03bd++\\u03b2\\u03ac\\u03bb\\u03bb\\u03c9\",\"form\":\"\\u1f10\\u03bd\\u03ad\\u03b2\\u03b1\\u03bb\\u03bf\\u03bd\"},\"choices\":[\"AAI.3S\",\"AAI.3P\",\"AAI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 63,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u1f40\\u03bb\\u03bb\\u03cd\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03ce\\u03bb\\u03b5\\u03c4\\u03bf\"},\"choices\":[\"AAI.3S\",\"AMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 64,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u03ba\\u03b1\\u03cd\\u03c9\",\"form\":\"\\u1f10\\u03ba\\u03ba\\u03b1\\u03cd\\u03c3\\u1fc3\"},\"choices\":[\"AAI.3S\",\"AMS.2S\",\"FMI.2S\",\"AAS.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 65,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03bd++\\u03c6\\u03c1\\u03ac\\u03c3\\u03c3\\u03c9\",\"form\":\"\\u1f10\\u03bd\\u03b5\\u03c6\\u03c1\\u03ac\\u03b3\\u03b7\"},\"choices\":[\"AAI.3S\",\"API.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 66,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bc\\u03b1\\u03ba\\u03c1\\u03cd\\u03bd\\u03c9\",\"form\":\"\\u1f10\\u03bc\\u03b1\\u03ba\\u03c1\\u03cd\\u03bd\\u03b8\\u03b7\"},\"choices\":[\"AAI.3S\",\"API.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 67,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bc\\u03b5\\u03c4\\u03b1++\\u03bc\\u03b5\\u03bb\\u03ad\\u03c9\",\"form\":\"\\u03bc\\u03b5\\u03c4\\u03b5\\u03bc\\u03b5\\u03bb\\u03ae\\u03b8\\u03b7\"},\"choices\":[\"AAI.3S\",\"API.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 68,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f21\\u03c3\\u03c5\\u03c7\\u03ac\\u03b6\\u03c9\",\"form\":\"\\u1f21\\u03c3\\u03c5\\u03c7\\u03ac\\u03c3\\u03b5\\u03b9\"},\"choices\":[\"AAI.3S\",\"FAI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 69,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03c1\\u03ac\\u03b6\\u03c9\",\"form\":\"\\u1f10\\u03ba\\u03ad\\u03ba\\u03c1\\u03b1\\u03b3\\u03b5(\\u03bd)\"},\"choices\":[\"AAI.3S\",\"IAI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 70,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u03ba\\u03c4\\u03b5\\u03af\\u03bd\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03ad\\u03ba\\u03c4\\u03b5\\u03bd\\u03bd\\u03b5(\\u03bd)\"},\"choices\":[\"AAI.3S\",\"IAI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 71,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03ce\\u03b6\\u03c9\",\"form\":\"\\u03c3\\u03ce\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 72,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bd\\u03bf\\u03ad\\u03c9\",\"form\":\"\\u03bd\\u03bf\\u03ae\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 73,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bb\\u03b1\\u03bb\\u03ad\\u03c9\",\"form\":\"\\u03bb\\u03b1\\u03bb\\u03ae\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 74,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03bf\\u03b9\\u03ad\\u03c9\",\"form\":\"\\u03c0\\u03bf\\u03b9\\u03ae\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 75,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03bd\\u03b8\\u03ad\\u03c9\",\"form\":\"\\u1f00\\u03bd\\u03b8\\u03ae\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 76,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03bb\\u03b7\\u03c1\\u03cc\\u03c9\",\"form\":\"\\u03c0\\u03bb\\u03b7\\u03c1\\u03ce\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 77,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03b1\\u03bb\\u03b5\\u03cd\\u03c9\",\"form\":\"\\u03c3\\u03b1\\u03bb\\u03b5\\u03cd\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 78,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03b3\\u03b1\\u03c0\\u03ac\\u03c9\",\"form\":\"\\u1f00\\u03b3\\u03b1\\u03c0\\u03ae\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 79,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03bd\\u03b1++\\u03c4\\u03ad\\u03bb\\u03bb\\u03c9\",\"form\":\"\\u1f00\\u03bd\\u03b1\\u03c4\\u03b5\\u03af\\u03bb\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 80,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03b9++\\u1f00\\u03ba\\u03bf\\u03cd\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03b1\\u03ba\\u03bf\\u03cd\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 81,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03bd\\u03b1++\\u1f35\\u03c3\\u03c4\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u1f00\\u03bd\\u03b1\\u03c3\\u03c4\\u03ae\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 82,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b4\\u03b9\\u03b1+\\u1f00\\u03bd\\u03b1++\\u03bf\\u1f34\\u03b3\\u03c9\",\"form\":\"\\u03b4\\u03b9\\u03b1\\u03bd\\u03bf\\u03af\\u03be\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 83,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c4\\u03b5\\u03bb\\u03b5\\u03b9\\u03cc\\u03c9\",\"form\":\"\\u03c4\\u03b5\\u03bb\\u03b5\\u03b9\\u03ce\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 84,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03b9++\\u03c4\\u03b9\\u03bc\\u03ac\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03b9\\u03c4\\u03b9\\u03bc\\u03ae\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 85,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u03ba\\u03b1\\u03af\\u03c9\",\"form\":\"\\u03ba\\u03b1\\u03c4\\u03b1\\u03ba\\u03b1\\u03cd\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 86,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba+\\u1f00\\u03c0\\u03bf++\\u03c3\\u03c4\\u03ad\\u03bb\\u03bb\\u03c9\",\"form\":\"\\u1f10\\u03be\\u03b1\\u03c0\\u03bf\\u03c3\\u03c4\\u03b5\\u03af\\u03bb\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 87,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03b9+\\u1f00\\u03c0\\u03bf++\\u03c3\\u03c4\\u03ad\\u03bb\\u03bb\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03b1\\u03c0\\u03bf\\u03c3\\u03c4\\u03b5\\u03af\\u03bb\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 88,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03b3\\u03b1\\u03b8\\u03bf\\u03c0\\u03bf\\u03b9\\u03ad\\u03c9\",\"form\":\"\\u1f00\\u03b3\\u03b1\\u03b8\\u03bf\\u03c0\\u03bf\\u03b9\\u03ae\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 89,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bc\\u03b5\\u03c4\\u03b1\\u03bd\\u03b1\\u03c3\\u03c4\\u03b5\\u03cd\\u03c9\",\"form\":\"\\u03bc\\u03b5\\u03c4\\u03b1\\u03bd\\u03b1\\u03c3\\u03c4\\u03b5\\u03cd\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 90,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u1f05\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u1f04\\u03c6\\u03b1\\u03c8\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"AMD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 91,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03bd++\\u03b4\\u03cd\\u03c9\",\"form\":\"\\u1f14\\u03bd\\u03b4\\u03c5\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"AMD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 92,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u03b4\\u03ad\\u03c7\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f14\\u03ba\\u03b4\\u03b5\\u03be\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"AMD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 93,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u1f35\\u03b6\\u03c9\",\"form\":\"\\u03ba\\u03ac\\u03b8\\u03b9\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"AMD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 94,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b1\\u1f30\\u03c4\\u03ad\\u03c9\",\"form\":\"\\u03b1\\u1f34\\u03c4\\u03b7\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"AMD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 95,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03bd++\\u1f60\\u03c4\\u03af\\u03b6\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f10\\u03bd\\u03ce\\u03c4\\u03b9\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"AMD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 96,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03bd++\\u03c4\\u03ad\\u03bb\\u03bb\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f14\\u03bd\\u03c4\\u03b5\\u03b9\\u03bb\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"AMD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 97,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03b9++\\u03b4\\u03ad\\u03c7\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f10\\u03c0\\u03af\\u03b4\\u03b5\\u03be\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"AMD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 98,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bb\\u03c5\\u03c4\\u03c1\\u03cc\\u03c9\",\"form\":\"\\u03bb\\u03cd\\u03c4\\u03c1\\u03c9\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"AMD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 99,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03ba\\u03c1\\u03bf\\u03ac\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f00\\u03ba\\u03c1\\u03cc\\u03b1\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"AMD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 100,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03c1\\u03bf\\u03c2++\\u03b5\\u1f54\\u03c7\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03c0\\u03c1\\u03cc\\u03c3\\u03b5\\u03c5\\u03be\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"AMD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 101,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03bd++\\u03c0\\u03af\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u1f10\\u03bc\\u03c0\\u03b5\\u03c3\\u03b5\\u1fd6\\u03bd\"},\"choices\":[\"AAN\",\"FAN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 102,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u03b4\\u03b9\\u03ba\\u03ac\\u03b6\\u03c9\",\"form\":\"\\u1f10\\u03ba\\u03b4\\u03b9\\u03ba\\u1fb7\"},\"choices\":[\"AAN\",\"FMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 103,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03c5\\u03bd++\\u1f35\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u03c3\\u03c5\\u03bd\\u03b9\\u03ad\\u03bd\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"PAN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 104,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b1\\u03bb\\u03b1\\u03af\\u03c9\",\"form\":\"\\u03c0\\u03b1\\u03bb\\u03b1\\u03af\\u03b5\\u03b9\\u03bd\"},\"choices\":[\"AAN\",\"PAN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 105,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b1\\u1f34\\u03c1\\u03c9\",\"form\":\"\\u03b1\\u1f34\\u03c1\\u03bf\\u03c5\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"PAP.NPF\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 106,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b6\\u03ac\\u03c9\",\"form\":\"\\u03b6\\u1fc7\\u03c2\"},\"choices\":[\"AAN\",\"PAS.2S\",\"PAI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 107,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ac\\u03c9\",\"form\":\"\\u1f10\\u1fb6\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"PMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 108,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03bf\\u03c0\\u03b9\\u03ac\\u03c9\",\"form\":\"\\u03ba\\u03bf\\u03c0\\u03b9\\u1fb6\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"PMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 109,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f11\\u03c4\\u03bf\\u03b9\\u03bc\\u03ac\\u03b6\\u03c9\",\"form\":\"\\u1f21\\u03c4\\u03bf\\u03b9\\u03bc\\u03b1\\u03ba\\u03ad\\u03bd\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"XAN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 110,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f04\\u03c1\\u03c7\\u03c9\",\"form\":\"\\u1f26\\u03c1\\u03be\\u03b1\\u03b9\"},\"choices\":[\"AAN\",\"XMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 111,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03bf\\u03b9\\u03ad\\u03c9\",\"form\":\"\\u03c0\\u03bf\\u03b9\\u03ae\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAO.2S\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 112,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03c1\\u03bf\\u03c2++\\u03c4\\u03af\\u03b8\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u03c0\\u03c1\\u03bf\\u03c3\\u03c4\\u03b5\\u03b8\\u03b5\\u03af\\u03b7\"},\"choices\":[\"AAO.3S\",\"APO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 113,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03b9++\\u03b8\\u03c5\\u03bc\\u03ad\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03b9\\u03b8\\u03c5\\u03bc\\u03ae\\u03c3\\u03b5\\u03b9\"},\"choices\":[\"AAO.3S\",\"FMI.2S\",\"FAI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 114,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c7\\u03b8\\u03c1\\u03b1\\u03af\\u03bd\\u03c9\",\"form\":\"\\u1f10\\u03c7\\u03b8\\u03c1\\u03b1\\u03af\\u03bd\\u03bf\\u03bd\\u03c4\\u03b1\\u03c2\"},\"choices\":[\"AAP.APM\",\"PAP.APM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 115,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u1f35\\u03c3\\u03c4\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u1f00\\u03c0\\u03bf\\u03c3\\u03c4\\u03b1\\u03c4\\u03bf\\u1fe6\\u03bd\\u03c4\\u03b1\\u03c2\"},\"choices\":[\"AAP.APM\",\"PAP.APM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 116,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bf\\u1f36\\u03b4\\u03b1\",\"form\":\"\\u03b5\\u1f30\\u03b4\\u03cc\\u03c4\\u03b1\\u03c2\"},\"choices\":[\"AAP.APM\",\"XAP.APM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 117,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f36\\u03b4\\u03bf\\u03bd\",\"form\":\"\\u03b5\\u1f30\\u03b4\\u03cc\\u03c4\\u03b1\\u03c2\"},\"choices\":[\"AAP.APM\",\"XAP.APM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 118,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u1f60\\u03b8\\u03ad\\u03c9\",\"form\":\"\\u1f14\\u03be\\u03c9\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"AAP.ASN\",\"AAI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 119,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f51\\u03c8\\u03cc\\u03c9\",\"form\":\"\\u1f55\\u03c8\\u03c9\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"AAP.ASN\",\"AAI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 120,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f30\\u03c3\\u03c7\\u03cd\\u03c9\",\"form\":\"\\u1f34\\u03c3\\u03c7\\u03c5\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"AAP.ASN\",\"AAI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 121,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03bd++\\u1f30\\u03c3\\u03c7\\u03cd\\u03c9\",\"form\":\"\\u1f10\\u03bd\\u03af\\u03c3\\u03c7\\u03c5\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"AAP.ASN\",\"AAI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 122,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f50\\u03bb\\u03bf\\u03b3\\u03ad\\u03c9\",\"form\":\"\\u03b5\\u1f50\\u03bb\\u03cc\\u03b3\\u03b7\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"AAP.ASN\",\"AAI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 123,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u1f30\\u03c3\\u03c7\\u03cd\\u03c9\",\"form\":\"\\u03ba\\u03b1\\u03c4\\u03af\\u03c3\\u03c7\\u03c5\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"AAP.ASN\",\"AAI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 124,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03ba\\u03c5\\u03bb\\u03b5\\u03cd\\u03c9\",\"form\":\"\\u1f10\\u03c3\\u03ba\\u03cd\\u03bb\\u03b5\\u03c5\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"AAP.ASN\",\"AAI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 125,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f04\\u03b3\\u03c9\",\"form\":\"\\u1f00\\u03b3\\u03b1\\u03b3\\u03cc\\u03bd\\u03c4\\u03b1\"},\"choices\":[\"AAP.ASN\",\"AAP.APN\",\"AAP.ASM\",\"AAP.NPN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 126,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f30\\u03c2++\\u1f14\\u03c1\\u03c7\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03b5\\u1f30\\u03c3\\u03b5\\u03bb\\u03b8\\u03cc\\u03bd\\u03c4\\u03b1\"},\"choices\":[\"AAP.ASN\",\"AAP.APN\",\"AAP.ASM\",\"AAP.NPN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 127,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f30\\u03c2++\\u03c6\\u03ad\\u03c1\\u03c9\",\"form\":\"\\u03b5\\u1f30\\u03c3\\u03b5\\u03bd\\u03b5\\u03c7\\u03b8\\u03ad\\u03bd\"},\"choices\":[\"AAP.ASN\",\"APP.NSN\",\"APP.ASN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 128,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u03c3\\u03c4\\u03ad\\u03bb\\u03bb\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03bf\\u03c3\\u03c4\\u03b1\\u03bb\\u03b5\\u1fd6\\u03c3\\u03b9(\\u03bd)\"},\"choices\":[\"AAP.DPN\",\"APP.DPN\",\"APP.DPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 129,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03b1\\u03bb\\u03c0\\u03af\\u03b6\\u03c9\",\"form\":\"\\u03c3\\u03b1\\u03bb\\u03c0\\u03af\\u03b6\\u03bf\\u03c5\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAP.NPF\",\"PAP.NPF\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 130,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba+\\u1f00\\u03bd\\u03b1++\\u1f35\\u03c3\\u03c4\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u1f10\\u03be\\u03b1\\u03bd\\u03b1\\u03c3\\u03c4\\u03ac\\u03bd\\u03c4\\u03c9\\u03bd\"},\"choices\":[\"AAP.NPM\",\"AAP.GPM\",\"AAP.GPN\",\"AAD.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 131,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03b9+\\u1f00\\u03bd\\u03b1++\\u1f14\\u03c1\\u03c7\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f10\\u03c0\\u03b1\\u03bd\\u03b5\\u03bb\\u03b8\\u03ce\\u03bd\"},\"choices\":[\"AAP.NPM\",\"AAP.NSM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 132,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bf\\u1f36\\u03b4\\u03b1\",\"form\":\"\\u03b5\\u1f30\\u03b4\\u03cc\\u03c4\\u03b5\\u03c2\"},\"choices\":[\"AAP.NPM\",\"XAP.NPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 133,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f41\\u03c1\\u03ac\\u03c9\",\"form\":\"\\u03b5\\u1f30\\u03b4\\u03cc\\u03c4\\u03b5\\u03c2\"},\"choices\":[\"AAP.NPM\",\"XAP.NPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 134,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f30\\u03b4\\u03ad\\u03c9\",\"form\":\"\\u03b5\\u1f30\\u03b4\\u03cc\\u03c4\\u03b5\\u03c2\"},\"choices\":[\"AAP.NPM\",\"XAP.NPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 135,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f36\\u03b4\\u03bf\\u03bd\",\"form\":\"\\u03b5\\u1f30\\u03b4\\u03cc\\u03c4\\u03b5\\u03c2\"},\"choices\":[\"AAP.NPM\",\"XAP.NPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 136,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b1\\u03c1\\u03b1++\\u1f35\\u03c3\\u03c4\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u03c0\\u03b1\\u03c1\\u03b5\\u03c3\\u03c4\\u1ff6\\u03c4\\u03b5\\u03c2\"},\"choices\":[\"AAP.NPM\",\"XAP.NPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 137,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f51\\u03b2\\u03c1\\u03af\\u03b6\\u03c9\",\"form\":\"\\u1f55\\u03b2\\u03c1\\u03b9\\u03c3\\u03b1\\u03c2\"},\"choices\":[\"AAP.NSM\",\"AAI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 138,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03b9+\\u1f10\\u03ba++\\u03bb\\u03cd\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03ad\\u03ba\\u03bb\\u03c5\\u03c3\\u03b1\\u03c2\"},\"choices\":[\"AAP.NSM\",\"AAI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 139,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f50\\u03bb\\u03bf\\u03b3\\u03ad\\u03c9\",\"form\":\"\\u03b5\\u1f50\\u03bb\\u03cc\\u03b3\\u03b7\\u03c3\\u03b1\\u03c2\"},\"choices\":[\"AAP.NSM\",\"AAI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 140,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03ba\\u03c5\\u03bb\\u03b5\\u03cd\\u03c9\",\"form\":\"\\u1f10\\u03c3\\u03ba\\u03cd\\u03bb\\u03b5\\u03c5\\u03c3\\u03b1\\u03c2\"},\"choices\":[\"AAP.NSM\",\"AAI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 141,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03bd\\u03c4\\u03b9+\\u1f00\\u03c0\\u03bf++\\u03b4\\u03af\\u03b4\\u03c9\\u03bc\\u03b9\",\"form\":\"\\u1f00\\u03bd\\u03c4\\u03b1\\u03c0\\u03ad\\u03b4\\u03c9\\u03ba\\u03b1\\u03c2\"},\"choices\":[\"AAP.NSM\",\"AAI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 142,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03c5\\u03bd++\\u1f35\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u03c3\\u03c5\\u03bd\\u03b9\\u03b5\\u03af\\u03c2\"},\"choices\":[\"AAP.NSM\",\"PAP.NSM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 143,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03bd\\u03b1++\\u03bc\\u03b9\\u03bc\\u03bd\\u03ae\\u03c3\\u03ba\\u03c9\",\"form\":\"\\u1f00\\u03bd\\u03b1\\u03bc\\u03bd\\u1fc6\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAS.\",\"AAN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 144,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f30\\u03c2++\\u1f14\\u03c1\\u03c7\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03b5\\u1f30\\u03c3\\u03ad\\u03bb\\u03b8\\u03c9\\u03bc\\u03b5\\u03bd\"},\"choices\":[\"AAS.1S\",\"AAS.1P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 145,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03c1\\u03bf++\\u03c6\\u03b8\\u03ac\\u03bd\\u03c9\",\"form\":\"\\u03c0\\u03c1\\u03bf\\u03c6\\u03b8\\u03ac\\u03c3\\u03c9\\u03bc\\u03b5\\u03bd\"},\"choices\":[\"AAS.1S\",\"AAS.1P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 146,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bb\\u03cd\\u03c9\",\"form\":\"\\u1f10\\u03bb\\u03c5\\u03c4\\u03c1\\u03ce\\u03c3\\u03c9\"},\"choices\":[\"AAS.1S\",\"AMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 147,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u03b1\\u1f31\\u03c1\\u03ad\\u03c9\",\"form\":\"\\u03ba\\u03b1\\u03b8\\u03b5\\u03bb\\u1ff6\"},\"choices\":[\"AAS.1S\",\"FAI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 148,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f51\\u03c0\\u03bf++\\u03bc\\u03ad\\u03bd\\u03c9\",\"form\":\"\\u1f51\\u03c0\\u03bf\\u03bc\\u03b5\\u03bd\\u1ff6\"},\"choices\":[\"AAS.1S\",\"FAI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 149,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b1\\u03c1\\u03b1++\\u1f40\\u03be\\u03cd\\u03bd\\u03c9\",\"form\":\"\\u03c0\\u03b1\\u03c1\\u03bf\\u03be\\u03c5\\u03bd\\u1ff6\"},\"choices\":[\"AAS.1S\",\"FAI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 150,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03bd\\u03b1++\\u03b2\\u03b1\\u03af\\u03bd\\u03c9\",\"form\":\"\\u1f00\\u03bd\\u03ac\\u03b2\\u03b7\\u03c4\\u03b5\"},\"choices\":[\"AAS.2P\",\"AAD.2P\",\"APS.2P\",\"APD.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 151,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03bd\\u03b1++\\u1f35\\u03c3\\u03c4\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u1f00\\u03bd\\u03ac\\u03c3\\u03c4\\u03b7\\u03c4\\u03b5\"},\"choices\":[\"AAS.2P\",\"AAD.2P\",\"APS.2P\",\"APD.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 152,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bf\\u1f30\\u03ba\\u03bf\\u03b4\\u03bf\\u03bc\\u03ad\\u03c9\",\"form\":\"\\u03bf\\u1f30\\u03ba\\u03bf\\u03b4\\u03bf\\u03bc\\u03ae\\u03c3\\u03c9\\u03bc\\u03b5\\u03bd\"},\"choices\":[\"AAS.2P\",\"AAS.1P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 153,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b2\\u03b4\\u03b5\\u03bb\\u03cd\\u03c3\\u03c3\\u03c9\",\"form\":\"\\u03b2\\u03b4\\u03b5\\u03bb\\u03cd\\u03be\\u1fc3\"},\"choices\":[\"AAS.2S\",\"AMS.2S\",\"AAS.3S\",\"FMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 154,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03b3\\u03b3\\u03c5\\u03ac\\u03c9\",\"form\":\"\\u1f10\\u03b3\\u03b3\\u03c5\\u03ae\\u03c3\\u1fc3\"},\"choices\":[\"AAS.2S\",\"AMS.2S\",\"AAS.3S\",\"FPI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 155,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b2\\u03b1\\u03c3\\u03b9\\u03bb\\u03b5\\u03cd\\u03c9\",\"form\":\"\\u03b2\\u03b1\\u03c3\\u03b9\\u03bb\\u03b5\\u03cd\\u03c3\\u1fc3\"},\"choices\":[\"AAS.2S\",\"AMS.2S\",\"FMI.2S\",\"AAS.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 156,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03c5\\u03bd++\\u03bb\\u03b1\\u03bc\\u03b2\\u03ac\\u03bd\\u03c9\",\"form\":\"\\u03c3\\u03c5\\u03bb\\u03bb\\u03ac\\u03b2\\u1fc3\"},\"choices\":[\"AAS.2S\",\"AMS.2S\",\"PAS.3S\",\"AAS.3S\",\"PMI.2S\",\"PMS.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 157,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u03bd\\u03cd\\u03c3\\u03c3\\u03c9\",\"form\":\"\\u03ba\\u03b1\\u03c4\\u03b1\\u03bd\\u03c5\\u03b3\\u1ff6\"},\"choices\":[\"AAS.2S\",\"APS.1S\",\"AAS.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 158,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u1f00\\u03bb\\u03bb\\u03ac\\u03c3\\u03c3\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03b1\\u03bb\\u03bb\\u03b1\\u03b3\\u1fc7\\u03c2\"},\"choices\":[\"AAS.2S\",\"APS.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 159,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b2\\u03b1\\u03c3\\u03b9\\u03bb\\u03b5\\u03cd\\u03c9\",\"form\":\"\\u03b2\\u03b1\\u03c3\\u03b9\\u03bb\\u03b5\\u03cd\\u03c3\\u03b5\\u03b9\\u03c2\"},\"choices\":[\"AAS.2S\",\"FAI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 160,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bb\\u03b1\\u03bc\\u03b2\\u03ac\\u03bd\\u03c9\",\"form\":\"\\u03bb\\u03ae\\u03bc\\u03c8\\u1fc3\"},\"choices\":[\"AAS.2S\",\"FMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 161,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03b9++\\u1f35\\u03c3\\u03c4\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u1f10\\u03c0\\u03b9\\u03c3\\u03c4\\u1fc7\\u03c2\"},\"choices\":[\"AAS.2S\",\"PAI.2S\",\"PAS.2S\",\"APS.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 162,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u1f00\\u03bd\\u03c4\\u03ac\\u03c9\",\"form\":\"\\u03ba\\u03b1\\u03c4\\u03b1\\u03bd\\u03c4\\u03b7\\u03c3\\u03ac\\u03c4\\u03c9\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"AAS.3P\",\"AAD.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 163,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b8\\u03b1\\u03bd\\u03b1\\u03c4\\u03cc\\u03c9\",\"form\":\"\\u03b8\\u03b1\\u03bd\\u03b1\\u03c4\\u03ce\\u03c3\\u03bf\\u03c5\\u03c3\\u03b9(\\u03bd)\"},\"choices\":[\"AAS.3P\",\"FAI.3P\",\"FAP.DPM\",\"FAP.DPN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 164,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f30\\u03c2++\\u1f00\\u03ba\\u03bf\\u03cd\\u03c9\",\"form\":\"\\u03b5\\u1f30\\u03c3\\u03b1\\u03ba\\u03bf\\u03cd\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAS.3S\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 165,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bf\\u1f30\\u03ba\\u03c4\\u03b5\\u03af\\u03c1\\u03c9\",\"form\":\"\\u03bf\\u1f30\\u03ba\\u03c4\\u03b9\\u03c1\\u03ae\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AAS.3S\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 166,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03bd\\u03b1++\\u03b2\\u03b1\\u03af\\u03bd\\u03c9\",\"form\":\"\\u1f00\\u03bd\\u03b1\\u03b2\\u1ff6\"},\"choices\":[\"AAS.3S\",\"APS.1S\",\"AAS.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 167,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1fe5\\u03af\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u1fe5\\u03b9\\u03c6\\u1fc7\"},\"choices\":[\"AAS.3S\",\"APS.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 168,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03c5\\u03bd++\\u03c4\\u03c1\\u03af\\u03b2\\u03c9\",\"form\":\"\\u03c3\\u03c5\\u03bd\\u03c4\\u03c1\\u03b9\\u03b2\\u1fc7\"},\"choices\":[\"AAS.3S\",\"APS.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 169,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u03b8\\u03bd\\u03ae\\u03c3\\u03ba\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03bf\\u03b8\\u03b1\\u03bd\\u1fc7\"},\"choices\":[\"AAS.3S\",\"FMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 170,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u1f14\\u03c1\\u03c7\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f10\\u03be\\u03b5\\u03bb\\u03b5\\u03cd\\u03c3\\u1fc3\"},\"choices\":[\"AAS.3S\",\"FMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 171,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03bd\\u03c4\\u03b9++\\u1f35\\u03c3\\u03c4\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u1f00\\u03bd\\u03c4\\u03b9\\u03c3\\u03c4\\u03ae\\u03c3\\u1fc3\"},\"choices\":[\"AAS.3S\",\"FMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 172,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03c1\\u03bf++\\u03c0\\u03bf\\u03c1\\u03b5\\u03cd\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03c0\\u03c1\\u03bf\\u03c0\\u03bf\\u03c1\\u03b5\\u03cd\\u03c3\\u1fc3\"},\"choices\":[\"AAS.3S\",\"FMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 173,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03b9++\\u03b3\\u03b9\\u03b3\\u03bd\\u03ce\\u03c3\\u03ba\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03b9\\u03b3\\u03bd\\u1ff6\"},\"choices\":[\"AAS.3S\",\"PAI.1S\",\"AAS.1S\",\"PAS.1S\",\"PMD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 174,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b6\\u03ac\\u03c9\",\"form\":\"\\u03b6\\u1fc7\"},\"choices\":[\"AAS.3S\",\"PMI.2S\",\"PAS.3S\",\"PAI.3S\",\"PMS.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 175,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b4\\u03b9\\u03b1++\\u1fe5\\u03ae\\u03b3\\u03bd\\u03c5\\u03bc\\u03b9\",\"form\":\"\\u03b4\\u03b9\\u03b1\\u03c1\\u03c1\\u03ae\\u03be\\u03b1\\u03c4\\u03b5\"},\"choices\":[\"AMD.2P\",\"AAD.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 176,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03bd++\\u03ba\\u03b1\\u03b9\\u03bd\\u03af\\u03b6\\u03c9\",\"form\":\"\\u1f10\\u03b3\\u03ba\\u03b1\\u03b9\\u03bd\\u03af\\u03b6\\u03b5\\u03c3\\u03b8\\u03b5\"},\"choices\":[\"AMD.2P\",\"PMD.2P\",\"PMI.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 177,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03ba\\u03bf\\u03cd\\u03c9\",\"form\":\"\\u1f00\\u03ba\\u03bf\\u1fe6\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AMD.2S\",\"AAN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 178,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03bd++\\u03c6\\u03c5\\u03c3\\u03ac\\u03c9\",\"form\":\"\\u1f10\\u03bc\\u03c6\\u03c5\\u03c3\\u1fc6\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AMD.2S\",\"AAN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 179,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u03bf\\u03c1\\u03b8\\u03cc\\u03c9\",\"form\":\"\\u03ba\\u03b1\\u03c4\\u03bf\\u03c1\\u03b8\\u1ff6\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AMD.2S\",\"AAN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 180,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c4\\u03b1\\u03c0\\u03b5\\u03b9\\u03bd\\u03cc\\u03c9\",\"form\":\"\\u03c4\\u03b1\\u03c0\\u03b5\\u03b9\\u03bd\\u1ff6\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AMD.2S\",\"AAN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 181,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03bf\\u03bb\\u03b9\\u03bf\\u03c1\\u03ba\\u03ad\\u03c9\",\"form\":\"\\u03c0\\u03bf\\u03bb\\u03b9\\u03bf\\u03c1\\u03ba\\u1fc6\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AMD.2S\",\"AAN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 182,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b6\\u03ac\\u03c9\",\"form\":\"\\u03b6\\u03ae\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AMD.2S\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 183,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03bf\\u03b9\\u03ad\\u03c9\",\"form\":\"\\u03c0\\u03bf\\u03b9\\u03ae\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AMD.2S\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 184,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b2\\u03bf\\u03b7\\u03b8\\u03ad\\u03c9\",\"form\":\"\\u03b2\\u03bf\\u03b7\\u03b8\\u03ae\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AMD.2S\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 185,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03bb\\u03b7\\u03c1\\u03cc\\u03c9\",\"form\":\"\\u03c0\\u03bb\\u03b7\\u03c1\\u03ce\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AMD.2S\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 186,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03b9++\\u1f00\\u03ba\\u03bf\\u03cd\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03b1\\u03ba\\u03bf\\u03cd\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AMD.2S\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 187,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u03b4\\u03b9\\u03ce\\u03ba\\u03c9\",\"form\":\"\\u03ba\\u03b1\\u03c4\\u03b1\\u03b4\\u03b9\\u03ce\\u03be\\u03b1\\u03b9\"},\"choices\":[\"AMD.2S\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 188,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bf\\u1f30\\u03ba\\u03c4\\u03b5\\u03af\\u03c1\\u03c9\",\"form\":\"\\u03bf\\u1f30\\u03ba\\u03c4\\u03b9\\u03c1\\u03ae\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AMD.2S\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 189,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u03c0\\u03b1\\u03c4\\u03ad\\u03c9\",\"form\":\"\\u03ba\\u03b1\\u03c4\\u03b1\\u03c0\\u03b1\\u03c4\\u03ae\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AMD.2S\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 190,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u1f40\\u03bb\\u03b5\\u03b8\\u03c1\\u03b5\\u03cd\\u03c9\",\"form\":\"\\u1f10\\u03be\\u03bf\\u03bb\\u03b5\\u03b8\\u03c1\\u03b5\\u03cd\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AMD.2S\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 191,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u03c3\\u03ba\\u03b7\\u03bd\\u03cc\\u03c9\",\"form\":\"\\u03ba\\u03b1\\u03c4\\u03b1\\u03c3\\u03ba\\u03b7\\u03bd\\u03ce\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AMD.2S\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 192,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03b9++\\u03c6\\u03b7\\u03bc\\u03af\",\"form\":\"\\u1f10\\u03c0\\u03b9\\u03c6\\u03ac\\u03bd\\u03b1\\u03b9\"},\"choices\":[\"AMD.2S\",\"AAO.3S\",\"AAN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 193,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u03c4\\u03b5\\u03bb\\u03ad\\u03c9\",\"form\":\"\\u1f10\\u03ba\\u03c4\\u03b5\\u03bb\\u03ad\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AMD.2S\",\"AAO.3S\",\"AAN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 194,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bc\\u03b1\\u03ba\\u03b1\\u03c1\\u03af\\u03b6\\u03c9\",\"form\":\"\\u03bc\\u03b1\\u03ba\\u03b1\\u03c1\\u03af\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AMD.2S\",\"AAO.3S\",\"AAN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 195,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f51\\u03c0\\u03b5\\u03c1++\\u1f00\\u03c3\\u03c0\\u03af\\u03b6\\u03c9\",\"form\":\"\\u1f51\\u03c0\\u03b5\\u03c1\\u03b1\\u03c3\\u03c0\\u03af\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AMD.2S\",\"AAO.3S\",\"AAN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 196,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03b9++\\u03c4\\u03af\\u03b8\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u1f10\\u03c0\\u03af\\u03b8\\u03bf\\u03c5\"},\"choices\":[\"AMD.2S\",\"AMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 197,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03bf\\u03c1\\u03b5\\u03cd\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03c0\\u03bf\\u03c1\\u03b5\\u03cd\\u03b8\\u03b7\\u03c4\\u03b9\"},\"choices\":[\"AMD.2S\",\"APD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 198,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03af\\u03bd\\u03c9\",\"form\":\"\\u03c0\\u03af\\u03b5\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AMD.2S\",\"FMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 199,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03bf\\u03c1\\u03b5\\u03cd\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03c0\\u03bf\\u03c1\\u03b5\\u03cd\\u03bf\\u03c5\"},\"choices\":[\"AMD.2S\",\"PMD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 200,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03b3\\u03b1\\u03bb\\u03bb\\u03b9\\u03ac\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f00\\u03b3\\u03b1\\u03bb\\u03bb\\u03b9\\u03ac\\u03c3\\u03b8\\u03c9\"},\"choices\":[\"AMD.2S\",\"PMD.3S\",\"AMD.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 201,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03ba\\u03bf\\u03cd\\u03c9\",\"form\":\"\\u1f00\\u03ba\\u03bf\\u03cd\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AMD.3S\",\"AAO.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 202,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f30\\u03bc\\u03af\",\"form\":\"\\u1f24\\u03bc\\u03b7\\u03bd\"},\"choices\":[\"AMI.1S\",\"IMI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 203,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03c5\\u03bd+\\u03c0\\u03b1\\u03c1\\u03b1++\\u03b5\\u1f30\\u03bc\\u03af\",\"form\":\"\\u03c3\\u03c5\\u03bc\\u03c0\\u03b1\\u03c1\\u03ae\\u03bc\\u03b7\\u03bd\"},\"choices\":[\"AMI.1S\",\"IMI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 204,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f30\\u03c2++\\u1f14\\u03c1\\u03c7\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03b5\\u1f30\\u03c3\\u03ad\\u03bb\\u03b8\\u03b1\\u03c4\\u03b5\"},\"choices\":[\"AMI.2P\",\"AAD.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 205,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f50\\u03b1\\u03b3\\u03b3\\u03b5\\u03bb\\u03af\\u03b6\\u03c9\",\"form\":\"\\u03b5\\u1f50\\u03b1\\u03b3\\u03b3\\u03ad\\u03bb\\u03b9\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AMI.2S\",\"AMD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 206,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b2\\u03bb\\u03b1\\u03c3\\u03c6\\u03b7\\u03bc\\u03ad\\u03c9\",\"form\":\"\\u1f10\\u03b2\\u03bb\\u03b1\\u03c3\\u03c6\\u03ae\\u03bc\\u03b7\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"AMI.3P\",\"AAI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 207,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u1f27\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f10\\u03ba\\u03ac\\u03b8\\u03b7\\u03bd\\u03c4\\u03bf\"},\"choices\":[\"AMI.3P\",\"IMI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 208,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03c4\\u03b5\\u03c1\\u03ad\\u03c9\",\"form\":\"\\u1f10\\u03c3\\u03c4\\u03ad\\u03c1\\u03b7\\u03bd\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"AMI.3P\",\"XMI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 209,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c4\\u03af\\u03b8\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u1f14\\u03b8\\u03b5\\u03bd\\u03c4\\u03bf\"},\"choices\":[\"AMI.3S\",\"AMI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 210,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u1f27\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f10\\u03ba\\u03ac\\u03b8\\u03b7\\u03c4\\u03bf\"},\"choices\":[\"AMI.3S\",\"IMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 211,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bc\\u03bf\\u03b9\\u03c7\\u03ac\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f10\\u03bc\\u03bf\\u03b9\\u03c7\\u1fb6\\u03c4\\u03bf\"},\"choices\":[\"AMI.3S\",\"IMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 212,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f50\\u03c6\\u03c1\\u03b1\\u03af\\u03bd\\u03c9\",\"form\":\"\\u03b5\\u1f50\\u03c6\\u03c1\\u03b1\\u03af\\u03bd\\u03b5\\u03c4\\u03bf\"},\"choices\":[\"AMI.3S\",\"IMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 213,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f40\\u03c1\\u03b8\\u03cc\\u03c9\",\"form\":\"\\u1f64\\u03c1\\u03b8\\u03c9\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"AMI.3S\",\"XMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 214,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c1\\u03b7\\u03bc\\u03cc\\u03c9\",\"form\":\"\\u1f20\\u03c1\\u03ae\\u03bc\\u03c9\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"AMI.3S\",\"XMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 215,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03bd\\u03b1++\\u03bf\\u1f34\\u03b3\\u03c9\",\"form\":\"\\u1f00\\u03bd\\u03bf\\u1fd6\\u03be\\u03b1\\u03b9\"},\"choices\":[\"AMN\",\"AAN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 216,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03c6\\u03c1\\u03b1\\u03b3\\u03af\\u03b6\\u03c9\",\"form\":\"\\u03c3\\u03c6\\u03c1\\u03b1\\u03b3\\u03af\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"AMN\",\"AAO.3S\",\"AAN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 217,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u1f60\\u03b8\\u03ad\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03c9\\u03c3\\u03b8\\u1fc6\\u03bd\\u03b1\\u03b9\"},\"choices\":[\"AMN\",\"APN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 218,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b6\\u03ce\\u03bd\\u03bd\\u03c5\\u03bc\\u03b9\",\"form\":\"\\u1f10\\u03b6\\u03c9\\u03c3\\u03bc\\u03ad\\u03bd\\u03bf\\u03c2\"},\"choices\":[\"AMP.\",\"XMP.NSM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 219,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03c4\\u03bf\\u03bb\\u03af\\u03b6\\u03c9\",\"form\":\"\\u1f10\\u03c3\\u03c4\\u03bf\\u03bb\\u03b9\\u03c3\\u03bc\\u03ad\\u03bd\\u03bf\\u03c5\\u03c2\"},\"choices\":[\"AMP.APM\",\"XMP.APM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 220,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u1fe5\\u03ae\\u03b3\\u03bd\\u03c5\\u03bc\\u03b9\",\"form\":\"\\u03ba\\u03b1\\u03c4\\u03b5\\u03c1\\u03c1\\u03b1\\u03b3\\u03bc\\u03ad\\u03bd\\u03bf\\u03c5\\u03c2\"},\"choices\":[\"AMP.APM\",\"XMP.APM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 221,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf+\\u1f00\\u03bd\\u03b1++\\u1f35\\u03b6\\u03c9\",\"form\":\"\\u1f20\\u03c6\\u03b1\\u03bd\\u03b9\\u03c3\\u03bc\\u03ad\\u03bd\\u03b7\\u03bd\"},\"choices\":[\"AMP.ASF\",\"XMP.ASF\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 222,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u1f60\\u03b8\\u03ad\\u03c9\",\"form\":\"\\u1f10\\u03be\\u03c9\\u03c3\\u03bc\\u03ad\\u03bd\\u03bf\\u03bd\"},\"choices\":[\"AMP.ASM\",\"XMP.ASN\",\"XMP.NSN\",\"XMP.ASM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 223,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03b9++\\u03b1\\u1f34\\u03c1\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03b7\\u03c1\\u03bc\\u03ad\\u03bd\\u03bf\\u03bd\"},\"choices\":[\"AMP.ASM\",\"XMP.ASN\",\"XMP.NSN\",\"XMP.ASM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 224,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b4\\u03b9\\u03b1++\\u1f01\\u03c1\\u03c0\\u03ac\\u03b6\\u03c9\",\"form\":\"\\u03b4\\u03b9\\u03b7\\u03c1\\u03c0\\u03b1\\u03c3\\u03bc\\u03ad\\u03bd\\u03bf\\u03bd\"},\"choices\":[\"AMP.ASN\",\"XMP.ASN\",\"XMP.NSN\",\"XMP.ASM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 225,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1fe5\\u03ce\\u03bd\\u03bd\\u03c5\\u03bc\\u03b9\",\"form\":\"\\u1f10\\u03c1\\u03c1\\u03c9\\u03bc\\u03ad\\u03bd\\u03c9\\u03bd\"},\"choices\":[\"AMP.GPN\",\"XMP.GPF\",\"XMP.GPM\",\"XMP.GPN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 226,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b2\\u03b4\\u03b5\\u03bb\\u03cd\\u03c3\\u03c3\\u03c9\",\"form\":\"\\u1f10\\u03b2\\u03b4\\u03b5\\u03bb\\u03c5\\u03b3\\u03bc\\u03ad\\u03bd\\u03c9\\u03bd\"},\"choices\":[\"AMP.GPN\",\"XMP.GPF\",\"XMP.GPM\",\"XMP.GPN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 227,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03b9++\\u03b1\\u1f34\\u03c1\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03b7\\u03c1\\u03bc\\u03ad\\u03bd\\u03bf\\u03c5\"},\"choices\":[\"AMP.GSM\",\"XMP.GSN\",\"XMP.GSM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 228,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf+\\u1f00\\u03bd\\u03b1++\\u1f35\\u03b6\\u03c9\",\"form\":\"\\u1f20\\u03c6\\u03b1\\u03bd\\u03b9\\u03c3\\u03bc\\u03ad\\u03bd\\u03b1\\u03b9\"},\"choices\":[\"AMP.NPF\",\"XMP.NPF\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 229,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03b2\\u03ad\\u03bd\\u03bd\\u03c5\\u03bc\\u03b9\",\"form\":\"\\u1f10\\u03c3\\u03b2\\u03b5\\u03c3\\u03bc\\u03ad\\u03bd\\u03bf\\u03b9\"},\"choices\":[\"AMP.NPM\",\"XMP.NPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 230,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf+\\u1f00\\u03bd\\u03b1++\\u1f35\\u03b6\\u03c9\",\"form\":\"\\u1f20\\u03c6\\u03b1\\u03bd\\u03b9\\u03c3\\u03bc\\u03ad\\u03bd\\u03bf\\u03b9\"},\"choices\":[\"AMP.NPM\",\"XMP.NPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 231,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u1f10\\u03bb\\u03c0\\u03af\\u03b6\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03b7\\u03bb\\u03c0\\u03b9\\u03c3\\u03bc\\u03ad\\u03bd\\u03bf\\u03b9\"},\"choices\":[\"AMP.NPM\",\"XMP.NPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 232,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03bf\\u03c1\\u03b5\\u03cd\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03c0\\u03bf\\u03c1\\u03b5\\u03c5\\u03b8\\u03b5\\u03af\\u03c2\"},\"choices\":[\"AMP.NSM\",\"APP.NSM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 233,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f05\\u03c0\\u03c4\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f05\\u03c8\\u03b1\\u03c3\\u03b8\\u03b5\"},\"choices\":[\"AMS.2P\",\"AMD.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 234,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f05\\u03c0\\u03c4\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f05\\u03c8\\u03b1\\u03b9\"},\"choices\":[\"AMS.2S\",\"AAO.3S\",\"AAN\",\"AMD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 235,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03bd\\u03b1++\\u03b2\\u03b1\\u03af\\u03bd\\u03c9\",\"form\":\"\\u1f00\\u03bd\\u03b1\\u03b2\\u03ae\\u03c3\\u1fc3\"},\"choices\":[\"AMS.2S\",\"FMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 236,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03b9++\\u03b2\\u03b1\\u03af\\u03bd\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03b9\\u03b2\\u03ae\\u03c3\\u1fc3\"},\"choices\":[\"AMS.2S\",\"FMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 237,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u03b8\\u03bd\\u03ae\\u03c3\\u03ba\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03bf\\u03b8\\u03b1\\u03bd\\u1fc7\"},\"choices\":[\"AMS.2S\",\"FMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 238,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03b9++\\u1f35\\u03c3\\u03c4\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u1f10\\u03c0\\u03af\\u03c3\\u03c4\\u1fc3\"},\"choices\":[\"AMS.2S\",\"PMI.2S\",\"PMS.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 239,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u03b8\\u03bd\\u03ae\\u03c3\\u03ba\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03bf\\u03b8\\u03b1\\u03bd\\u1fc7\"},\"choices\":[\"AMS.3S\",\"FMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 240,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b9\\u03c3\\u03c4\\u03cc\\u03c9\",\"form\":\"\\u03c0\\u03b9\\u03c3\\u03c4\\u03c9\\u03b8\\u03ae\\u03c4\\u03c9\"},\"choices\":[\"APD.2S\",\"APD.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 241,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b9\\u03c3\\u03c4\\u03cc\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03b9\\u03c3\\u03c4\\u03ce\\u03b8\\u03b7\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"APD.3P\",\"API.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 242,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u1f14\\u03c1\\u03c7\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f10\\u03be\\u03b5\\u03bb\\u03b8\\u03ac\\u03c4\\u03c9\"},\"choices\":[\"APD.3S\",\"AAD.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 243,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b1\\u03c1\\u03b1++\\u03c4\\u03af\\u03b8\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u03c0\\u03b1\\u03c1\\u03b5\\u03b8\\u03ad\\u03bc\\u03b7\\u03bd\"},\"choices\":[\"API.1S\",\"AMI.1S\",\"IMI.1S\",\"IAI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 244,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03b9++\\u03c4\\u03af\\u03b8\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u1f10\\u03c0\\u03af\\u03b8\\u03b5\\u03c4\\u03b5\"},\"choices\":[\"API.2P\",\"AAI.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 245,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03bd++\\u03c4\\u03c1\\u03ad\\u03c0\\u03c9\",\"form\":\"\\u1f10\\u03bd\\u03c4\\u03c1\\u03b1\\u03c0\\u03ae\\u03c3\\u1fc3\"},\"choices\":[\"API.2S\",\"FPI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 246,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c4\\u03af\\u03b8\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u1f14\\u03b8\\u03b5\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"API.3P\",\"AAI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 247,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u03bc\\u03c5\\u03ba\\u03c4\\u03b7\\u03c1\\u03af\\u03b6\\u03c9\",\"form\":\"\\u1f10\\u03be\\u03b5\\u03bc\\u03c5\\u03ba\\u03c4\\u03ae\\u03c1\\u03b9\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"API.3P\",\"AAI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 248,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f36\\u03c0\\u03bf\\u03bd\",\"form\":\"\\u03b5\\u1f34\\u03c0\\u03b1\\u03b9\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"APO.3P\",\"AAO.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 249,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03b1\\u03bb\\u03b5\\u03cd\\u03c9\",\"form\":\"\\u03c3\\u03b1\\u03bb\\u03b5\\u03c5\\u03b8\\u1fc7\\u03c2\"},\"choices\":[\"APP.2S\",\"APS.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 250,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03bd++\\u03c0\\u03b9\\u03c3\\u03c4\\u03b5\\u03cd\\u03c9\",\"form\":\"\\u1f10\\u03bc\\u03c0\\u03b9\\u03c3\\u03c4\\u03b5\\u03c5\\u03b8\\u03ad\\u03bd\\u03c4\\u03b1\"},\"choices\":[\"APP.ASN\",\"APP.APN\",\"APP.NPN\",\"APP.ASM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 251,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u1f00\\u03bb\\u03bb\\u03ac\\u03c3\\u03c3\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03b1\\u03bb\\u03bb\\u03b1\\u03b3\\u1ff6\\u03c3\\u03b9(\\u03bd)\"},\"choices\":[\"APP.DPM\",\"APS.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 252,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u03b5\\u1f50\\u03b8\\u03cd\\u03bd\\u03c9\",\"form\":\"\\u03ba\\u03b1\\u03c4\\u03b5\\u03c5\\u03b8\\u03c5\\u03bd\\u03bf\\u03cd\\u03c3\\u03b7\\u03c2\"},\"choices\":[\"APP.GSF\",\"PAP.GSF\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 253,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bc\\u03b7\\u03bd\\u03cd\\u03c9\",\"form\":\"\\u03bc\\u03b7\\u03bd\\u03c5\\u03b8\\u03ad\\u03bd\\u03c4\\u03c9\\u03bd\"},\"choices\":[\"APP.NSM\",\"APD.3P\",\"APP.GPN\",\"APP.GPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 254,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c4\\u03ae\\u03ba\\u03c9\",\"form\":\"\\u03c4\\u03b1\\u03ba\\u03b5\\u1fd6\\u03c3\\u03b1\"},\"choices\":[\"APP.NSM\",\"APP.NSF\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 255,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03bd\\u03b1++\\u1f14\\u03c1\\u03c7\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f00\\u03bd\\u03ad\\u03bb\\u03c9\\u03bc\\u03b5\\u03bd\"},\"choices\":[\"APS.1P\",\"AAS.1P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 256,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u1fe5\\u03af\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03bf\\u03c1\\u03c1\\u03b9\\u03c6\\u1ff6\\u03bc\\u03b5\\u03bd\"},\"choices\":[\"APS.1S\",\"APS.1P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 257,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03bd\\u03b1++\\u1f14\\u03c1\\u03c7\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f00\\u03bd\\u03ad\\u03bb\\u1fc3\\u03c2\"},\"choices\":[\"APS.2S\",\"AAS.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 258,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f40\\u03bb\\u03b9\\u03c3\\u03b8\\u03b1\\u03af\\u03bd\\u03c9\",\"form\":\"\\u1f40\\u03bb\\u03af\\u03c3\\u03b8\\u1fc3\\u03c2\"},\"choices\":[\"APS.2S\",\"AAS.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 259,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b5\\u03c1\\u03b9++\\u1f14\\u03c1\\u03c7\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03c0\\u03b5\\u03c1\\u03b9\\u03ad\\u03bb\\u1fc3\\u03c2\"},\"choices\":[\"APS.2S\",\"AAS.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 260,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f31\\u03bb\\u03ac\\u03c3\\u03ba\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f31\\u03bb\\u03ac\\u03c3\\u03b8\\u03b7\\u03c4\\u03b9\"},\"choices\":[\"APS.2S\",\"APD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 261,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b5\\u03c1\\u03b9++\\u1f14\\u03c1\\u03c7\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03c0\\u03b5\\u03c1\\u03b9\\u03ad\\u03bb\\u1fc3\"},\"choices\":[\"APS.3S\",\"AMS.2S\",\"AAS.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 262,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03ba\\u03bf\\u03cd\\u03c9\",\"form\":\"\\u1f00\\u03ba\\u03bf\\u03c5\\u03c3\\u03b8\\u03ae\\u03c3\\u1fc3\"},\"choices\":[\"APS.3S\",\"FPI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 263,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c4\\u03b1\\u03c0\\u03b5\\u03b9\\u03bd\\u03cc\\u03c9\",\"form\":\"\\u03c4\\u03b1\\u03c0\\u03b5\\u03af\\u03bd\\u03c9\\u03c3\\u03bf\\u03bd\"},\"choices\":[\"FAD.2S\",\"FAP.NSN\",\"FAP.ASN\",\"AAD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 264,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f84\\u03b4\\u03c9\",\"form\":\"\\u1f84\\u03c3\\u03c9\\u03bc\\u03b5\\u03bd\"},\"choices\":[\"FAI.1P\",\"AAS.1P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 265,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f44\\u03bc\\u03bd\\u03c5\\u03bc\\u03b9\",\"form\":\"\\u1f40\\u03bc\\u03cc\\u03c3\\u03c9\"},\"choices\":[\"FAI.1S\",\"AAS.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 266,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03bd++\\u03c0\\u03af\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u1f10\\u03bc\\u03c0\\u03ad\\u03c3\\u03c9\"},\"choices\":[\"FAI.1S\",\"AAS.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 267,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u03c3\\u03c4\\u03ad\\u03bb\\u03bb\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03bf\\u03c3\\u03c4\\u03b5\\u03af\\u03bb\\u03c9\"},\"choices\":[\"FAI.1S\",\"AAS.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 268,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03bd\\u03b1++\\u03b2\\u03b1\\u03af\\u03bd\\u03c9\",\"form\":\"\\u1f00\\u03bd\\u03b1\\u03b2\\u1ff6\"},\"choices\":[\"FAI.1S\",\"APS.1S\",\"AAS.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 269,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03bb\\u03c0\\u03af\\u03b6\\u03c9\",\"form\":\"\\u1f10\\u03bb\\u03c0\\u03b9\\u03bf\\u1fe6\\u03bc\\u03b5\\u03bd\"},\"choices\":[\"FAI.1S\",\"FAI.1P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 270,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f30\\u03ac\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f30\\u03ac\\u03c3\\u03bf\\u03bc\\u03b1\\u03b9\"},\"choices\":[\"FAI.1S\",\"FMI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 271,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u1f60\\u03b8\\u03ad\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03ce\\u03c3\\u03bf\\u03bc\\u03b1\\u03b9\"},\"choices\":[\"FAI.1S\",\"FMI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 272,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03bd\\u03b1++\\u03b2\\u03b1\\u03af\\u03bd\\u03c9\",\"form\":\"\\u1f00\\u03bd\\u03b1\\u03b2\\u03ae\\u03c3\\u03bf\\u03bc\\u03b1\\u03b9\"},\"choices\":[\"FAI.1S\",\"FMI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 273,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u03b4\\u03b9\\u03ba\\u03ad\\u03c9\",\"form\":\"\\u1f10\\u03ba\\u03b4\\u03b9\\u03ba\\u1ff6\"},\"choices\":[\"FAI.1S\",\"PAI.1S\",\"PAS.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 274,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bb\\u03b9\\u03ba\\u03bc\\u03ac\\u03c9\",\"form\":\"\\u03bb\\u03b9\\u03ba\\u03bc\\u03ae\\u03c3\\u03b5\\u03b9\\u03c2\"},\"choices\":[\"FAI.2P\",\"FAI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 275,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b4\\u03b9\\u03b1++\\u03b1\\u1f31\\u03c1\\u03ad\\u03c9\",\"form\":\"\\u03b4\\u03b9\\u03b5\\u03bb\\u03b5\\u1fd6\\u03c3\\u03b8\\u03b5\"},\"choices\":[\"FAI.2P\",\"FMI.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 276,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03c1\\u03bf\\u03c2++\\u03ba\\u03c5\\u03bd\\u03ad\\u03c9\",\"form\":\"\\u03c0\\u03c1\\u03bf\\u03c3\\u03ba\\u03c5\\u03bd\\u03b5\\u1fd6\\u03c4\\u03b5\"},\"choices\":[\"FAI.2P\",\"PAI.2P\",\"PAD.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 277,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03b8\\u1ff3\\u03cc\\u03c9\",\"form\":\"\\u1f00\\u03b8\\u1ff3\\u03ce\\u03c3\\u1fc3\\u03c2\"},\"choices\":[\"FAI.2S\",\"AAS.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 278,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03ba\\u03bf\\u03cd\\u03c9\",\"form\":\"\\u1f00\\u03ba\\u03bf\\u03cd\\u03c3\\u1fc3\"},\"choices\":[\"FAI.2S\",\"AMS.2S\",\"AAS.3S\",\"FMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 279,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f30\\u03c2++\\u1f00\\u03ba\\u03bf\\u03cd\\u03c9\",\"form\":\"\\u03b5\\u1f30\\u03c3\\u03b1\\u03ba\\u03bf\\u03cd\\u03c3\\u1fc3\"},\"choices\":[\"FAI.2S\",\"AMS.2S\",\"AAS.3S\",\"FMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 280,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03bf\\u03c1\\u03b5\\u03cd\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03c0\\u03bf\\u03c1\\u03b5\\u03cd\\u03c3\\u1fc3\"},\"choices\":[\"FAI.2S\",\"AMS.2S\",\"FMI.2S\",\"AAS.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 281,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b1\\u03c1\\u03b1++\\u1f40\\u03c1\\u03b3\\u03af\\u03b6\\u03c9\",\"form\":\"\\u03c0\\u03b1\\u03c1\\u03bf\\u03c1\\u03b3\\u03b9\\u1ff6\"},\"choices\":[\"FAI.2S\",\"FAI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 282,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba+\\u1f00\\u03c0\\u03bf++\\u03c3\\u03c4\\u03ad\\u03bb\\u03bb\\u03c9\",\"form\":\"\\u1f10\\u03be\\u03b1\\u03c0\\u03bf\\u03c3\\u03c4\\u03b5\\u03bb\\u1ff6\"},\"choices\":[\"FAI.2S\",\"FAI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 283,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03c1\\u03bf++\\u03bd\\u03bf\\u03bc\\u03b5\\u03cd\\u03c9\",\"form\":\"\\u03c0\\u03c1\\u03bf\\u03bd\\u03bf\\u03bc\\u03b5\\u03cd\\u03c3\\u03c9\"},\"choices\":[\"FAI.2S\",\"FAI.1S\",\"AAS.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 284,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u1f00\\u03bb\\u03bb\\u03bf\\u03c4\\u03c1\\u03b9\\u03cc\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03b1\\u03bb\\u03bb\\u03bf\\u03c4\\u03c1\\u03b9\\u03ce\\u03c3\\u03b5\\u03c4\\u03b5\"},\"choices\":[\"FAI.2S\",\"FAI.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 285,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03ba\\u03bf\\u03c4\\u03ac\\u03b6\\u03c9\",\"form\":\"\\u03c3\\u03ba\\u03bf\\u03c4\\u03ac\\u03c3\\u03b5\\u03b9\"},\"choices\":[\"FAI.2S\",\"FAI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 286,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f30\\u03bc\\u03af\",\"form\":\"\\u1f14\\u03c3\\u1fc3\"},\"choices\":[\"FAI.2S\",\"FMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 287,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u03b8\\u03bd\\u03ae\\u03c3\\u03ba\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03bf\\u03b8\\u03b1\\u03bd\\u1fc7\"},\"choices\":[\"FAI.2S\",\"FMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 288,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c3\\u03b8\\u03af\\u03c9\",\"form\":\"\\u03c6\\u03ac\\u03b3\\u03b5\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"FAI.2S\",\"FMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 289,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f30\\u03bc\\u03af\",\"form\":\"\\u1f14\\u03c3\\u03b5\\u03b9\"},\"choices\":[\"FAI.2S\",\"FMI.2S\",\"FAI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 290,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03c7\\u03af\\u03b6\\u03c9\",\"form\":\"\\u03c3\\u03c7\\u03af\\u03c3\\u03b5\\u03b9\"},\"choices\":[\"FAI.2S\",\"FMI.2S\",\"FAI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 291,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03b9\\u03c2++\\u1f14\\u03c1\\u03c7\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03b5\\u1f30\\u03c3\\u03b5\\u03bb\\u03b5\\u03cd\\u03c3\\u03b5\\u03b9\"},\"choices\":[\"FAI.2S\",\"FMI.2S\",\"FAI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 292,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03af\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u03c0\\u03ad\\u03c3\\u03c9\\u03c3\\u03b9(\\u03bd)\"},\"choices\":[\"FAI.3P\",\"AAS.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 293,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03bb\\u03b5\\u03ad\\u03c9\",\"form\":\"\\u1f10\\u03bb\\u03b5\\u03ae\\u03c3\\u03c9\\u03c3\\u03b9(\\u03bd)\"},\"choices\":[\"FAI.3P\",\"AAS.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 294,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03b8\\u03b5\\u03c4\\u03ad\\u03c9\",\"form\":\"\\u1f00\\u03b8\\u03b5\\u03c4\\u03ae\\u03c3\\u03c9\\u03c3\\u03b9(\\u03bd)\"},\"choices\":[\"FAI.3P\",\"AAS.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 295,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u03bb\\u03b5\\u03af\\u03c0\\u03c9\",\"form\":\"\\u03ba\\u03b1\\u03c4\\u03b1\\u03bb\\u03af\\u03c0\\u03c9\\u03c3\\u03b9(\\u03bd)\"},\"choices\":[\"FAI.3P\",\"AAS.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 296,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03af\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u03c0\\u03b5\\u03c3\\u03bf\\u1fe6\\u03bd\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"FAI.3P\",\"FMI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 297,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03c0\\u03b5\\u03af\\u03c1\\u03c9\",\"form\":\"\\u03c3\\u03c0\\u03b5\\u03af\\u03c1\\u03c9\\u03c3\\u03b9(\\u03bd)\"},\"choices\":[\"FAI.3P\",\"PAS.3P\",\"AAS.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 298,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bb\\u03b1\\u03bd\\u03b8\\u03ac\\u03bd\\u03c9\",\"form\":\"\\u03bb\\u03ac\\u03b8\\u1fc3\"},\"choices\":[\"FAI.3S\",\"AMS.2S\",\"AAS.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 299,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b1\\u03c1\\u03b1++\\u1f41\\u03b4\\u03b5\\u03cd\\u03c9\",\"form\":\"\\u03c0\\u03b1\\u03c1\\u03bf\\u03b4\\u03b5\\u03cd\\u03c3\\u1fc3\"},\"choices\":[\"FAI.3S\",\"AMS.2S\",\"AAS.3S\",\"FMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 300,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u1f40\\u03bb\\u03b5\\u03b8\\u03c1\\u03b5\\u03cd\\u03c9\",\"form\":\"\\u1f10\\u03be\\u03bf\\u03bb\\u03b5\\u03b8\\u03c1\\u03b5\\u03cd\\u03c3\\u1fc3\"},\"choices\":[\"FAI.3S\",\"AMS.2S\",\"FMI.2S\",\"AAS.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 301,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03c4\\u03bf\\u03bb\\u03af\\u03b6\\u03c9\",\"form\":\"\\u03c3\\u03c4\\u03bf\\u03bb\\u03b9\\u1ff6\"},\"choices\":[\"FAI.3S\",\"FAI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 302,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b8\\u03b7\\u03c1\\u03b5\\u03cd\\u03c9\",\"form\":\"\\u03b8\\u03b7\\u03c1\\u03b5\\u03cd\\u03c3\\u03b5\\u03b9\\u03c2\"},\"choices\":[\"FAI.3S\",\"FAI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 303,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03ac\\u03bc\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u03ba\\u03ac\\u03bc\\u03c8\\u03bf\\u03c5\\u03c3\\u03b9(\\u03bd)\"},\"choices\":[\"FAI.3S\",\"FAI.3P\",\"FAP.DPM\",\"FAP.DPN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 304,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03bb\\u03b7\\u03c1\\u03cc\\u03c9\",\"form\":\"\\u03c0\\u03bb\\u03b7\\u03c1\\u03ce\\u03c3\\u03bf\\u03c5\\u03c3\\u03b9(\\u03bd)\"},\"choices\":[\"FAI.3S\",\"FAI.3P\",\"FAP.DPM\",\"FAP.DPN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 305,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c1\\u03b7\\u03bc\\u03cc\\u03c9\",\"form\":\"\\u1f10\\u03c1\\u03b7\\u03bc\\u03ce\\u03c3\\u03bf\\u03c5\\u03c3\\u03b9(\\u03bd)\"},\"choices\":[\"FAI.3S\",\"FAI.3P\",\"FAP.DPM\",\"FAP.DPN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 306,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03b5\\u03b9\\u03b8\\u03ad\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03b5\\u03b9\\u03b8\\u03ae\\u03c3\\u03bf\\u03c5\\u03c3\\u03b9(\\u03bd)\"},\"choices\":[\"FAI.3S\",\"FAI.3P\",\"FAP.DPM\",\"FAP.DPN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 307,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f40\\u03c6\\u03b5\\u03af\\u03bb\\u03c9\",\"form\":\"\\u1f40\\u03c6\\u03b5\\u03b9\\u03bb\\u03ae\\u03c3\\u03b5\\u03b9\\u03bd\"},\"choices\":[\"FAI.3S\",\"FAN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 308,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03c5\\u03bd++\\u03b2\\u03b9\\u03b2\\u03ac\\u03b6\\u03c9\",\"form\":\"\\u03c3\\u03c5\\u03bc\\u03b2\\u03b9\\u03b2\\u1fb7\"},\"choices\":[\"FAI.3S\",\"FMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 309,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f30\\u03ac\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f30\\u03ac\\u03c3\\u03b5\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"FAI.3S\",\"FMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 310,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f05\\u03bb\\u03bb\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f01\\u03bb\\u03b5\\u1fd6\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"FAI.3S\",\"FMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 311,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03af\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u03c0\\u03b5\\u03c3\\u03b5\\u1fd6\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"FAI.3S\",\"FMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 312,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03bd++\\u03c0\\u03af\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u1f10\\u03bc\\u03c0\\u03b5\\u03c3\\u03b5\\u1fd6\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"FAI.3S\",\"FMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 313,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b4\\u03b9\\u03b1++\\u03c0\\u03af\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u03b4\\u03b9\\u03b1\\u03c0\\u03b5\\u03c3\\u03b5\\u1fd6\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"FAI.3S\",\"FMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 314,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u03b3\\u03b5\\u03bb\\u03ac\\u03c9\",\"form\":\"\\u03ba\\u03b1\\u03c4\\u03b1\\u03b3\\u03b5\\u03bb\\u03ac\\u03c3\\u03b5\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"FAI.3S\",\"FMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 315,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f30\\u03bc\\u03af\",\"form\":\"\\u1f14\\u03c3\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"FAI.3S\",\"FMI.3S\",\"PMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 316,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u03ba\\u03b1\\u03af\\u03c9\",\"form\":\"\\u03ba\\u03b1\\u03c4\\u03b1\\u03ba\\u03b1\\u03ae\\u03c3\\u03b5\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"FAI.3S\",\"FPI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 317,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03b9++\\u03b2\\u03b9\\u03b2\\u03ac\\u03b6\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03b9\\u03b2\\u03b9\\u03b2\\u1fb7\"},\"choices\":[\"FAI.3S\",\"PAS.3S\",\"PMS.2S\",\"PMI.2S\",\"PAI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 318,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03c5\\u03c1\\u03b9\\u03b5\\u03cd\\u03c9\",\"form\":\"\\u03ba\\u03c5\\u03c1\\u03b9\\u03b5\\u03cd\\u03b5\\u03b9\"},\"choices\":[\"FAI.3S\",\"PMI.2S\",\"PAI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 319,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b5\\u03c1\\u03b9++\\u03c0\\u03af\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u03c0\\u03b5\\u03c1\\u03b9\\u03c0\\u03b5\\u03c3\\u03cc\\u03bd\\u03c4\\u03b1\"},\"choices\":[\"FAP.ASM\",\"AAP.APN\",\"AAP.ASM\",\"AAP.NPN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 320,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03af\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u03c0\\u03b5\\u03c3\\u03cc\\u03bd\\u03c4\\u03b1\"},\"choices\":[\"FAP.ASM\",\"AAP.NPN\",\"AAP.APN\",\"AAP.ASM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 321,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03af\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u03c0\\u03b5\\u03c3\\u03cc\\u03bd\\u03c4\\u03b5\\u03c2\"},\"choices\":[\"FAP.NPM\",\"AAP.NPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 322,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03c1\\u03bf\\u03c2++\\u03c0\\u03af\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u03c0\\u03c1\\u03bf\\u03c3\\u03c0\\u03b5\\u03c3\\u03cc\\u03bd\\u03c4\\u03b5\\u03c2\"},\"choices\":[\"FAP.NPM\",\"AAP.NPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 323,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03bd\\u03b1++\\u1f44\\u03bc\\u03bd\\u03c5\\u03bc\\u03b9\",\"form\":\"\\u1f00\\u03bd\\u03bf\\u03bc\\u03bf\\u1fe6\\u03bd\\u03c4\\u03b5\\u03c2\"},\"choices\":[\"FAP.NPM\",\"PAP.NPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 324,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03c1\\u03bf\\u03c2++\\u03c0\\u03af\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u03c0\\u03c1\\u03bf\\u03c3\\u03c0\\u03b5\\u03c3\\u03cc\\u03bd\"},\"choices\":[\"FAP.NSN\",\"AAP.ASN\",\"AAP.NSN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 325,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u1f35\\u03c3\\u03c4\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u1f10\\u03ba\\u03c3\\u03c4\\u03ae\\u03c3\\u03c9\"},\"choices\":[\"FAS.1S\",\"FAI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 326,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03bd\\u03b1++\\u03b3\\u03b9\\u03b3\\u03bd\\u03ce\\u03c3\\u03ba\\u03c9\",\"form\":\"\\u1f00\\u03bd\\u03b1\\u03b3\\u03bd\\u03ce\\u03c3\\u03b5\\u03c3\\u03b8\\u03b5\"},\"choices\":[\"FMD.2P\",\"FMI.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 327,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f84\\u03b4\\u03c9\",\"form\":\"\\u1f84\\u03c3\\u03bf\\u03bc\\u03b5\\u03bd\"},\"choices\":[\"FMI.1P\",\"FAI.1P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 328,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f30\\u03c3\\u03c7\\u03cd\\u03c9\",\"form\":\"\\u1f30\\u03c3\\u03c7\\u03cd\\u03c3\\u03bf\\u03bc\\u03b5\\u03bd\"},\"choices\":[\"FMI.1P\",\"FAI.1P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 329,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03bf\\u03b9\\u03ad\\u03c9\",\"form\":\"\\u03c0\\u03bf\\u03b9\\u03ae\\u03c3\\u03c9\"},\"choices\":[\"FMI.1S\",\"FAI.1S\",\"AAS.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 330,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bb\\u03bf\\u03b3\\u03af\\u03b6\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03bb\\u03bf\\u03b3\\u03af\\u03c3\\u03b7\\u03c3\\u03b8\\u03b5\"},\"choices\":[\"FMI.2P\",\"AMS.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 331,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f40\\u03bb\\u03bf\\u03bb\\u03cd\\u03b6\\u03c9\",\"form\":\"\\u1f40\\u03bb\\u03bf\\u03bb\\u03cd\\u03be\\u03b5\\u03c4\\u03b5\"},\"choices\":[\"FMI.2P\",\"FAI.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 332,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03af\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u03c0\\u03ad\\u03c3\\u1fc3\"},\"choices\":[\"FMI.2S\",\"AMS.2S\",\"AAS.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 333,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f44\\u03bc\\u03bd\\u03c5\\u03bc\\u03b9\",\"form\":\"\\u1f40\\u03bc\\u03cc\\u03c3\\u1fc3\"},\"choices\":[\"FMI.2S\",\"AMS.2S\",\"AAS.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 334,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03bd++\\u03c0\\u03af\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u1f10\\u03bc\\u03c0\\u03ad\\u03c3\\u1fc3\"},\"choices\":[\"FMI.2S\",\"AMS.2S\",\"AAS.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 335,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b4\\u03b9\\u03b1++\\u03c0\\u03af\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u03b4\\u03b9\\u03b1\\u03c0\\u03ad\\u03c3\\u1fc3\"},\"choices\":[\"FMI.2S\",\"AMS.2S\",\"AAS.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 336,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u03b8\\u03bd\\u03ae\\u03c3\\u03ba\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03bf\\u03b8\\u03b1\\u03bd\\u03b5\\u1fd6\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"FMI.2S\",\"FMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 337,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b8\\u03ac\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u03c4\\u03b1\\u03c6\\u03ae\\u03c3\\u1fc3\"},\"choices\":[\"FMI.2S\",\"FPI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 338,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba+\\u1f00\\u03c0\\u03bf++\\u03c3\\u03c4\\u03ad\\u03bb\\u03bb\\u03c9\",\"form\":\"\\u1f10\\u03be\\u03b1\\u03c0\\u03bf\\u03c3\\u03c4\\u03ad\\u03bb\\u03bb\\u1fc3\"},\"choices\":[\"FMI.2S\",\"PAS.3S\",\"PMI.2S\",\"PMS.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 339,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03b3\\u03b5\\u03af\\u03c1\\u03c9\",\"form\":\"\\u1f10\\u03b3\\u03b5\\u03c1\\u03bf\\u1fe6\\u03c3\\u03b9(\\u03bd)\"},\"choices\":[\"FMI.3P\",\"FAI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 340,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b6\\u03ac\\u03c9\",\"form\":\"\\u03b6\\u03ae\\u03c3\\u03b5\\u03c3\\u03b8\\u03b5\"},\"choices\":[\"FMI.3P\",\"FMI.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 341,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b1\\u03c1\\u03b1++\\u03c3\\u03b9\\u03c9\\u03c0\\u03ac\\u03c9\",\"form\":\"\\u03c0\\u03b1\\u03c1\\u03b1\\u03c3\\u03b9\\u03c9\\u03c0\\u03ae\\u03c3\\u03b5\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"FMI.3P\",\"FMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 342,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03bd\\u03c4\\u03b9++\\u03b5\\u1f36\\u03c0\\u03bf\\u03bd\",\"form\":\"\\u1f00\\u03bd\\u03c4\\u03b5\\u03af\\u03c0\\u1fc3\"},\"choices\":[\"FMI.3S\",\"AMS.2S\",\"AAS.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 343,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03bf\\u03c1\\u03b5\\u03cd\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03c0\\u03bf\\u03c1\\u03b5\\u03cd\\u03c3\\u1fc3\"},\"choices\":[\"FMI.3S\",\"AMS.2S\",\"FMI.2S\",\"AAS.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 344,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b8\\u03c1\\u03b7\\u03bd\\u03ad\\u03c9\",\"form\":\"\\u03b8\\u03c1\\u03b7\\u03bd\\u03ae\\u03c3\\u03b5\\u03b9\"},\"choices\":[\"FMI.3S\",\"FMI.2S\",\"FAI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 345,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03af\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u03c0\\u03b5\\u03c3\\u03bf\\u1fe6\\u03bd\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"FMI.3S\",\"FMI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 346,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03c5\\u03bd++\\u03c4\\u03b5\\u03bb\\u03ad\\u03c9\",\"form\":\"\\u03c3\\u03c5\\u03bd\\u03c4\\u03b5\\u03bb\\u03ad\\u03c3\\u1fc3\"},\"choices\":[\"FMS.2S\",\"AMS.2S\",\"FMI.2S\",\"AAS.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 347,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u1f40\\u03bb\\u03bb\\u03cd\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03bf\\u03bb\\u03b5\\u1fd6\\u03c3\\u03b8\\u03b5\"},\"choices\":[\"FPI.2P\",\"FMI.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 348,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b2\\u03bf\\u03ac\\u03c9\",\"form\":\"\\u03b2\\u03bf\\u03b7\\u03b8\\u03ae\\u03c3\\u03b5\\u03b9\"},\"choices\":[\"FPI.2S\",\"FMI.2S\",\"FAI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 349,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03b4\\u03c5\\u03bd\\u03b1\\u03c4\\u03ad\\u03c9\",\"form\":\"\\u1f00\\u03b4\\u03c5\\u03bd\\u03b1\\u03c4\\u03ae\\u03c3\\u03bf\\u03c5\\u03c3\\u03b9(\\u03bd)\"},\"choices\":[\"FPI.3P\",\"FAI.3P\",\"FAP.DPM\",\"FAP.DPN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 350,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b3\\u03b5\\u03bb\\u03ac\\u03c9\",\"form\":\"\\u03b3\\u03b5\\u03bb\\u03ac\\u03c3\\u03bf\\u03bd\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"FPI.3P\",\"FMI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 351,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03ba\\u03bf\\u03cd\\u03c9\",\"form\":\"\\u1f00\\u03ba\\u03bf\\u03cd\\u03c3\\u03bf\\u03bd\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"FPI.3P\",\"FMI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 352,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf+\\u1f00\\u03bd\\u03b1++\\u1f35\\u03b6\\u03c9\",\"form\":\"\\u1f00\\u03c6\\u03b1\\u03bd\\u03b9\\u03c3\\u03b8\\u03ae\\u03c3\\u03b5\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"FPI.3P\",\"FPI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 353,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bc\\u03b5\\u03b3\\u03b1\\u03bb\\u03cd\\u03bd\\u03c9\",\"form\":\"\\u03bc\\u03b5\\u03b3\\u03b1\\u03bb\\u03c5\\u03bd\\u03b8\\u03ae\\u03c3\\u03b5\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"FPI.3P\",\"FPI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 354,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u1f35\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u1f00\\u03c6\\u03ad\\u03b8\\u03b7\"},\"choices\":[\"FPI.3S\",\"API.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 355,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03ba\\u03bf\\u03cd\\u03c9\",\"form\":\"\\u1f20\\u03ba\\u03bf\\u03cd\\u03c3\\u03b8\\u03b7\"},\"choices\":[\"FPI.3S\",\"API.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 356,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u1f10\\u03ba\\u03ba\\u03bb\\u03b7\\u03c3\\u03b9\\u03ac\\u03b6\\u03c9\",\"form\":\"\\u1f10\\u03be\\u03b5\\u03ba\\u03ba\\u03bb\\u03b7\\u03c3\\u03b9\\u03ac\\u03c3\\u03b8\\u03b7\"},\"choices\":[\"FPI.3S\",\"API.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 357,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f51\\u03c0\\u03bf++\\u03bb\\u03b5\\u03af\\u03c0\\u03c9\",\"form\":\"\\u1f51\\u03c0\\u03bf\\u03bb\\u03b5\\u03b9\\u03c6\\u03b8\\u03ad\\u03bd\"},\"choices\":[\"FPI.3S\",\"APP.NSN\",\"APP.ASN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 358,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03ba\\u03ac\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u03c3\\u03ba\\u03b1\\u03c6\\u1fc7\"},\"choices\":[\"FPI.3S\",\"APS.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 359,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03bd++\\u03b4\\u03cd\\u03c9\",\"form\":\"\\u1f10\\u03bd\\u03b4\\u03cd\\u03c3\\u03b5\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"FPI.3S\",\"FMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 360,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03b1\\u03bb\\u03b5\\u03cd\\u03c9\",\"form\":\"\\u03c3\\u03b1\\u03bb\\u03b5\\u03c5\\u03b8\\u03ae\\u03c3\\u03bf\\u03bd\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"FPI.3S\",\"FPI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 361,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u1f35\\u03b6\\u03c9\",\"form\":\"\\u03ba\\u03b1\\u03b8\\u03af\\u03c3\\u03c4\\u03b1\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"FPI.3S\",\"PMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 362,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03bb\\u03ad\\u03c9\",\"form\":\"\\u03ba\\u03b5\\u03ba\\u03bb\\u03ae\\u03c3\\u03b5\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"FPI.3S\",\"ZMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 363,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u03b1\\u1f30\\u03c3\\u03c7\\u03cd\\u03bd\\u03c9\",\"form\":\"\\u03ba\\u03b1\\u03c4\\u03b1\\u03b9\\u03c3\\u03c7\\u03c5\\u03bd\\u03b8\\u1fc7\\u03c2\"},\"choices\":[\"FPS.2S\",\"APS.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 364,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1fe5\\u03cd\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1fe5\\u03c5\\u03c3\\u03b8\\u1ff6\\u03c3\\u03b9(\\u03bd)\"},\"choices\":[\"FPS.3P\",\"APS.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 365,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03c5\\u03bd++\\u03c4\\u03b5\\u03bb\\u03ad\\u03c9\",\"form\":\"\\u03c3\\u03c5\\u03bd\\u03b5\\u03c4\\u03ad\\u03bb\\u03bf\\u03c5\\u03bd\"},\"choices\":[\"IAI.1P\",\"IAI.3P\",\"IAI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 366,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03bf\\u03b9\\u03bc\\u03b1\\u03af\\u03bd\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03bf\\u03af\\u03bc\\u03b1\\u03b9\\u03bd\\u03bf\\u03bd\"},\"choices\":[\"IAI.1P\",\"IAI.3P\",\"IAI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 367,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f30\\u03bc\\u03af\",\"form\":\"\\u1f24\\u03bc\\u03b7\\u03bd\"},\"choices\":[\"IAI.1S\",\"IMI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 368,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b1\\u03c1\\u03b1+\\u1f10\\u03ba++\\u03c4\\u03b5\\u03af\\u03bd\\u03c9\",\"form\":\"\\u03c0\\u03b1\\u03c1\\u03b5\\u03ba\\u03c4\\u03b5\\u1fd6\\u03bd\\u03bf\\u03bd\"},\"choices\":[\"IAI.3P\",\"PAP.NSN\",\"PAP.ASN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 369,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c6\\u03b5\\u03cd\\u03b3\\u03c9\",\"form\":\"\\u1f14\\u03c6\\u03c5\\u03b3\\u03b5(\\u03bd)\"},\"choices\":[\"IAI.3S\",\"AAI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 370,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03bb\\u03b1\\u03af\\u03c9\",\"form\":\"\\u1f10\\u03ba\\u03bb\\u03b1\\u03af\\u03bf\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"IAI.3S\",\"IAI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 371,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b4\\u03c5\\u03c3\\u03c6\\u03bf\\u03c1\\u03ad\\u03c9\",\"form\":\"\\u1f10\\u03b4\\u03c5\\u03c3\\u03c6\\u03cc\\u03c1\\u03bf\\u03c5\\u03bd\"},\"choices\":[\"IAI.3S\",\"IAI.3P\",\"IAI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 372,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u1f27\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f10\\u03ba\\u03ac\\u03b8\\u03b7\\u03c4\\u03bf\"},\"choices\":[\"IAI.3S\",\"IMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 373,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03ac\\u03b8\\u03b7\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f10\\u03ba\\u03ac\\u03b8\\u03b7\\u03c4\\u03bf\"},\"choices\":[\"IAI.3S\",\"IMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 374,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03bd++\\u1f27\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f10\\u03bd\\u03b5\\u03ba\\u03ac\\u03b8\\u03b7\\u03c4\\u03bf\"},\"choices\":[\"IAI.3S\",\"IMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 375,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03bb\\u03b1\\u03c4\\u03c4\\u03bf\\u03bd\\u03cc\\u03c9\",\"form\":\"\\u1f20\\u03bb\\u03b1\\u03c4\\u03c4\\u03bf\\u03bd\\u03bf\\u1fe6\\u03c4\\u03bf\"},\"choices\":[\"IAI.3S\",\"IMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 376,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03c5\\u03bd++\\u03b5\\u1f30\\u03bc\\u03af\",\"form\":\"\\u03c3\\u03c5\\u03bd\\u1fc6\\u03c4\\u03b5\"},\"choices\":[\"IAS.2P\",\"PAS.2P\",\"AAS.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 377,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b4\\u03af\\u03b4\\u03c9\\u03bc\\u03b9\",\"form\":\"\\u1f10\\u03b4\\u03af\\u03b4\\u03bf\\u03c5\\u03bd\"},\"choices\":[\"IMI.1S\",\"IAI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 378,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u03b4\\u03ad\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03ad\\u03b4\\u03bf\\u03c5\"},\"choices\":[\"IMI.2S\",\"AMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 379,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b4\\u03af\\u03b4\\u03c9\\u03bc\\u03b9\",\"form\":\"\\u1f10\\u03b4\\u03af\\u03b4\\u03bf\\u03c5\\u03c2\"},\"choices\":[\"IMI.2S\",\"IAI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 380,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b4\\u03af\\u03b4\\u03c9\\u03bc\\u03b9\",\"form\":\"\\u1f10\\u03b4\\u03af\\u03b4\\u03bf\\u03c5\\u03bd\"},\"choices\":[\"IMI.3P\",\"IAI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 381,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b4\\u03af\\u03b4\\u03c9\\u03bc\\u03b9\",\"form\":\"\\u1f10\\u03b4\\u03af\\u03b4\\u03bf\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"IMI.3P\",\"IAI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 382,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u03b8\\u03bd\\u03ae\\u03c3\\u03ba\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03b5\\u03b8\\u03bd\\u1fc4\\u03c3\\u03ba\\u03bf\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"IMI.3P\",\"IAI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 383,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b4\\u03af\\u03b4\\u03c9\\u03bc\\u03b9\",\"form\":\"\\u1f10\\u03b4\\u03af\\u03b4\\u03bf\\u03c5\"},\"choices\":[\"IMI.3S\",\"IAI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 384,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u1f35\\u03c3\\u03c4\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u1f00\\u03c6\\u03af\\u03c3\\u03c4\\u03b7\\u03c3\\u03b9(\\u03bd)\"},\"choices\":[\"IMI.3S\",\"PAI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 385,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u03c0\\u03b9++\\u03c3\\u03c4\\u03b7\\u03c1\\u03af\\u03b6\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03b5\\u03c3\\u03c4\\u03ae\\u03c1\\u03b9\\u03ba\\u03c4\\u03bf\"},\"choices\":[\"IMI.3S\",\"YMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 386,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03c5\\u03bd++\\u1f35\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u03c3\\u03cd\\u03bd\\u03b5\\u03c4\\u03b5\"},\"choices\":[\"PAD.2P\",\"AAD.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 387,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bb\\u03b1\\u03bc\\u03b2\\u03ac\\u03bd\\u03c9\",\"form\":\"\\u03bb\\u03b1\\u03b2\\u03ad\"},\"choices\":[\"PAD.2S\",\"AAD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 388,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f14\\u03c1\\u03c7\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f10\\u03bb\\u03b8\\u03ad\"},\"choices\":[\"PAD.2S\",\"AAD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 389,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bc\\u03b1\\u03ba\\u03c1\\u03cd\\u03bd\\u03c9\",\"form\":\"\\u03bc\\u03ac\\u03ba\\u03c1\\u03c5\\u03bd\\u03bf\\u03bd\"},\"choices\":[\"PAD.2S\",\"AAD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 390,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03b9++\\u03bb\\u03b1\\u03bc\\u03b2\\u03ac\\u03bd\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03b9\\u03bb\\u03b1\\u03b2\\u03bf\\u1fe6\"},\"choices\":[\"PAD.2S\",\"AMD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 391,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b5\\u03c1\\u03b9\\u03c3\\u03c3\\u03b5\\u03cd\\u03c9\",\"form\":\"\\u03c0\\u03b5\\u03c1\\u03b9\\u03c3\\u03c3\\u03b5\\u03cd\\u03c3\\u1fc3\"},\"choices\":[\"PAD.2S\",\"AMS.2S\",\"AAS.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 392,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03bf\\u03c0\\u03b9\\u03ac\\u03c9\",\"form\":\"\\u03ba\\u03bf\\u03c0\\u03b9\\u1fb6\\u03c4\\u03b5\"},\"choices\":[\"PAD.2S\",\"PAI.2P\",\"PAS.2P\",\"PAD.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 393,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03bf\\u03c1\\u03b5\\u03cd\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03c0\\u03bf\\u03c1\\u03b5\\u03cd\\u03bf\\u03c5\"},\"choices\":[\"PAD.2S\",\"PMD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 394,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u03b5\\u1f50\\u03bf\\u03b4\\u03cc\\u03c9\",\"form\":\"\\u03ba\\u03b1\\u03c4\\u03b5\\u03c5\\u03bf\\u03b4\\u03bf\\u1fe6\"},\"choices\":[\"PAD.2S\",\"PMD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 395,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u1f35\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u1f00\\u03c6\\u03ad\\u03c4\\u03c9\"},\"choices\":[\"PAD.3S\",\"AAD.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 396,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03c5\\u03bd++\\u1f35\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u03c3\\u03c5\\u03bd\\u03ad\\u03c4\\u03c9\"},\"choices\":[\"PAD.3S\",\"AAD.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 397,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f14\\u03c1\\u03c7\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f10\\u03bb\\u03b8\\u03ad\\u03c4\\u03c9\"},\"choices\":[\"PAD.3S\",\"AAD.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 398,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03af\\u03c3\\u03c4\\u03b1\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f10\\u03c0\\u03af\\u03c3\\u03c4\\u03b1\\u03bc\\u03b1\\u03b9\"},\"choices\":[\"PAI.1S\",\"PMI.1S\",\"XMI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 399,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f25\\u03ba\\u03c9\",\"form\":\"\\u1f25\\u03ba\\u03b1\\u03c4\\u03b5\"},\"choices\":[\"PAI.2P\",\"AAI.2P\",\"XAI.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 400,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bc\\u03b1\\u03ba\\u03b1\\u03c1\\u03af\\u03b6\\u03c9\",\"form\":\"\\u03bc\\u03b1\\u03ba\\u03b1\\u03c1\\u03b9\\u03bf\\u1fe6\\u03c3\\u03b9(\\u03bd)\"},\"choices\":[\"PAI.3P\",\"FAI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 401,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f51\\u03bc\\u03bd\\u03ad\\u03c9\",\"form\":\"\\u1f55\\u03bc\\u03bd\\u03bf\\u03c5\\u03bd\"},\"choices\":[\"PAI.3P\",\"IAI.3P\",\"IAI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 402,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03c5\\u03bd++\\u1f10\\u03c7\\u03c9\",\"form\":\"\\u03c3\\u03c5\\u03bd\\u03ad\\u03c7\\u03bf\\u03bd\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"PAI.3P\",\"PMI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 403,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03b1\\u03bb\\u03b5\\u03cd\\u03c9\",\"form\":\"\\u03c3\\u03b1\\u03bb\\u03b5\\u03cd\\u03bf\\u03bd\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"PAI.3P\",\"PMI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 404,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b2\\u03b4\\u03b5\\u03bb\\u03cd\\u03c3\\u03c3\\u03c9\",\"form\":\"\\u03b2\\u03b4\\u03b5\\u03bb\\u03cd\\u03c3\\u03c3\\u03bf\\u03bd\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"PAI.3P\",\"PMI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 405,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b1\\u03c1\\u03b1++\\u1f40\\u03be\\u03cd\\u03bd\\u03c9\",\"form\":\"\\u03c0\\u03b1\\u03c1\\u03bf\\u03be\\u03c5\\u03bd\\u03b5\\u1fd6\"},\"choices\":[\"PAI.3S\",\"FMI.2S\",\"FAI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 406,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f30\\u03c3\\u03c7\\u03cd\\u03c9\",\"form\":\"\\u1f30\\u03c3\\u03c7\\u03cd\\u03c9\"},\"choices\":[\"PAI.3S\",\"PAI.1S\",\"PAS.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 407,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b4\\u03af\\u03b4\\u03c9\\u03bc\\u03b9\",\"form\":\"\\u03b4\\u03b9\\u03b4\\u1ff6\\u03c3\\u03b9(\\u03bd)\"},\"choices\":[\"PAI.3S\",\"PAS.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 408,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03bf\\u03c1\\u03b5\\u03cd\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03c0\\u03bf\\u03c1\\u03b5\\u03cd\\u1fc3\"},\"choices\":[\"PAI.3S\",\"PAS.3S\",\"PMI.2S\",\"PMS.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 409,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03c1\\u03bf\\u03c2++\\u03c4\\u03af\\u03b8\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u03c0\\u03c1\\u03bf\\u03c3\\u03b8\\u03b5\\u1fd6\\u03bd\\u03b1\\u03b9\"},\"choices\":[\"PAN\",\"AAN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 410,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f51\\u03c8\\u03cc\\u03c9\",\"form\":\"\\u1f55\\u03c8\\u03c9\\u03c3\\u03b1\\u03c2\"},\"choices\":[\"PAP.APF\",\"AAI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 411,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03be\\u03b9\\u03cc\\u03c9\",\"form\":\"\\u1f00\\u03be\\u03b9\\u03bf\\u1fe6\\u03bd\\u03c4\\u03b1\\u03c2\"},\"choices\":[\"PAP.APF\",\"PAP.APM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 412,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b1\\u1f31\\u03c1\\u03b5\\u03c4\\u03af\\u03b6\\u03c9\",\"form\":\"\\u03b1\\u1f31\\u03c1\\u03b5\\u03c4\\u03af\\u03b6\\u03bf\\u03bd\\u03c4\\u03b1\\u03c2\"},\"choices\":[\"PAP.APF\",\"PAP.APM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 413,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f30\\u03c3\\u03c7\\u03cd\\u03c9\",\"form\":\"\\u1f30\\u03c3\\u03c7\\u03cd\\u03bf\\u03bd\\u03c4\\u03b1\"},\"choices\":[\"PAP.APM\",\"PAP.APN\",\"PAP.ASM\",\"PAP.NPN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 414,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03c5\\u03bd++\\u1f14\\u03c7\\u03c9\",\"form\":\"\\u03c3\\u03c5\\u03bd\\u03ad\\u03c7\\u03bf\\u03bd\\u03c4\\u03b1\"},\"choices\":[\"PAP.APM\",\"PAP.APN\",\"PAP.ASM\",\"PAP.NPN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 415,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c1\\u03b3\\u03ac\\u03b6\\u03c9\",\"form\":\"\\u1f10\\u03c1\\u03b3\\u03b1\\u03b6\\u03bf\\u03bc\\u03ad\\u03bd\\u03bf\\u03c5\\u03c2\"},\"choices\":[\"PAP.APM\",\"PMP.APM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 416,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u03c6\\u03b8\\u03ad\\u03b3\\u03b3\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f00\\u03c0\\u03bf\\u03c6\\u03b8\\u03b5\\u03b3\\u03b3\\u03bf\\u03bc\\u03ad\\u03bd\\u03bf\\u03c5\\u03c2\"},\"choices\":[\"PAP.APM\",\"PMP.APM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 417,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c4\\u03b1\\u03c1\\u03ac\\u03c3\\u03c3\\u03c9\",\"form\":\"\\u03c4\\u03b1\\u03c1\\u03b1\\u03c3\\u03c3\\u03bf\\u03bc\\u03ad\\u03bd\\u03bf\\u03c5\\u03c2\"},\"choices\":[\"PAP.APM\",\"PMP.APM\",\"FMP.APM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 418,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f41\\u03c1\\u03ac\\u03c9\",\"form\":\"\\u03b5\\u1f30\\u03b4\\u03cc\\u03c4\\u03b1\\u03c2\"},\"choices\":[\"PAP.APM\",\"XAP.APM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 419,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c4\\u03b1\\u03c1\\u03ac\\u03c3\\u03c3\\u03c9\",\"form\":\"\\u03c4\\u03b1\\u03c1\\u03ac\\u03c3\\u03c3\\u03bf\\u03bd\\u03c4\\u03b1\\u03c2\"},\"choices\":[\"PAP.APN\",\"PAP.APM\",\"FAP.APM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 420,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bf\\u1f36\\u03b4\\u03b1\",\"form\":\"\\u03b5\\u1f30\\u03b4\\u03cc\\u03c4\\u03b1\"},\"choices\":[\"PAP.APN\",\"XAP.APN\",\"XAP.ASM\",\"XAP.NPN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 421,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f40\\u03c1\\u03c7\\u03ad\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f40\\u03c1\\u03c7\\u03bf\\u03cd\\u03bc\\u03b5\\u03bd\\u03bf\\u03bd\"},\"choices\":[\"PAP.ASM\",\"PMP.ASM\",\"PMP.ASN\",\"PMP.NSN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 422,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u03bb\\u03b5\\u03af\\u03c0\\u03c9\",\"form\":\"\\u03ba\\u03b1\\u03c4\\u03b1\\u03bb\\u03b5\\u03b9\\u03c6\\u03b8\\u03ad\\u03bd\"},\"choices\":[\"PAP.ASN\",\"APP.NSN\",\"APP.ASN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 423,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f50\\u03bb\\u03bf\\u03b3\\u03ad\\u03c9\",\"form\":\"\\u03b5\\u1f50\\u03bb\\u03cc\\u03b3\\u03bf\\u03c5\\u03bd\"},\"choices\":[\"PAP.ASN\",\"IAI.3P\",\"IAI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 424,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f31\\u03ba\\u03b5\\u03c4\\u03b5\\u03cd\\u03c9\",\"form\":\"\\u1f31\\u03ba\\u03ad\\u03c4\\u03b5\\u03c5\\u03bf\\u03bd\"},\"choices\":[\"PAP.ASN\",\"IAI.3P\",\"IAI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 425,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03bd\\u03b1++\\u1f35\\u03c3\\u03c4\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u1f00\\u03bd\\u03b9\\u03c3\\u03c4\\u1fb6\\u03bd\"},\"choices\":[\"PAP.ASN\",\"PAN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 426,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b1\\u03af\\u03c9\",\"form\":\"\\u03c0\\u03b1\\u03af\\u03bf\\u03bd\\u03c4\\u03b1\"},\"choices\":[\"PAP.ASN\",\"PAP.APN\",\"PAP.ASM\",\"PAP.NPN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 427,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03ba\\u03bf\\u03cd\\u03c9\",\"form\":\"\\u1f00\\u03ba\\u03bf\\u03cd\\u03bf\\u03bd\\u03c4\\u03b1\"},\"choices\":[\"PAP.ASN\",\"PAP.APN\",\"PAP.ASM\",\"PAP.NPN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 428,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c3\\u03b8\\u03af\\u03c9\",\"form\":\"\\u1f10\\u03c3\\u03b8\\u03af\\u03bf\\u03bd\\u03c4\\u03b1\"},\"choices\":[\"PAP.ASN\",\"PAP.APN\",\"PAP.ASM\",\"PAP.NPN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 429,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03c5\\u03bd++\\u03c6\\u03ad\\u03c1\\u03c9\",\"form\":\"\\u03c3\\u03c5\\u03bc\\u03c6\\u03ad\\u03c1\\u03bf\\u03bd\\u03c4\\u03b1\"},\"choices\":[\"PAP.ASN\",\"PAP.APN\",\"PAP.ASM\",\"PAP.NPN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 430,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b3\\u03b9\\u03b3\\u03bd\\u03ce\\u03c3\\u03ba\\u03c9\",\"form\":\"\\u03b3\\u03b9\\u03bd\\u03ce\\u03c3\\u03ba\\u03bf\\u03bd\\u03c4\\u03b1\"},\"choices\":[\"PAP.ASN\",\"PAP.APN\",\"PAP.ASM\",\"PAP.NPN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 431,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c4\\u03c1\\u03bf\\u03c0\\u03cc\\u03c9\",\"form\":\"\\u03c4\\u03c1\\u03bf\\u03c0\\u03bf\\u03cd\\u03bc\\u03b5\\u03bd\\u03bf\\u03bd\"},\"choices\":[\"PAP.ASN\",\"PMP.ASN\",\"PMP.ASM\",\"PMP.NSN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 432,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u03b8\\u03bd\\u03ae\\u03c3\\u03ba\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03bf\\u03b8\\u03b1\\u03bd\\u03bf\\u1fe6\\u03c3\\u03b9(\\u03bd)\"},\"choices\":[\"PAP.DPM\",\"FAI.3P\",\"AAP.DPN\",\"AAP.DPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 433,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c4\\u03b1\\u03c1\\u03ac\\u03c3\\u03c3\\u03c9\",\"form\":\"\\u03c4\\u03b1\\u03c1\\u03b1\\u03c3\\u03c3\\u03bf\\u03bc\\u03ad\\u03bd\\u03bf\\u03b9\\u03c2\"},\"choices\":[\"PAP.DPM\",\"FMP.DPN\",\"PMP.DPM\",\"PMP.DPN\",\"FMP.DPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 434,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03c5\\u03c3\\u03c4\\u03c1\\u03ad\\u03c6\\u03c9\",\"form\":\"\\u03c3\\u03c5\\u03c3\\u03c4\\u03c1\\u03b5\\u03c6\\u03bf\\u03bc\\u03ad\\u03bd\\u03bf\\u03b9\\u03c2\"},\"choices\":[\"PAP.DPM\",\"PMP.DPM\",\"PMP.DPN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 435,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c6\\u03c9\\u03bd\\u03ad\\u03c9\",\"form\":\"\\u03c6\\u03c9\\u03bd\\u03bf\\u03cd\\u03bd\\u03c4\\u03c9\\u03bd\"},\"choices\":[\"PAP.GPF\",\"PAP.GPM\",\"PAP.GPN\",\"PAD.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 436,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c4\\u03ad\\u03c1\\u03c0\\u03c9\",\"form\":\"\\u03c4\\u03b5\\u03c1\\u03c0\\u03bf\\u03bc\\u03ad\\u03bd\\u03c9\\u03bd\"},\"choices\":[\"PAP.GPF\",\"PMP.GPN\",\"PMP.GPF\",\"PMP.GPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 437,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03c5\\u03bd++\\u1f35\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u03c3\\u03c5\\u03bd\\u03b9\\u03ad\\u03bd\\u03c4\\u03c9\\u03bd\"},\"choices\":[\"PAP.GPM\",\"PAD.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 438,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b1\\u03bb\\u03b1\\u03b9\\u03cc\\u03c9\",\"form\":\"\\u03c0\\u03b1\\u03bb\\u03b1\\u03b9\\u1ff6\\u03bd\"},\"choices\":[\"PAP.GPM\",\"PAP.NSM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 439,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03bd\\u03b1++\\u1f35\\u03c3\\u03c4\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u1f00\\u03bd\\u03b9\\u03c3\\u03c4\\u1ff6\\u03bd\"},\"choices\":[\"PAP.GPM\",\"PAP.ASN\",\"PAP.NSN\",\"PAP.NSM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 440,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u03bb\\u03ad\\u03b3\\u03c9\",\"form\":\"\\u1f10\\u03ba\\u03bb\\u03b5\\u03b3\\u03b5\\u03af\\u03c3\\u03b7\\u03c2\"},\"choices\":[\"PAP.GSF\",\"APP.GSF\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 441,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u1f35\\u03c3\\u03c4\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u03ba\\u03b1\\u03b8\\u03b5\\u03c3\\u03c4\\u03b7\\u03ba\\u03c5\\u03af\\u03b7\\u03c2\"},\"choices\":[\"PAP.GSF\",\"XAP.GSF\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 442,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b6\\u03ac\\u03c9\",\"form\":\"\\u03b6\\u1ff6\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"PAP.NPF\",\"AAN\",\"AMD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 443,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u1f35\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u1f00\\u03c6\\u03ad\\u03bd\\u03c4\\u03b5\\u03c2\"},\"choices\":[\"PAP.NPM\",\"AAP.NPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 444,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03af\\u03bd\\u03c9\",\"form\":\"\\u03c0\\u03b9\\u03cc\\u03bd\\u03c4\\u03b5\\u03c2\"},\"choices\":[\"PAP.NPM\",\"AAP.NPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 445,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u03bb\\u03ad\\u03b3\\u03c9\",\"form\":\"\\u1f10\\u03ba\\u03bb\\u03b5\\u03b3\\u03ad\\u03bd\\u03c4\\u03b5\\u03c2\"},\"choices\":[\"PAP.NPM\",\"APP.NPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 446,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03cd\\u03c1\\u03c9\",\"form\":\"\\u03c3\\u03c5\\u03c1\\u03cc\\u03bd\\u03c4\\u03c9\\u03bd\"},\"choices\":[\"PAP.NPM\",\"PAP.GPM\",\"AAP.GPM\",\"PAP.GPN\",\"PAD.3P\",\"AAP.GPN\",\"AAD.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 447,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u03c3\\u03ba\\u03bf\\u03c0\\u03b5\\u03cd\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03bf\\u03c3\\u03ba\\u03bf\\u03c0\\u03b5\\u03c5\\u03cc\\u03bd\\u03c4\\u03c9\\u03bd\"},\"choices\":[\"PAP.NPM\",\"PAP.GPM\",\"PAP.GPN\",\"PAD.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 448,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03c5\\u03bd++\\u1f35\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u03c3\\u03c5\\u03bd\\u03af\\u03c9\\u03bd\"},\"choices\":[\"PAP.NPM\",\"PAP.NSM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 449,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u03c6\\u03b8\\u03ad\\u03b3\\u03b3\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f00\\u03c0\\u03bf\\u03c6\\u03b8\\u03b5\\u03b3\\u03b3\\u03cc\\u03bc\\u03b5\\u03bd\\u03bf\\u03b9\"},\"choices\":[\"PAP.NPM\",\"PMP.NPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 450,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f41\\u03c1\\u03ac\\u03c9\",\"form\":\"\\u03b5\\u1f30\\u03b4\\u03cc\\u03c4\\u03b5\\u03c2\"},\"choices\":[\"PAP.NPM\",\"XAP.NPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 451,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f51\\u03c8\\u03cc\\u03c9\",\"form\":\"\\u1f55\\u03c8\\u03c9\\u03c3\\u03b1\"},\"choices\":[\"PAP.NSF\",\"AAI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 452,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f25\\u03ba\\u03c9\",\"form\":\"\\u1f24\\u03ba\\u03bf\\u03c5\\u03c3\\u03b1\"},\"choices\":[\"PAP.NSF\",\"AAI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 453,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03ba\\u03bf\\u03cd\\u03c9\",\"form\":\"\\u1f24\\u03ba\\u03bf\\u03c5\\u03c3\\u03b1\"},\"choices\":[\"PAP.NSF\",\"AAI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 454,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f60\\u03b4\\u03af\\u03bd\\u03c9\",\"form\":\"\\u1f60\\u03b4\\u03b9\\u03bd\\u03bf\\u03cd\\u03c3\\u03b7\\u03c2\"},\"choices\":[\"PAP.NSF\",\"PAP.GSF\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 455,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c5\\u03c7\\u03ac\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03ba\\u03b1\\u03c5\\u03c7\\u03ce\\u03bc\\u03b5\\u03bd\\u03bf\\u03c2\"},\"choices\":[\"PAP.NSM\",\"PMP.NSM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 456,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03ba\\u03b5\\u03c0\\u03ac\\u03b6\\u03c9\",\"form\":\"\\u03c3\\u03ba\\u03b5\\u03c0\\u03b1\\u03b6\\u03cc\\u03bc\\u03b5\\u03bd\\u03bf\\u03c2\"},\"choices\":[\"PAP.NSM\",\"PMP.NSM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 457,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f51\\u03c0\\u03b5\\u03c1++\\u1f51\\u03c8\\u03cc\\u03c9\",\"form\":\"\\u1f51\\u03c0\\u03b5\\u03c1\\u03c5\\u03c8\\u03bf\\u03cd\\u03bc\\u03b5\\u03bd\\u03bf\\u03c2\"},\"choices\":[\"PAP.NSM\",\"PMP.NSM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 458,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bf\\u1f36\\u03b4\\u03b1\",\"form\":\"\\u03b5\\u1f30\\u03b4\\u03ce\\u03c2\"},\"choices\":[\"PAP.NSM\",\"XAP.NSM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 459,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f41\\u03c1\\u03ac\\u03c9\",\"form\":\"\\u03b5\\u1f30\\u03b4\\u03ce\\u03c2\"},\"choices\":[\"PAP.NSM\",\"XAP.NSM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 460,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u03bb\\u03b5\\u03af\\u03c0\\u03c9\",\"form\":\"\\u03ba\\u03b1\\u03c4\\u03b1\\u03bb\\u03b5\\u03b9\\u03c6\\u03b8\\u03ad\\u03bd\"},\"choices\":[\"PAP.NSN\",\"APP.NSN\",\"APP.ASN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 461,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u03ba\\u03bb\\u03cd\\u03b6\\u03c9\",\"form\":\"\\u03ba\\u03b1\\u03c4\\u03b1\\u03ba\\u03bb\\u03cd\\u03b6\\u03bf\\u03bd\\u03c4\\u03b1\"},\"choices\":[\"PAP.NSN\",\"PAP.APN\",\"PAP.ASM\",\"PAP.NPN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 462,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f30\\u03bc\\u03af\",\"form\":\"\\u1f44\\u03bd\\u03c4\\u03b1\"},\"choices\":[\"PAP.NSN\",\"PAP.APN\",\"PAP.NPN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 463,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03ba\\u03bf\\u03c1\\u03c0\\u03af\\u03b6\\u03c9\",\"form\":\"\\u03c3\\u03ba\\u03bf\\u03c1\\u03c0\\u03af\\u03b6\\u03c9\\u03bd\"},\"choices\":[\"PAP.NSN\",\"PAP.NSM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 464,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03b1\\u03bb\\u03b5\\u03cd\\u03c9\",\"form\":\"\\u03c3\\u03b1\\u03bb\\u03b5\\u03c5\\u03cc\\u03bc\\u03b5\\u03bd\\u03bf\\u03bd\"},\"choices\":[\"PAP.NSN\",\"PMP.ASM\",\"PMP.ASN\",\"PMP.NSN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 465,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u1f35\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u1f00\\u03c6\\u03af\\u03c9\"},\"choices\":[\"PAS.1S\",\"AAS.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 466,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u1f35\\u03c3\\u03c4\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u1f00\\u03c6\\u03af\\u03c3\\u03c4\\u03c9\"},\"choices\":[\"PAS.1S\",\"IMI.2S\",\"PMD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 467,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c4\\u03af\\u03b8\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u03b8\\u1fc7\\u03c2\"},\"choices\":[\"PAS.2S\",\"AAS.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 468,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b1\\u03c1\\u03b1++\\u03b5\\u1f30\\u03bc\\u03af\",\"form\":\"\\u03c0\\u03b1\\u03c1\\u1fc7\\u03c2\"},\"choices\":[\"PAS.2S\",\"AAS.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 469,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u03c7\\u03ad\\u03c9\",\"form\":\"\\u1f10\\u03ba\\u03c7\\u03ad\\u1fc3\\u03c2\"},\"choices\":[\"PAS.2S\",\"AAS.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 470,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03b9++\\u03b4\\u03ad\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03af\\u03b4\\u1fc3\\u03c2\"},\"choices\":[\"PAS.2S\",\"AAS.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 471,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bc\\u03b5\\u03c4\\u03b1++\\u03c4\\u03af\\u03b8\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u03bc\\u03b5\\u03c4\\u03b1\\u03b8\\u1fc7\\u03c2\"},\"choices\":[\"PAS.2S\",\"AAS.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 472,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u03c7\\u03ad\\u03c9\",\"form\":\"\\u1f10\\u03ba\\u03c7\\u03ad\\u03c9\\u03c3\\u03b9(\\u03bd)\"},\"choices\":[\"PAS.3P\",\"AAS.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 473,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b1\\u03c1\\u03b1++\\u03b4\\u03af\\u03b4\\u03c9\\u03bc\\u03b9\",\"form\":\"\\u03c0\\u03b1\\u03c1\\u03b1\\u03b4\\u1ff6\\u03c3\\u03b9(\\u03bd)\"},\"choices\":[\"PAS.3P\",\"AAS.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 474,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u03bb\\u03ad\\u03b3\\u03c9\",\"form\":\"\\u1f10\\u03ba\\u03bb\\u03b5\\u03b3\\u1ff6\\u03c3\\u03b9(\\u03bd)\"},\"choices\":[\"PAS.3P\",\"APS.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 475,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b1\\u03c1\\u03b1++\\u03b5\\u1f30\\u03bc\\u03af\",\"form\":\"\\u03c0\\u03b1\\u03c1\\u1fc7\"},\"choices\":[\"PAS.3S\",\"AMS.2S\",\"AAS.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 476,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c8\\u03ac\\u03bb\\u03bb\\u03c9\",\"form\":\"\\u03c8\\u03ac\\u03bb\\u1fc3\"},\"choices\":[\"PAS.3S\",\"AMS.2S\",\"AAS.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 477,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03b9++\\u03b4\\u03ad\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03af\\u03b4\\u1fc3\"},\"choices\":[\"PAS.3S\",\"AMS.2S\",\"AAS.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 478,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f51\\u03c0\\u03b5\\u03c1++\\u1f00\\u03c3\\u03c0\\u03af\\u03b6\\u03c9\",\"form\":\"\\u1f51\\u03c0\\u03b5\\u03c1\\u03b1\\u03c3\\u03c0\\u03af\\u03c3\\u1fc3\"},\"choices\":[\"PAS.3S\",\"AMS.2S\",\"AAS.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 479,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c4\\u03ae\\u03ba\\u03c9\",\"form\":\"\\u03c4\\u03b1\\u03ba\\u1fc7\"},\"choices\":[\"PAS.3S\",\"APS.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 480,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b4\\u03b9\\u03b1++\\u03bc\\u03b1\\u03c1\\u03c4\\u03cd\\u03c1\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03b4\\u03b9\\u03b1\\u03bc\\u03b1\\u03c1\\u03c4\\u03c5\\u03c1\\u1fc7\"},\"choices\":[\"PAS.3S\",\"FMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 481,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03af\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u03c0\\u03b5\\u03c3\\u03b5\\u1fd6\\u03c3\\u03b8\\u03b5\"},\"choices\":[\"PMD.2P\",\"FMI.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 482,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u03b1\\u1f31\\u03c1\\u03ad\\u03c9\",\"form\":\"\\u1f10\\u03be\\u03b5\\u03bb\\u03bf\\u1fe6\"},\"choices\":[\"PMD.2S\",\"AMD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 483,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03bf\\u03c1\\u03b5\\u03cd\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03c0\\u03bf\\u03c1\\u03b5\\u03cd\\u03b8\\u03b7\\u03c4\\u03b9\"},\"choices\":[\"PMD.2S\",\"APD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 484,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b6\\u03b7\\u03bb\\u03cc\\u03c9\",\"form\":\"\\u03b6\\u03ae\\u03bb\\u03bf\\u03c5\"},\"choices\":[\"PMD.2S\",\"PAD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 485,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03be\\u03b9\\u03cc\\u03c9\",\"form\":\"\\u1f00\\u03be\\u03af\\u03bf\\u03c5\"},\"choices\":[\"PMD.2S\",\"PAD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 486,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bb\\u03c5\\u03bc\\u03b1\\u03af\\u03bd\\u03c9\",\"form\":\"\\u03bb\\u03c5\\u03bc\\u03b1\\u03bd\\u03bf\\u1fe6\\u03bd\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"PMI.3P\",\"FMI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 487,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u1f10\\u03c3\\u03b8\\u03af\\u03c9\",\"form\":\"\\u03ba\\u03b1\\u03c4\\u03b1\\u03c6\\u03ac\\u03b3\\u03bf\\u03bd\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"PMI.3P\",\"FMI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 488,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03be\\u03bf\\u03c5\\u03b4\\u03b5\\u03bd\\u03cc\\u03c9\",\"form\":\"\\u1f10\\u03be\\u03bf\\u03c5\\u03b4\\u03ad\\u03bd\\u03c9\\u03bd\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"PMI.3P\",\"XMI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 489,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u03b4\\u03b9\\u03ba\\u03ad\\u03c9\",\"form\":\"\\u1f10\\u03ba\\u03b4\\u03b9\\u03ba\\u1fb6\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"PMI.3S\",\"FMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 490,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bb\\u03c5\\u03bc\\u03b1\\u03af\\u03bd\\u03c9\",\"form\":\"\\u03bb\\u03c5\\u03bc\\u03b1\\u03bd\\u03b5\\u1fd6\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"PMI.3S\",\"FMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 491,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u1f10\\u03c3\\u03b8\\u03af\\u03c9\",\"form\":\"\\u03ba\\u03b1\\u03c4\\u03b1\\u03c6\\u03ac\\u03b3\\u03b5\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"PMI.3S\",\"FMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 492,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03ba\\u03bf\\u03cd\\u03c9\",\"form\":\"\\u1f20\\u03ba\\u03bf\\u03cd\\u03b5\\u03c4\\u03bf\"},\"choices\":[\"PMI.3S\",\"IMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 493,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03bd++\\u1f40\\u03c7\\u03bb\\u03ad\\u03c9\",\"form\":\"\\u1f10\\u03bd\\u03bf\\u03c7\\u03bb\\u1fc6\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"PMI.3S\",\"PMS.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 494,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f50\\u03bb\\u03bf\\u03b3\\u03ad\\u03c9\",\"form\":\"\\u03b5\\u1f50\\u03bb\\u03bf\\u03b3\\u03bf\\u1fe6\\u03bd\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"PMP.3P\",\"PMI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 495,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u1f60\\u03b8\\u03ad\\u03c9\",\"form\":\"\\u1f10\\u03be\\u03c9\\u03c3\\u03bc\\u03ad\\u03bd\\u03b1\"},\"choices\":[\"PMP.APN\",\"XMP.APN\",\"XMP.NPN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 496,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03be\\u03bf\\u03c5\\u03b4\\u03b5\\u03bd\\u03cc\\u03c9\",\"form\":\"\\u1f10\\u03be\\u03bf\\u03c5\\u03b4\\u03b5\\u03bd\\u03c9\\u03bc\\u03ad\\u03bd\\u03b1\"},\"choices\":[\"PMP.APN\",\"XMP.APN\",\"XMP.NPN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 497,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b8\\u03bb\\u03ac\\u03c9\",\"form\":\"\\u03c4\\u03b5\\u03b8\\u03bb\\u03b1\\u03c3\\u03bc\\u03ad\\u03bd\\u03b7\\u03bd\"},\"choices\":[\"PMP.ASF\",\"XMP.ASF\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 498,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u1f41\\u03b4\\u03c5\\u03bd\\u03ac\\u03c9\",\"form\":\"\\u03ba\\u03b1\\u03c4\\u03c9\\u03b4\\u03c5\\u03bd\\u03c9\\u03bc\\u03ad\\u03bd\\u03b7\\u03bd\"},\"choices\":[\"PMP.ASF\",\"XMP.ASF\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 499,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03c5\\u03bd++\\u03bc\\u03ac\\u03c7\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03c3\\u03c5\\u03bc\\u03bc\\u03b1\\u03c7\\u03bf\\u1fe6\\u03bd\\u03c4\\u03b1\"},\"choices\":[\"PMP.ASM\",\"PAP.APN\",\"PAP.ASM\",\"PAP.NPN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 500,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b8\\u03bb\\u03ac\\u03c9\",\"form\":\"\\u03c4\\u03b5\\u03b8\\u03bb\\u03b1\\u03c3\\u03bc\\u03ad\\u03bd\\u03bf\\u03bd\"},\"choices\":[\"PMP.ASM\",\"XMP.ASN\",\"XMP.NSN\",\"XMP.ASM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 501,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b4\\u03b9\\u03b1++\\u1f01\\u03c1\\u03c0\\u03ac\\u03b6\\u03c9\",\"form\":\"\\u03b4\\u03b9\\u03b7\\u03c1\\u03c0\\u03b1\\u03c3\\u03bc\\u03ad\\u03bd\\u03bf\\u03bd\"},\"choices\":[\"PMP.ASM\",\"XMP.ASN\",\"XMP.NSN\",\"XMP.ASM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 502,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03c5\\u03bd++\\u03c4\\u03ad\\u03bc\\u03bd\\u03c9\",\"form\":\"\\u03c3\\u03c5\\u03bd\\u03c4\\u03b5\\u03c4\\u03bc\\u03b7\\u03bc\\u03ad\\u03bd\\u03bf\\u03bd\"},\"choices\":[\"PMP.ASM\",\"XMP.ASN\",\"XMP.NSN\",\"XMP.ASM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 503,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03bb\\u03b7\\u03c1\\u03cc\\u03c9\",\"form\":\"\\u03c0\\u03bb\\u03b7\\u03c1\\u03bf\\u03c5\\u03bc\\u03ad\\u03bd\\u03c9\\u03bd\"},\"choices\":[\"PMP.GPF\",\"FMP.GPM\",\"FMP.GPN\",\"FMP.GPF\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 504,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03bb\\u03b7\\u03c1\\u03cc\\u03c9\",\"form\":\"\\u03c0\\u03bb\\u03b7\\u03c1\\u03bf\\u03c5\\u03bc\\u03ad\\u03bd\\u03c9\\u03bd\"},\"choices\":[\"PMP.GPM\",\"FMP.GPM\",\"FMP.GPN\",\"FMP.GPF\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 505,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f15\\u03c8\\u03c9\",\"form\":\"\\u1f21\\u03c8\\u03b7\\u03bc\\u03ad\\u03bd\\u03c9\\u03bd\"},\"choices\":[\"PMP.GPN\",\"XMP.GPF\",\"XMP.GPM\",\"XMP.GPN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 506,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03bd++\\u03c0\\u03b1\\u03af\\u03b6\\u03c9\",\"form\":\"\\u1f10\\u03bc\\u03c0\\u03b5\\u03c0\\u03b1\\u03b9\\u03b3\\u03bc\\u03ad\\u03bd\\u03b7\\u03c2\"},\"choices\":[\"PMP.GSF\",\"XMP.GSF\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 507,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u03c0\\u03b1\\u03c4\\u03ad\\u03c9\",\"form\":\"\\u03ba\\u03b1\\u03c4\\u03b1\\u03c0\\u03b5\\u03c0\\u03b1\\u03c4\\u03b7\\u03bc\\u03ad\\u03bd\\u03b7\\u03c2\"},\"choices\":[\"PMP.GSF\",\"XMP.GSF\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 508,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f40\\u03c1\\u03c7\\u03ad\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f40\\u03c1\\u03c7\\u03bf\\u03c5\\u03bc\\u03ad\\u03bd\\u03c9\\u03bd\"},\"choices\":[\"PMP.GSM\",\"PMP.GPN\",\"PMP.GPF\",\"PMP.GPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 509,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b5\\u03c1\\u03b9++\\u03b6\\u03ce\\u03bd\\u03c5\\u03bc\\u03bc\\u03b9\",\"form\":\"\\u03c0\\u03b5\\u03c1\\u03b9\\u03b5\\u03b6\\u03c9\\u03c3\\u03bc\\u03ad\\u03bd\\u03bf\\u03c5\"},\"choices\":[\"PMP.GSM\",\"XMP.GSM\",\"XMP.GSN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 510,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b8\\u03bb\\u03af\\u03b2\\u03c9\",\"form\":\"\\u03c4\\u03b5\\u03b8\\u03bb\\u03b9\\u03bc\\u03bc\\u03ad\\u03bd\\u03bf\\u03c5\"},\"choices\":[\"PMP.GSM\",\"XMP.GSN\",\"XMP.GSM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 511,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f51\\u03c0\\u03bf++\\u1f30\\u03c3\\u03c7\\u03bd\\u03ad\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f51\\u03c0\\u03b9\\u03c3\\u03c7\\u03bd\\u03bf\\u03cd\\u03bc\\u03b5\\u03bd\\u03bf\\u03c2\"},\"choices\":[\"PMP.NDM\",\"PMP.NSM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 512,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03cd\\u03c1\\u03c9\",\"form\":\"\\u03c3\\u03cd\\u03c1\\u03bf\\u03c5\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"PMP.NPF\",\"PAP.NPF\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 513,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bc\\u03c5\\u03ba\\u03c4\\u03b7\\u03c1\\u03af\\u03b6\\u03c9\",\"form\":\"\\u03bc\\u03c5\\u03ba\\u03c4\\u03b7\\u03c1\\u03af\\u03b6\\u03bf\\u03bd\\u03c4\\u03b5\\u03c2\"},\"choices\":[\"PMP.NPM\",\"PAP.NPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 514,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03b9++\\u03b1\\u1f34\\u03c1\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03b7\\u03c1\\u03bc\\u03ad\\u03bd\\u03bf\\u03b9\"},\"choices\":[\"PMP.NPM\",\"XMP.NPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 515,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1fe5\\u03af\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u1f10\\u03c1\\u03c1\\u03b9\\u03bc\\u03bc\\u03ad\\u03bd\\u03bf\\u03b9\"},\"choices\":[\"PMP.NPM\",\"XMP.NPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 516,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u03c4\\u03c1\\u03ad\\u03c6\\u03c9\",\"form\":\"\\u1f10\\u03ba\\u03c4\\u03c1\\u03b1\\u03c6\\u03ad\\u03bd\\u03c4\\u03b1\"},\"choices\":[\"PMP.NPN\",\"APP.APN\",\"APP.NPN\",\"APP.ASM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 517,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f14\\u03c7\\u03c9\",\"form\":\"\\u1f10\\u03c7\\u03bf\\u03bc\\u03ad\\u03bd\\u03b7\"},\"choices\":[\"PMP.NSF\",\"PMP.VSF\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 518,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u03c0\\u03bf\\u03c1\\u03b5\\u03cd\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f10\\u03ba\\u03c0\\u03bf\\u03c1\\u03b5\\u03c5\\u03cc\\u03bc\\u03b5\\u03bd\\u03bf\\u03bd\"},\"choices\":[\"PMP.NSM\",\"PMP.ASN\",\"PMP.ASM\",\"PMP.NSN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 519,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b1\\u03c1\\u03b1++\\u03c0\\u03bf\\u03c1\\u03b5\\u03cd\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03c0\\u03b1\\u03c1\\u03b1\\u03c0\\u03bf\\u03c1\\u03b5\\u03c5\\u03cc\\u03bc\\u03b5\\u03bd\\u03bf\\u03bd\"},\"choices\":[\"PMP.NSM\",\"PMP.ASN\",\"PMP.ASM\",\"PMP.NSN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 520,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03c5\\u03c1\\u03cc\\u03c9\",\"form\":\"\\u03c0\\u03b5\\u03c0\\u03c5\\u03c1\\u03c9\\u03bc\\u03ad\\u03bd\\u03bf\\u03c2\"},\"choices\":[\"PMP.NSM\",\"XMP.NSM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 521,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03ba++\\u03bf\\u1f50\\u03b4\\u03b5\\u03bd\\u03cc\\u03c9\",\"form\":\"\\u1f10\\u03be\\u03bf\\u03c5\\u03b4\\u03b5\\u03bd\\u03c9\\u03bc\\u03ad\\u03bd\\u03bf\\u03c2\"},\"choices\":[\"PMP.NSM\",\"XMP.NSM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 522,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b5\\u03c1\\u03b9++\\u03b6\\u03ce\\u03bd\\u03bd\\u03c5\\u03bc\\u03b9\",\"form\":\"\\u03c0\\u03b5\\u03c1\\u03b9\\u03b5\\u03b6\\u03c9\\u03c3\\u03bc\\u03ad\\u03bd\\u03bf\\u03c2\"},\"choices\":[\"PMP.NSM\",\"XMP.NSM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 523,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f14\\u03c7\\u03c9\",\"form\":\"\\u1f10\\u03c7\\u03cc\\u03bc\\u03b5\\u03bd\\u03b1\"},\"choices\":[\"PMP.NSN\",\"PMP.APN\",\"PMP.NPN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 524,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03bf\\u03c1\\u03b5\\u03cd\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03c0\\u03bf\\u03c1\\u03b5\\u03cd\\u03b5\\u03c3\\u03b8\\u03b5\"},\"choices\":[\"PMS.2P\",\"PMD.2P\",\"PMI.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 525,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u1f27\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03ba\\u03ac\\u03b8\\u1fc3\"},\"choices\":[\"PMS.2S\",\"PMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 526,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03c4\\u03ac\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03ba\\u03c4\\u1fb6\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"PMS.2S\",\"PMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 527,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03be\\u03bf\\u03c5\\u03b4\\u03b5\\u03bd\\u03cc\\u03c9\",\"form\":\"\\u1f10\\u03be\\u03bf\\u03c5\\u03b4\\u03ad\\u03bd\\u03c9\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"PMS.3S\",\"XMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 528,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bf\\u1f36\\u03b4\\u03b1\",\"form\":\"\\u03bf\\u1f34\\u03b4\\u03b1\\u03c4\\u03b5\"},\"choices\":[\"XAD.2P\",\"XAI.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 529,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b5\\u03af\\u03b8\\u03c9\",\"form\":\"\\u03c0\\u03b5\\u03c0\\u03bf\\u03af\\u03b8\\u03b1\\u03c4\\u03b5\"},\"choices\":[\"XAD.2P\",\"XAI.2P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 530,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03c1\\u03ac\\u03b6\\u03c9\",\"form\":\"\\u03ba\\u03ad\\u03ba\\u03c1\\u03b1\\u03be\\u03bf\\u03bd\"},\"choices\":[\"XAD.2S\",\"FAP.NSN\",\"FAP.ASN\",\"AAD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 531,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bf\\u1f36\\u03b4\\u03b1\",\"form\":\"\\u1f34\\u03c3\\u03b8\\u03b9\"},\"choices\":[\"XAD.2S\",\"PAD.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 532,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b5\\u03af\\u03b8\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03b5\\u03c0\\u03cc\\u03b8\\u03b7\\u03c3\\u03b1\"},\"choices\":[\"XAI.1S\",\"AAI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 533,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f30\\u03ac\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f34\\u03b1\\u03bc\\u03b1\\u03b9\"},\"choices\":[\"XAI.1S\",\"XMI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 534,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03af\\u03c3\\u03c4\\u03b1\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f20\\u03c0\\u03af\\u03c3\\u03c4\\u03c9\"},\"choices\":[\"XAI.2S\",\"IMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 535,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bf\\u1f36\\u03b4\\u03b1\",\"form\":\"\\u1f94\\u03b4\\u03b5\\u03b9\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"XAI.3P\",\"AAI.3P\",\"YAI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 536,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b9\\u03c3\\u03c4\\u03b5\\u03cd\\u03c9\",\"form\":\"\\u03c0\\u03b5\\u03c0\\u03b9\\u03c3\\u03c4\\u03b5\\u03c5\\u03ba\\u03cc\\u03c3\\u03b9(\\u03bd)\"},\"choices\":[\"XAI.3P\",\"XAP.DPN\",\"XAP.DPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 537,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b5\\u03af\\u03b8\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03b5\\u03c0\\u03cc\\u03b8\\u03b7\\u03c3\\u03b5(\\u03bd)\"},\"choices\":[\"XAI.3S\",\"AAI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 538,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b1\\u03c1\\u03b1++\\u1f35\\u03c3\\u03c4\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u03c0\\u03b1\\u03c1\\u03b5\\u03b9\\u03c3\\u03c4\\u03ae\\u03ba\\u03b5\\u03b9\"},\"choices\":[\"XAI.3S\",\"PMI.2S\",\"PAI.3S\",\"YAI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 539,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03bb\\u03b7\\u03c1\\u03cc\\u03c9\",\"form\":\"\\u03c0\\u03b5\\u03c0\\u03bb\\u03b7\\u03c1\\u03c9\\u03ba\\u03ce\\u03c2\"},\"choices\":[\"XAI.3S\",\"XAP.NSM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 540,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03c1\\u03bf\\u03c2++\\u03c4\\u03ac\\u03c3\\u03c3\\u03c9\",\"form\":\"\\u03c0\\u03c1\\u03bf\\u03c3\\u03c4\\u03b5\\u03c4\\u03b1\\u03c7\\u03ce\\u03c2\"},\"choices\":[\"XAI.3S\",\"XAP.NSM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 541,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bf\\u1f36\\u03b4\\u03b1\",\"form\":\"\\u1f94\\u03b4\\u03b5\\u03b9\"},\"choices\":[\"XAI.3S\",\"YAI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 542,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03b3\\u03b1\\u03c0\\u03ac\\u03c9\",\"form\":\"\\u1f20\\u03b3\\u03b1\\u03c0\\u03ae\\u03ba\\u03b5\\u03b9\"},\"choices\":[\"XAI.3S\",\"YAI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 543,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f14\\u03c1\\u03c7\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f10\\u03bb\\u03b7\\u03bb\\u03cd\\u03b8\\u03b5\\u03b9\"},\"choices\":[\"XAI.3S\",\"YAI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 544,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b3\\u03af\\u03b3\\u03bd\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u1f10\\u03b3\\u03b5\\u03b3\\u03cc\\u03bd\\u03b5\\u03b9\"},\"choices\":[\"XAI.3S\",\"YAI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 545,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03bd\\u03c4\\u03b9++\\u1f35\\u03c3\\u03c4\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u1f00\\u03bd\\u03b8\\u03b5\\u03b9\\u03c3\\u03c4\\u03ae\\u03ba\\u03b5\\u03b9\"},\"choices\":[\"XAI.3S\",\"YAI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 546,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b1\\u03c1\\u03b1+\\u1f10\\u03bd++\\u03b2\\u03ac\\u03bb\\u03bb\\u03c9\",\"form\":\"\\u03c0\\u03b1\\u03c1\\u03b5\\u03bc\\u03b2\\u03b5\\u03b2\\u03bb\\u03ae\\u03ba\\u03b5\\u03b9\"},\"choices\":[\"XAI.3S\",\"YAI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 547,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b9\\u03c0\\u03c1\\u03ac\\u03c3\\u03ba\\u03c9\",\"form\":\"\\u03c0\\u03ad\\u03c0\\u03c1\\u03b1\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"XAN\",\"XMI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 548,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03af\\u03bd\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03b9\\u03cc\\u03bd\\u03c4\\u03b1\"},\"choices\":[\"XAP.ASM\",\"PAP.APN\",\"PAP.ASM\",\"PAP.NPN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 549,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b3\\u03af\\u03b3\\u03bd\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03b3\\u03b5\\u03b3\\u03bf\\u03bd\\u03cc\\u03c2\"},\"choices\":[\"XAP.ASM\",\"XAP.ASN\",\"XAP.NSN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 550,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u1f40\\u03bb\\u03bb\\u03cd\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03bf\\u03bb\\u03c9\\u03bb\\u03cc\\u03c2\"},\"choices\":[\"XAP.ASM\",\"XAP.ASN\",\"XAP.NSN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 551,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b8\\u03bd\\u03ae\\u03c3\\u03ba\\u03c9\",\"form\":\"\\u03c4\\u03b5\\u03b8\\u03bd\\u03b7\\u03ba\\u03cc\\u03c2\"},\"choices\":[\"XAP.ASM\",\"XAP.ASN\",\"XAP.NSN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 552,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f30\\u03c2++\\u1f14\\u03c1\\u03c7\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03b5\\u1f30\\u03c3\\u03b5\\u03bb\\u03b7\\u03bb\\u03c5\\u03b8\\u03cc\\u03c2\"},\"choices\":[\"XAP.ASM\",\"XAP.ASN\",\"XAP.NSN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 553,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03b9++\\u03c3\\u03ac\\u03c4\\u03c4\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03b9\\u03c3\\u03b5\\u03c3\\u03b1\\u03b3\\u03bc\\u03ad\\u03bd\\u03c9\\u03bd\"},\"choices\":[\"XAP.GPM\",\"XMP.GPF\",\"XMP.GPM\",\"XMP.GPN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 554,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03b3\\u03bd\\u03bf\\u03ad\\u03c9\",\"form\":\"\\u1f20\\u03b3\\u03bd\\u03bf\\u03b7\\u03ba\\u03cc\\u03c2\"},\"choices\":[\"XAP.GSM\",\"XAP.ASN\",\"XAP.NSN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 555,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03b9++\\u03b1\\u1f35\\u03c1\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03b7\\u03c1\\u03bc\\u03ad\\u03bd\\u03bf\\u03b9\"},\"choices\":[\"XAP.NPM\",\"XMP.NPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 556,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03bf\\u03b9\\u03ad\\u03c9\",\"form\":\"\\u03c0\\u03b5\\u03c0\\u03bf\\u03b9\\u03b7\\u03ba\\u03c5\\u1fd6\\u03b1\"},\"choices\":[\"XAP.NPN\",\"XAP.NSF\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 557,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c0\\u03bf++\\u1f40\\u03bb\\u03bb\\u03cd\\u03c9\",\"form\":\"\\u1f00\\u03c0\\u03bf\\u03bb\\u03c9\\u03bb\\u03b5\\u03ba\\u03cc\\u03c4\\u03b5\\u03c2\"},\"choices\":[\"XAP.NPN\",\"XAP.NPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 558,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03ce\\u03b6\\u03c9\",\"form\":\"\\u03c3\\u03b5\\u03c3\\u1ff3\\u03c3\\u03bc\\u03ad\\u03bd\\u03b7\"},\"choices\":[\"XAP.NSF\",\"XMP.NSF\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 559,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f10\\u03c0\\u03b9++\\u03bb\\u03b1\\u03bd\\u03b8\\u03ac\\u03bd\\u03c9\",\"form\":\"\\u1f10\\u03c0\\u03b9\\u03bb\\u03ad\\u03bb\\u03b7\\u03c3\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"XMI.1S\",\"XMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 560,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f50\\u03bb\\u03bf\\u03b3\\u03ad\\u03c9\",\"form\":\"\\u03b5\\u1f50\\u03bb\\u03bf\\u03b3\\u1fc6\\u03c3\\u03b1\\u03b9\"},\"choices\":[\"XMI.2S\",\"AAN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 561,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b1\\u03c1\\u03b1++\\u03b3\\u03af\\u03b3\\u03bd\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03c0\\u03b1\\u03c1\\u03b1\\u03b3\\u03ad\\u03b3\\u03bf\\u03bd\\u03b1\\u03c2\"},\"choices\":[\"XMI.2S\",\"XAI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 562,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bc\\u03b9\\u03b1\\u03af\\u03bd\\u03c9\",\"form\":\"\\u03bc\\u03b5\\u03bc\\u03af\\u03b1\\u03bd\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"XMI.3P\",\"XMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 563,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03bb\\u03b7\\u03b8\\u03cd\\u03bd\\u03c9\",\"form\":\"\\u03c0\\u03b5\\u03c0\\u03bb\\u03ae\\u03b8\\u03c5\\u03bd\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"XMI.3P\",\"XMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 564,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03ba\\u03bf\\u03cd\\u03c9\",\"form\":\"\\u1f20\\u03ba\\u03bf\\u03cd\\u03c3\\u03b8\\u03b7\"},\"choices\":[\"XMI.3S\",\"API.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 565,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bc\\u03b5\\u03c4\\u03b5\\u03c9\\u03c1\\u03af\\u03b6\\u03c9\",\"form\":\"\\u1f10\\u03bc\\u03b5\\u03c4\\u03b5\\u03c9\\u03c1\\u03af\\u03b6\\u03b5\\u03c4\\u03bf\"},\"choices\":[\"XMI.3S\",\"IMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 566,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03bd\\u03b1++\\u03b1\\u1f31\\u03c1\\u03ad\\u03c9\",\"form\":\"\\u1f00\\u03bd\\u03b5\\u1fd6\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"XMI.3S\",\"PMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 567,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bb\\u03bf\\u03b3\\u03af\\u03b6\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03bb\\u03b5\\u03bb\\u03cc\\u03b3\\u03b9\\u03c3\\u03c4\\u03b1\\u03b9\"},\"choices\":[\"XMN\",\"XMI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 568,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u03c3\\u03c4\\u03b5\\u03bd\\u03ac\\u03b6\\u03c9\",\"form\":\"\\u03ba\\u03b1\\u03c4\\u03b1\\u03c3\\u03c4\\u03b5\\u03bd\\u03b1\\u03b6\\u03cc\\u03bd\\u03c4\\u03c9\\u03bd\"},\"choices\":[\"XMP.GPM\",\"PAP.GPM\",\"PAP.GPN\",\"PAD.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 569,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03c5\\u03bd++\\u03c4\\u03af\\u03b8\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u03c3\\u03c5\\u03bd\\u03b8\\u03ad\\u03bc\\u03b5\\u03bd\\u03bf\\u03b9\"},\"choices\":[\"XMP.NPM\",\"AMP.NPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 570,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b4\\u03b9\\u03b1++\\u1fe5\\u03ae\\u03b3\\u03bd\\u03c5\\u03bc\\u03b9\",\"form\":\"\\u03b4\\u03b9\\u03b5\\u03c1\\u03c1\\u03b7\\u03c7\\u03cc\\u03c4\\u03b5\\u03c2\"},\"choices\":[\"XMP.NPM\",\"XAP.NPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 571,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c4\\u03b5\\u03ba\\u03c4\\u03b1\\u03af\\u03bd\\u03c9\",\"form\":\"\\u03c4\\u03b5\\u03ba\\u03c4\\u03b1\\u03b9\\u03bd\\u03cc\\u03bc\\u03b5\\u03bd\\u03bf\\u03c2\"},\"choices\":[\"XMP.NSM\",\"PMP.NSM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 572,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03c5\\u03c1\\u03cc\\u03c9\",\"form\":\"\\u03c0\\u03b5\\u03c0\\u03c5\\u03c1\\u03c9\\u03bc\\u03ad\\u03bd\\u03bf\\u03bd\"},\"choices\":[\"XMP.NSM\",\"XMP.ASN\",\"XMP.NSN\",\"XMP.ASM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 573,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c6\\u03c5\\u03c4\\u03b5\\u03cd\\u03c9\",\"form\":\"\\u03c0\\u03b5\\u03c6\\u03c5\\u03c4\\u03b5\\u03c5\\u03bc\\u03ad\\u03bd\\u03bf\\u03bd\"},\"choices\":[\"XMP.NSM\",\"XMP.ASN\",\"XMP.NSN\",\"XMP.ASM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 574,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03bc\\u03b7\\u03c7\\u03b1\\u03bd\\u03ac\\u03bf\\u03bc\\u03b1\\u03b9\",\"form\":\"\\u03bc\\u03b5\\u03bc\\u03b7\\u03c7\\u03b1\\u03bd\\u03b5\\u03c5\\u03bc\\u03ad\\u03bd\\u03c9\\u03bd\"},\"choices\":[\"XMP.NSM\",\"XMP.GPF\",\"XMP.GPM\",\"XMP.GPN\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 575,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b2\\u03b4\\u03b5\\u03bb\\u03cd\\u03c3\\u03c3\\u03c9\",\"form\":\"\\u1f10\\u03b2\\u03b4\\u03b5\\u03bb\\u03c5\\u03b3\\u03bc\\u03ad\\u03bd\\u03bf\\u03b9\"},\"choices\":[\"XMP.NSM\",\"XMP.NPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 576,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c3\\u03c6\\u03c1\\u03b1\\u03b3\\u03af\\u03b6\\u03c9\",\"form\":\"\\u1f10\\u03c3\\u03c6\\u03c1\\u03b1\\u03b3\\u03b9\\u03c3\\u03bc\\u03ad\\u03bd\\u03b7\"},\"choices\":[\"XMP.NSM\",\"XMP.NSF\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 577,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03b3\\u03b1\\u03c0\\u03ac\\u03c9\",\"form\":\"\\u1f20\\u03b3\\u03b1\\u03c0\\u03b7\\u03bc\\u03ad\\u03bd\\u03b5\"},\"choices\":[\"XMP.VSF\",\"XMP.VSM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 578,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b6\\u03b7\\u03bb\\u03cc\\u03c9\",\"form\":\"\\u1f10\\u03b6\\u03ae\\u03bb\\u03c9\\u03ba\\u03b1\"},\"choices\":[\"YAI.1S\",\"XAI.1S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 579,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03b5\\u1f50\\u03bb\\u03bf\\u03b3\\u03ad\\u03c9\",\"form\":\"\\u03b7\\u1f50\\u03bb\\u03cc\\u03b3\\u03b7\\u03ba\\u03b1\\u03c2\"},\"choices\":[\"YAI.2S\",\"XAI.2S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 580,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f35\\u03c3\\u03c4\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u03b5\\u1f31\\u03c3\\u03c4\\u03ae\\u03ba\\u03b5\\u03b9\"},\"choices\":[\"YAI.2S\",\"YAI.3S\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 581,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f35\\u03c3\\u03c4\\u03b7\\u03bc\\u03b9\",\"form\":\"\\u03b5\\u1f31\\u03c3\\u03c4\\u03ae\\u03ba\\u03b5\\u03b9\\u03c3\\u03b1\\u03bd\"},\"choices\":[\"YAI.3S\",\"YAI.3P\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 582,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1fe5\\u03af\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u1f10\\u03c1\\u03c1\\u03b9\\u03bc\\u03bc\\u03ad\\u03bd\\u03bf\\u03bd\"},\"choices\":[\"YMP.ASN\",\"XMP.ASN\",\"XMP.NSN\",\"XMP.ASM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 583,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03ba\\u03b1\\u03c4\\u03b1++\\u03c3\\u03ba\\u03ac\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u03ba\\u03b1\\u03c4\\u03b5\\u03c3\\u03ba\\u03b1\\u03bc\\u03bc\\u03ad\\u03bd\\u03bf\\u03bd\"},\"choices\":[\"YMP.ASN\",\"XMP.ASN\",\"XMP.NSN\",\"XMP.ASM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 584,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1f00\\u03c4\\u03b9\\u03bc\\u03cc\\u03c9\",\"form\":\"\\u1f20\\u03c4\\u03b9\\u03bc\\u03c9\\u03bc\\u03ad\\u03bd\\u03bf\\u03b9\"},\"choices\":[\"YMP.NPM\",\"XMP.NPM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 585,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u03c0\\u03b5\\u03c1\\u03b9++\\u03b6\\u03ce\\u03bd\\u03bd\\u03c5\\u03bc\\u03b9\",\"form\":\"\\u03c0\\u03b5\\u03c1\\u03b9\\u03b5\\u03b6\\u03c9\\u03c3\\u03bc\\u03ad\\u03bd\\u03bf\\u03c2\"},\"choices\":[\"YMP.NSM\",\"XMP.NSM\"]}"
+    }
+},
+{
+    "model": "oxlos.item",
+    "pk": 586,
+    "fields": {
+        "task": 1,
+        "data": "{\"question\":{\"lemma\":\"\\u1fe5\\u03af\\u03c0\\u03c4\\u03c9\",\"form\":\"\\u1f10\\u03c1\\u03c1\\u03b9\\u03bc\\u03bc\\u03ad\\u03bd\\u03bf\\u03bd\"},\"choices\":[\"YMP.NSN\",\"XMP.ASN\",\"XMP.NSN\",\"XMP.ASM\"]}"
+    }
+}
+]
