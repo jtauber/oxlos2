@@ -14,7 +14,7 @@
     {% if item %}
     <div class="row">
         <div class="col-md-8">
-            <form method="post" action=".">
+            <form method="post" action="." class="item-choice">
                 {% csrf_token %}
                 <div class="choices">
                     {% for choice in item.choices %}
