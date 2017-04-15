@@ -1,0 +1,21 @@
+{% extends "site_base.html" %}
+
+{% block head_title_base %}οχλος{% endblock %}
+
+{% block body_class %}staff item-results{% endblock %}
+
+{% block body %}
+  <h1>Item Results</h1>
+  <h2>{{ item.task }}</h2>
+  <div class="lead">
+      {{ item.question|safe }}
+  </div>
+  <table class="table">
+      <thead><tr><th>User</th><th>Date</th><th>Answer</th></tr></thead>
+      <tbody>
+        {% for response in item.itemresponse_set.all %}
+        <tr><td><a href="{% url "admin_user_results" response.user.pk %}">{{ response.user }}</a></td><td>{{ response.created_at }}</td><td>{{ response.answer }}</td></tr>
+        {% endfor %}
+      </tbody>
+  </table>
+{% endblock %}

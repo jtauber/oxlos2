@@ -1,0 +1,18 @@
+{% extends "site_base.html" %}
+
+{% block head_title_base %}οχλος{% endblock %}
+
+{% block body_class %}staff task-results{% endblock %}
+
+{% block body %}
+  <h1>Task Results</h1>
+  <h2>{{ task }}</h2>
+  <table class="table">
+      <thead><tr><th>Question</th><th>Responses</th><th>Counts</th></tr></thead>
+      <tbody>
+        {% for item in task.item_set.all %}
+        <tr><td><a href="{% url "admin_item_results" item.pk %}">{{ item.question|safe }}</a></td><td>{{ item.itemresponse_set.count }}</td><td>{% for answer, count in item.answers.items %}{{ answer }}: {{ count }}{% if forloop.last %}{% else %}, {% endif %}{% endfor %}</td></tr>
+        {% endfor %}
+      </tbody>
+  </table>
+{% endblock %}

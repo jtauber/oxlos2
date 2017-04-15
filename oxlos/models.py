@@ -1,3 +1,5 @@
+from collections import defaultdict
+
 from django.db import models
 from django.utils import timezone
 
@@ -91,6 +93,14 @@ class Item(models.Model):
             user=by,
             answer="|".join(answers)
         )
+
+    def answers(self):
+        _answers = defaultdict(lambda: 0)
+        for response in self.itemresponse_set.all():
+            answer_list = response.answer.split("|")
+            for ans in answer_list:
+                _answers[ans] += 1
+        return dict(_answers)
 
 
 class ItemResponse(models.Model):

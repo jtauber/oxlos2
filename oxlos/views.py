@@ -3,6 +3,7 @@ from django.core.urlresolvers import reverse
 from django.shortcuts import redirect, render, get_object_or_404
 
 from django.contrib.auth.models import User
+from django.contrib.admin.views.decorators import staff_member_required
 
 from account.decorators import login_required
 
@@ -94,3 +95,37 @@ def item_random(request, pk):
         "item": next_item,
         "is_member": task.project.team.is_member(request.user)
     })
+
+
+@staff_member_required
+@login_required
+def admin_task_results(request, pk):
+    """
+    site admins can see a task results page which lists the items in a table
+    with stats about how many responses have been given and which answer is
+    winning
+    """
+    task = get_object_or_404(Task, pk=pk)
+    return render(request, "staff_results_task.html", {"task": task})
+
+
+@staff_member_required
+@login_required
+def admin_item_results(request, pk):
+    """
+    site admins can see an item results page which shows exactly who said which
+    choice and when
+    """
+    item = get_object_or_404(Item, pk=pk)
+    return render(request, "staff_results_item.html", {"item": item})
+
+
+@staff_member_required
+@login_required
+def admin_user_results(request, pk):
+    """
+    site admins can see a user page which shows exactly what that person said
+    for which item and when
+    """
+    user = get_object_or_404(User, pk=pk)
+    return render(request, "staff_results_user.html", {"page_user": user})

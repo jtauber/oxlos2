@@ -1,0 +1,19 @@
+{% extends "site_base.html" %}
+
+{% block head_title_base %}οχλος{% endblock %}
+
+{% block body_class %}staff user-results{% endblock %}
+
+{% block body %}
+  <h1>User Results</h1>
+  <h2>{{ page_user }}</h2>
+
+  <table class="table">
+      <thead><tr><th>Question</th><th>Date</th><th>Answer</th></tr></thead>
+      <tbody>
+        {% for response in page_user.itemresponse_set.all %}
+        <tr><td><a href="{% url "admin_item_results" response.item.pk %}">{{ response.item.question|safe }}</a></td><td>{{ response.created_at }}</td><td>{{ response.answer }}</td></tr>
+        {% endfor %}
+      </tbody>
+  </table>
+{% endblock %}
