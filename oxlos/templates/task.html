@@ -18,7 +18,7 @@
     </div>
     <div class="col-md-4">
       {% if is_member %}
-        <a class="btn btn-primary btn-lg" href="{% url 'item_random' task.pk %}">Work on this task</a>
+        <a class="btn btn-primary btn-block btn-lg" href="{% url 'item_random' task.pk %}">Work on this task</a>
       {% else %}
         <p>Join the <strong>{{ task.project }}</strong> project if you'd like to participate in this task.</p>
         <form method="post" action="{% url 'join_project' task.project.pk %}?next={{ request.path }}">
