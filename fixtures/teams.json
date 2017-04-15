@@ -1,0 +1,18 @@
+[
+{
+    "model": "pinax_teams.simpleteam",
+    "pk": 1,
+    "fields": {
+        "member_access": "open",
+        "manager_access": "add someone"
+    }
+},
+{
+    "model": "pinax_teams.simpleteam",
+    "pk": 2,
+    "fields": {
+        "member_access": "open",
+        "manager_access": "add someone"
+    }
+}
+]
