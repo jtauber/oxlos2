@@ -1,6 +1,9 @@
+from datetime import timedelta
+
 from django.db.models import Count
 from django.core.urlresolvers import reverse
 from django.shortcuts import redirect, render, get_object_or_404
+from django.utils import timezone
 
 from django.contrib.auth.models import User
 from django.contrib.admin.views.decorators import staff_member_required
@@ -24,8 +27,14 @@ def dashboard(request):
 @login_required
 def project(request, pk):
     project = get_object_or_404(Project, pk=pk)
+    seven_days_ago = timezone.now() - timedelta(days=7)
+    count_last_week = {
+        i["user"]: i["total"]
+        for i in
+        ItemResponse.objects.filter(created_at__gte=seven_days_ago, item__task__project=project).values("user").annotate(total=Count("user"))
+    }
     leaders = [
-        {"user": User.objects.get(pk=i["user"]), "count": i["total"]}
+        {"user": User.objects.get(pk=i["user"]), "count": i["total"], "trailing_7_days": count_last_week.get(i["user"])}
         for i in
         ItemResponse.objects.filter(item__task__project=project).values("user").annotate(total=Count("user")).order_by("-total")
     ]
@@ -46,8 +55,14 @@ def join_project(request, pk):
 @login_required
 def task(request, pk):
     task = get_object_or_404(Task, pk=pk)
+    seven_days_ago = timezone.now() - timedelta(days=7)
+    count_last_week = {
+        i["user"]: i["total"]
+        for i in
+        ItemResponse.objects.filter(created_at__gte=seven_days_ago, item__task=task).values("user").annotate(total=Count("user"))
+    }
     leaders = [
-        {"user": User.objects.get(pk=i["user"]), "count": i["total"]}
+        {"user": User.objects.get(pk=i["user"]), "count": i["total"], "trailing_7_days": count_last_week.get(i["user"])}
         for i in
         ItemResponse.objects.filter(item__task=task).values("user").annotate(total=Count("user")).order_by("-total")
     ]

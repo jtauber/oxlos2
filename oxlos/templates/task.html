@@ -40,6 +40,9 @@
               {% for leader in leaders %}
                 <div class="list-group-item">
                     <span class="badge">{{ leader.count }}</span>
+                    {% if leader.trailing_7_days %}
+                      <span class="last7">+{{ leader.trailing_7_days }}</span>
+                    {% endif %}
                     {{ leader.user }}
                 </div>
               {% endfor %}
