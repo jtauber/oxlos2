@@ -1,69 +1,51 @@
 <html>
-    <head>
-    </head>
-    <body style="font-family: 'Open Sans', sans-serif;margin: 20px auto; width: 600px;">
-        {% for project in projects %}
-            <div style="">
-                <h2 style="">{{ project.name }}</h2>
-                {% for task in project.tasks.all %}
-                    <div style="">
-                        <h3 style="">{{ task.name }}</h3>
-                        <div class="stats">
-                            There are <strong>{{ task.items_count }}</strong> item{{ task.items_count|pluralize }} in this task.
-
-                            In total, <strong>{{ task.participant_count }}</strong> {{ task.participant_count|pluralize:"person,people" }} {{ task.participant_count|pluralize:"has,have" }} participated in this task so far,
-                            answering <strong>{{ task.total_questions_answered }}</strong> question{{ task.total_questions_answered|pluralize }}
-                            covering a total of <strong>{{ task.distinct_items_answers }}</strong> item{{ task.distinct_items_answers|pluralize }}.
-                        </div>
-                        <div style="margin-top: 20px; margin-bottom: 20px; background-color: #fff;border: 1px solid #ddd;border-radius: 4px;-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05)">
-                            <div style="color: #333333;
-    background-color: #f5f5f5;
-    border-color: #ddd;    padding: 10px 15px;
-    border-bottom: 1px solid transparent;
-    border-top-right-radius: 3px;
-    border-top-left-radius: 3px;">
-                                <h3 style="margin-top: 0;
-    margin-bottom: 0;
-    font-size: 16px;
-    color: inherit;">Leaderboard</h3>
-                            </div>
-                            <div style="margin-bottom: 0;padding-left: 0;">
-                                {% for leader in task.leaders %}
-                                    <div style="{% if forloop.counter0 == 0 %}border-top-width: 0;{% endif %}border-width: 1px 0;
-    border-radius: 0;    position: relative;
-    display: block;
-    padding: 10px 15px;
-    margin-bottom: -1px;
-    background-color: #fff;
-    border: 1px solid #ddd;">
-                                        <span style="float: right;display: inline-block;
-    min-width: 10px;
-    padding: 3px 7px;
-    font-size: 12px;
-    font-weight: bold;
-    color: #fff;
-    line-height: 1;
-    vertical-align: middle;
-    white-space: nowrap;
-    text-align: center;
-    background-color: #777777;
-    border-radius: 10px;
-    {% if forloop.counter0 == 0 %}background: #FFD700;{% endif %}
-    {% if forloop.counter0 == 1 %}background: #A8A8A8;{% endif %}
-    {% if forloop.counter0 == 2 %}background: #C67A58;{% endif %}">{{ leader.count }}</span>
-                                        {% if leader.trailing_7_days %}
-                                          <span style="float: right;
-    margin-right: 1em;
-    color: #396;">+{{ leader.trailing_7_days }}</span>
-                                        {% endif %}
-                                        {{ leader.user }}
-                                    </div>
-                                {% endfor %}
-                            </div>
-                        </div>
+  <body style="font-family: 'Open Sans', sans-serif; margin: 20px auto; max-width: 600px;">
+    <div style="margin: 20px;">
+      <h1 style="color: #396;">οχλος update</h1>
+      <p>
+        Here's a weekly update on the projects and tasks at <b>οχλος</b> with
+        contributor leaderboards.
+      </p>
+      <p>
+        If you have your own collective intelligence tasks you'd like run or
+        have any feedback on how to improve the site, please let me know.
+      </p>
+      <p style="font-style: italic;">
+        James Tauber<br>
+        jtauber@jtauber.com
+      </p>
+      {% for project in projects %}
+        <div style="margin-top: 60px;">
+          <h2 style="color: #396;">{{ project.name }}</h2>
+          {% for task in project.tasks.all %}
+            <div style="margin-top: 30px;">
+              <h3 style="color: #396;">{{ task.name }}</h3>
+              <p>
+                There are <strong>{{ task.items_count }}</strong> item{{ task.items_count|pluralize }} in this task.
+                In total, <strong>{{ task.participant_count }}</strong> {{ task.participant_count|pluralize:"person,people" }} {{ task.participant_count|pluralize:"has,have" }} participated in this task so far,
+                answering <strong>{{ task.total_questions_answered }}</strong> question{{ task.total_questions_answered|pluralize }}
+                covering a total of <strong>{{ task.distinct_items_answers }}</strong> item{{ task.distinct_items_answers|pluralize }}.
+              </p>
+              <div style="width: 300px; margin-top: 20px; margin-bottom: 20px; background-color: #fff; border: 1px solid #ddd; border-radius: 4px; -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05); box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);">
+                <div style="color: #333333; background-color: #f5f5f5; border-color: #ddd; padding: 10px 15px; border-bottom: 1px solid transparent; border-top-right-radius: 3px; border-top-left-radius: 3px;">
+                  <h3 style="margin-top: 0; margin-bottom: 0; font-size: 16px; color: inherit;">Leaderboard</h3>
+                </div>
+                <div style="margin-bottom: 0;padding-left: 0;">
+                  {% for leader in task.leaders %}
+                    <div style="{% if forloop.first %}border-top-width: 0; {% endif %}border-width: 1px 0; border-radius: 0; position: relative; display: block; font-size: 14px; padding: 10px 15px; margin-bottom: -1px; background-color: #fff; border-color: #ddd; border-style: solid;{% if forloop.last %} border-bottom-right-radius: 3px; border-bottom-left-radius: 3px;{% endif %}">
+                      <span style="float: right;display: inline-block; min-width: 10px; padding: 3px 7px; font-size: 12px; font-weight: bold; color: #fff; line-height: 1; vertical-align: middle; white-space: nowrap; text-align: center; background-color: #777777; border-radius: 10px;{% if forloop.counter0 == 0 %} background: #FFD700;{% endif %}{% if forloop.counter0 == 1 %} background: #A8A8A8;{% endif %}{% if forloop.counter0 == 2 %} background: #C67A58;{% endif %}">{{ leader.count }}</span>
+                      {% if leader.trailing_7_days %}
+                        <span style="float: right; margin-right: 1em; color: #396;">+{{ leader.trailing_7_days }}</span>
+                      {% endif %}
+                      {{ leader.user }}
                     </div>
-                {% endfor %}
+                  {% endfor %}
+                </div>
+              </div>
             </div>
-        {% endfor %}
-    </body>
+          {% endfor %}
+        </div>
+      {% endfor %}
+    </div>
+  </body>
 </html>
