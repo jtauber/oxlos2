@@ -14,7 +14,8 @@ from .views import (
     join_project,
     admin_task_results,
     admin_item_results,
-    admin_user_results
+    admin_user_results,
+    newsletter
 )
 
 urlpatterns = [
@@ -32,6 +33,8 @@ urlpatterns = [
     url(r"^staff/tasks/(?P<pk>\d+)/$", admin_task_results, name="admin_task_results"),
     url(r"^staff/items/(?P<pk>\d+)/$", admin_item_results, name="admin_item_results"),
     url(r"^staff/users/(?P<pk>\d+)/$", admin_user_results, name="admin_user_results"),
+
+    url(r"^newsletter/$", newsletter, name="newsletter")
 ]
 
 urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

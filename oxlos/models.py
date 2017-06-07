@@ -1,6 +1,8 @@
+from datetime import timedelta
 from collections import defaultdict
 
 from django.db import models
+from django.db.models import Count
 from django.utils import timezone
 
 from django.contrib.auth.models import User
@@ -41,6 +43,20 @@ class Task(models.Model):
 
     def __str__(self):
         return self.name
+
+    def leaders(self):
+        seven_days_ago = timezone.now() - timedelta(days=7)
+        count_last_week = {
+            i["user"]: i["total"]
+            for i in
+            ItemResponse.objects.filter(created_at__gte=seven_days_ago, item__task=self).values("user").annotate(total=Count("user"))
+        }
+        leaders = [
+            {"user": User.objects.get(pk=i["user"]), "count": i["total"], "trailing_7_days": count_last_week.get(i["user"])}
+            for i in
+            ItemResponse.objects.filter(item__task=self).values("user").annotate(total=Count("user")).order_by("-total")
+        ]
+        return leaders
 
     def next_item(self, user):
         return self.item_set.exclude(itemresponse__user=user).order_by("?").first()

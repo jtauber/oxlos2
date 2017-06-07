@@ -55,17 +55,6 @@ def join_project(request, pk):
 @login_required
 def task(request, pk):
     task = get_object_or_404(Task, pk=pk)
-    seven_days_ago = timezone.now() - timedelta(days=7)
-    count_last_week = {
-        i["user"]: i["total"]
-        for i in
-        ItemResponse.objects.filter(created_at__gte=seven_days_ago, item__task=task).values("user").annotate(total=Count("user"))
-    }
-    leaders = [
-        {"user": User.objects.get(pk=i["user"]), "count": i["total"], "trailing_7_days": count_last_week.get(i["user"])}
-        for i in
-        ItemResponse.objects.filter(item__task=task).values("user").annotate(total=Count("user")).order_by("-total")
-    ]
     return render(request, "task.html", {
         "task": task,
         "items_count": task.items_count(),
@@ -73,7 +62,7 @@ def task(request, pk):
         "participant_count": task.participant_count(),
         "total_questions_answered": task.total_questions_answered(),
         "distinct_items_answers": task.distinct_items_answers(),
-        "leaders": leaders,
+        "leaders": task.leaders(),
         "is_member": task.project.team.is_member(request.user)
     })
 
@@ -150,3 +139,10 @@ def admin_user_results(request, pk):
     """
     user = get_object_or_404(User, pk=pk)
     return render(request, "staff_results_user.html", {"page_user": user})
+
+
+def newsletter(request):
+    ctx = {
+        "projects": Project.objects.all()
+    }
+    return render(request, "email/newsletter.html", ctx)
