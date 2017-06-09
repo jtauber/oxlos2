@@ -6,6 +6,8 @@ from account.signals import user_login_attempt, user_logged_in
 
 from pinax.eventlog.models import log
 
+from .newsletter.models import NewsletterSetting
+
 
 @receiver(user_logged_in)
 def handle_user_logged_in(sender, **kwargs):
@@ -52,8 +54,10 @@ def handle_user_sign_up_attempt(sender, **kwargs):
 
 @receiver(user_signed_up)
 def handle_user_signed_up(sender, **kwargs):
+    user = kwargs.get("user")
     log(
-        user=kwargs.get("user"),
+        user=user,
         action="USER_SIGNED_UP",
         extra={}
     )
+    NewsletterSetting.objects.get_or_create(user=user)

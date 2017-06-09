@@ -145,6 +145,7 @@ INSTALLED_APPS = [
 
     # project
     "oxlos",
+    "oxlos.newsletter",
 ]
 
 PINAX_WEBANALYTICS_SETTINGS = {
