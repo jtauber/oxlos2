@@ -5,7 +5,7 @@ pinax-eventlog==1.1.2
 Django==1.11.2
 pinax-theme-bootstrap==8.0.1
 
-pinax-teams==0.12.2
+pinax-teams==0.13.0
 reversion==0.2
 Markdown==2.6.8
 
