@@ -1,0 +1,32 @@
+οχλος update
+
+Here's a weekly update on the projects and tasks at οχλος with
+contributor leaderboards.
+
+If you have your own collective intelligence tasks you'd like
+run or have any feedback on how to improve the site, please let
+me know.
+
+James Tauber<br>
+jtauber@jtauber.com
+
+http://oxlos.org
+
+{% for project in projects %}
+
+
+{{ project.name }}
+{% for task in project.tasks.all %}
+
+{{ task.name }}
+
+There are {{ task.items_count }} item{{ task.items_count|pluralize }} in this task.
+In total, {{ task.participant_count }} {{ task.participant_count|pluralize:"person,people" }} {{ task.participant_count|pluralize:"has,have" }} participated in this task so far,
+answering {{ task.total_questions_answered }} question{{ task.total_questions_answered|pluralize }} covering a total of {{ task.distinct_items_answers }} item{{ task.distinct_items_answers|pluralize }}.
+
+Leaderboard
+{% for leader in task.leaders %}
+{{ leader.user }}: ({{ leader.count }}){% if leader.trailing_7_days %} +{{ leader.trailing_7_days }}{% endif %}{% endfor %}
+
+{% endfor %}
+{% endfor %}
