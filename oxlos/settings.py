@@ -107,6 +107,7 @@ TEMPLATES = [
 ]
 
 MIDDLEWARE = [
+    "django.middleware.security.SecurityMiddleware",
     "django.contrib.sessions.middleware.SessionMiddleware",
     "whitenoise.middleware.WhiteNoiseMiddleware",
     "django.middleware.common.CommonMiddleware",
@@ -214,3 +215,6 @@ AUTHENTICATION_BACKENDS = [
 
 THEME_CONTACT_EMAIL = "jtauber@jtauber.com"
 DEFAULT_FROM_EMAIL = "jtauber@jtauber.com"
+
+SECURE_PROXY_SSL_HEADER = ("HTTP_X_FORWARDED_PROTO", "https")
+SECURE_SSL_REDIRECT = True
