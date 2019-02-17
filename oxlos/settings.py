@@ -16,7 +16,7 @@ DATABASES = {
 ALLOWED_HOSTS = [
     "localhost",
     "oxlos.org",
-    os.environ.get("GONDOR_INSTANCE_DOMAIN")
+    ".herokuapp.com",
 ]
 
 # Local time zone for this installation. Choices can be found here:
