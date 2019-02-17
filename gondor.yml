@@ -1,7 +1,0 @@
-site: jtauber/oxlos2
-branches:
-  master: primary
-deploy:
-  services:
-  - web
-buildpack: https://github.com/heroku/heroku-buildpack-multi.git
